@@ -1,0 +1,105 @@
+# Data for the initial cursive alphabet table.
+# Expecting images to be stored in assets/manual/${string}.png with case preserved.
+#
+# Schema: Array<{letter: string, examples: string[]}>
+-
+  letter: A
+  examples:
+  - ab
+  - act
+-
+  letter: B
+  examples:
+  - bad
+-
+  letter: C
+  examples:
+  - cabby
+-
+  letter: D
+  examples:
+  - adder
+-
+  letter: E
+  examples:
+  - fed
+-
+  letter: F
+  examples:
+  - left
+-
+  letter: G
+  examples:
+  - get
+-
+  letter: H
+  examples:
+  - hit
+-
+  letter: I
+  examples:
+  - city
+-
+  letter: J
+  examples:
+  - jug
+-
+  letter: K
+  examples:
+  - luck
+-
+  letter: L
+  examples:
+  - like
+-
+  letter: M
+  examples:
+  - melt
+-
+  letter: N
+  examples:
+  - know
+-
+  letter: O
+  examples:
+  - proof
+-
+  letter: Qu
+  examples:
+  - query
+-
+  letter: R
+  examples:
+  - robber
+-
+  letter: S
+  examples:
+  - sort
+-
+  letter: T
+  examples:
+  - trust
+-
+  letter: U
+  examples:
+  - upper
+-
+  letter: V
+  examples:
+  - wavy
+-
+  letter: W
+  examples:
+  - wow
+-
+  letter: X
+  examples:
+  - exit
+-
+  letter: Y
+  examples:
+  - eyes
+-
+  letter: Z
+  examples:
+  - size

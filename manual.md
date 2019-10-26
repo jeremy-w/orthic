@@ -33,6 +33,35 @@ The system is strictly alphabetic. A letter is always represented by its alphabe
 In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will the be able to read through the specimen [of the fully-written style], in which every word is spelt in full.
 
 ## The Cursive Alphabet
+<table>
+<thead>
+    <tr>
+        <th>Letter</th>
+        <th>Example</th>
+    </tr>
+</thead>
+<tbody>
+{% for row in site.data.manual.alphabet %}
+<tr>
+    <!-- TODO: add image files -->
+    <td>{{ row.letter }}</td>
+    <td>{{ row.examples | join: ", " }}
+</tr>
+{% endfor %}
+</tbody
+<tfoot>
+<tr>
+    <td colspan="2">
+    The arrows show the directions in which the characters are written.
+    </td>
+</tr>
+</tfoot>
+</table>
+
+### Doubled Letters
+Doubled letters are shown, **not** by repeating the character, but by putting a dot below; thus, **odd**, **too.**
+
+**Exception:** **ee**; thus, **sleep**, cp. **sup**.
 
 ## General Rules
 ### Orthographic Spelling
