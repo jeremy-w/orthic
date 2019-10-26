@@ -33,9 +33,9 @@ The system is strictly alphabetic. A letter is always represented by its alphabe
 In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will the be able to read through the specimen [of the fully-written style], in which every word is spelt in full.
 
 ## The Cursive Alphabet
-{%- capture assets -%}
+{% capture assets -%}
 {{ site.baseurl }}/assets/manual
-{%- endcapture -%}
+{%- endcapture %}
 
 <table>
 <thead>
