@@ -27,6 +27,7 @@ baseurl: "/orthic" # the subpath of your site, e.g. /blog
 url: "https://jeremy-w.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeremywsherman
 github_username:  jeremy-w
+permalink: "/:title"
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
