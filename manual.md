@@ -45,10 +45,10 @@ In learning the system the student should work straight through the alphabet and
 <tr>
     <!-- TODO: add image files -->
     <td>{{ row.letter }}</td>
-    <td>{{ row.examples | join: ", " }}
+    <td>{{ row.examples | join: ", " }}</td>
 </tr>
 {% endfor %}
-</tbody
+</tbody>
 <tfoot>
 <tr>
     <td colspan="2">
