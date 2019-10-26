@@ -29,7 +29,7 @@ twitter_username: jeremywsherman
 github_username:  jeremy-w
 
 # Build settings
-remote-theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
