@@ -1,0 +1,2 @@
+# orthic
+Orthic shorthand resources
