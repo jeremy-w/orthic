@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Write Orthic Shorthand
+title: Orthic Shorthand
 tagline: Light letters, simple shortcuts
 email: me@jeremywsherman.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,6 +32,10 @@ github_username:  jeremy-w
 remote-theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
