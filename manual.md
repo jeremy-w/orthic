@@ -36,6 +36,7 @@ In learning the system the student should work straight through the alphabet and
 {%- capture assets -%}
 {{ site.baseurl }}/assets/manual
 {%- endcapture -%}
+
 <table>
 <thead>
     <tr>
