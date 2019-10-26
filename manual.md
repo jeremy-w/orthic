@@ -20,7 +20,7 @@ Two and a half years' experience in teaching Cursive has convinced me that the d
 
 I have every reason to believe that the present adaptation of Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
 
-With the exception that the method of spelling adopted is orthographic instead of phonetic, no changes has been made in the fundamental principles of the system. These have been already discussed and explained in the introduction to the _Manual of Cursive Shorthand._ It is needless therefore to repeat them here.
+With the exception that the method of spelling adopted is orthographic instead of phonetic, no changes has been made in the fundamental principles of the system. These have been already discussed and explained in the introduction to the _[Manual of Cursive Shorthand](https://archive.org/details/manualofcursives00calliala)._ It is needless therefore to repeat them here.
 
 The characters of the alphabet are for the most part the same as in Phonetic Cursive; but the change of spelling has made it necessary to rearrange some of them.
 
