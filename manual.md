@@ -75,7 +75,7 @@ All words, when written in full, are spelt according to the common orthography. 
 ### Diphthongs
 When two vowels come together forming a 'diphthong', the angle between them is slurred or rounded off into a continuous curve; thus, ![]({{ assets }}/ai_angled.png) **ai** = ![]({{ assets }}/ai.png), ![]({{ assets }}/oy_angled.png) **oy** = ![]({{ assets }}/oy.png), ![]({{ assets }}/ou_angled.png) **ou** = ![]({{ assets }}/ou.png), ![]({{ assets }}/eau_angled.png) **eau** = ![]({{ assets }}/eau.png).
 
-When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words {% capture words %}{{ 're-enter Oölite Deä create Leo fiasco serious fuel poem' | split: ' ' }}{% endcapture %}{% for word in words -%}
+When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words {% assign words = 're-enter Oölite Deä create Leo fiasco serious fuel poem' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
@@ -88,7 +88,7 @@ The two sizes of character must be carefully distinguished, just as 'C' and 'c',
 </figure>
 
 ### Dividing a Word
-A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words. {% capture words %}{{ 'lawsuit Woolwich virgin' | split: ' ' }}{% endcapture %}{% for word in words -%}
+A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words. {% assign words = 'lawsuit Woolwich virgin' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
@@ -96,7 +96,7 @@ A word may always be divided if it happens to be convenient. The necessity for t
 Punctuation is effected in the usual way, except the Hyphen <img src="{{ assets }}/Hyphen.png" />, and the Dash <img src="{{ assets }}/Dash.png" />. [Jeremy: They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though").]
 
 ### Initial Capitals
-Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalMark.png" />. {% capture words %}{{ 'Jack Clay S.E. L.S.W.R.' | split: ' ' }}{% endcapture %}{% for word in words -%}
+Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}
 
@@ -123,27 +123,27 @@ In the reporting style two new methods are introduced, namely 'expression by mod
 ### Abbreviations
 The following methods of abbreviation are used in correspondence and in ordinary writing.
 
-a. The vowels **a** and **o** are omitted before **m** and **n**, except initially and in rare words; thus, {% capture words %}{{ 'can or con,al(o)ne,w(o)m(a)n' | split: ',' }}{% endcapture %}{% for word in words -%}
+a. The vowels **a** and **o** are omitted before **m** and **n**, except initially and in rare words; thus, {% assign words = 'can or con,al(o)ne,w(o)m(a)n' | split: ',' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor -%}. An omission of this kind can always be corrected, if desired, by writing the omitted character above; thus, {% capture words %}{{ 'band bond' | split: ' ' }}{% endcapture %}{% for word in words -%}
+{%- endfor -%}. An omission of this kind can always be corrected, if desired, by writing the omitted character above; thus, {% assign words = 'band bond' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 b. **Dots** are generally omitted in common words such as it, in, is, if, him, his, will. [Jeremy: Sic, without examples of the outlines in Orthic. Note this method includes omitting both dots above the letter i and dots below doubled letters. Both omissions are used in writing "will."]
-c. Initial **Th** is omitted in all common words. The omission is shown by writing the rest of the word above the line; thus, {% capture words %}{{ 'the they this them tho’ that' | split: ' ' }}{% endcapture %}{% for word in words -%}
+c. Initial **Th** is omitted in all common words. The omission is shown by writing the rest of the word above the line; thus, {% assign words = 'the they this them tho’ that' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}. **Exception:** The character **a** <img src="{{ assets }}/a_raised.png" /> written above the line stands for the word **and.**
-d. In adding inflections to words ending in **y,** the **y** is not changed to **i** or **ie**; thus, {% capture words %}{{ 'applyd trys easyst happyr' | split: ' ' }}{% endcapture %}{% for word in words -%}
+d. In adding inflections to words ending in **y,** the **y** is not changed to **i** or **ie**; thus, {% assign words = 'applyd trys easyst happyr' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 e. Some common terminations are abbreviated as shown in the following list: [TODO: List. Same issue as with all the joining rules, but in miniature.]
 
 ### The General Method
-The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% capture words %}{{ 'DIFferenT DIFferenCE acknowledge ESPecialLY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' }}{% endcapture %}{% for word in words -%}
+The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% assign words = 'DIFferenT DIFferenCE acknowledge ESPecialLY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}. In many cases the termination may be joined, as in the last three examples.
 
 ### Phrases
-Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [following]: ex.&nbsp;gr. {% capture words %}{{ 'able to do,as it is,I am not,I have had,I shall be very,to be,ought to have been,with a view to' | split: ',' }}{% endcapture %}{% for word in words -%}
+Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [following]: ex.&nbsp;gr. {% assign words = 'able to do,as it is,I am not,I have had,I shall be very,to be,ought to have been,with a view to' | split: ',' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
