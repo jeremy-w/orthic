@@ -96,7 +96,7 @@ A word may always be divided if it happens to be convenient. The necessity for t
 Punctuation is effected in the usual way, except the Hyphen <img src="{{ assets }}/Hyphen.png" />, and the Dash <img src="{{ assets }}/Dash.png" />. [Jeremy: They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though").]
 
 ### Initial Capitals
-Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
+Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
