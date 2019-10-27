@@ -98,10 +98,12 @@ Punctuation is effected in the usual way, except the Hyphen <img src="{{ assets 
 ### Initial Capitals
 Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor -%}
+{%- endfor %}
 
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
+
+[TODO: Lots of text. Unclear how best to render it.]
 
 ## Specimen of Fully-Written Style
 The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just ad it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
