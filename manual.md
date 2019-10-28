@@ -49,7 +49,7 @@ In learning the system the student should work straight through the alphabet and
 <tr>
     <td>{{ row.letter }}<img src="{{ assets }}/{{ row.letter }}.png" /></td>
     <td>{% for word in row.examples -%}
-    <img src="{{ assets }}/{{ word }}.png" /> {{ word }}{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;{{ word }}{% unless forloop.last %}, {% endunless %}
     {%- endfor %}</td>
 </tr>
 {% endfor %}
@@ -64,7 +64,7 @@ In learning the system the student should work straight through the alphabet and
 </table>
 
 ### Doubled Letters
-Doubled letters are shown, **not** by repeating the character, but by putting a dot below; thus, ![]({{ assets }}/odd.png) **odd**, ![]({{ assets }}/too.png) **too.**
+Doubled letters are shown, **not** by repeating the character, but by putting a dot below; thus, ![]({{ assets }}/odd.png)&nbsp;**odd**, ![]({{ assets }}/too.png)&nbsp;**too.**
 
 **Exception:** ![]({{ assets }}/EE.png) **ee**; thus, ![]({{ assets }}/sleep.png) **sleep**, cp. ![]({{ assets }}/sup.png) **sup**.
 
@@ -76,7 +76,7 @@ All words, when written in full, are spelt according to the common orthography. 
 When two vowels come together forming a 'diphthong', the angle between them is slurred or rounded off into a continuous curve; thus, ![]({{ assets }}/ai_angled.png) **ai** = ![]({{ assets }}/ai.png), ![]({{ assets }}/oy_angled.png) **oy** = ![]({{ assets }}/oy.png), ![]({{ assets }}/ou_angled.png) **ou** = ![]({{ assets }}/ou.png), ![]({{ assets }}/eau_angled.png) **eau** = ![]({{ assets }}/eau.png).
 
 When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words {% assign words = 're-enter Oölite Deä create Leo fiasco serious fuel poem' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 ### The Two Sizes of Character
@@ -89,21 +89,21 @@ The two sizes of character must be carefully distinguished, just as 'C' and 'c',
 
 ### Dividing a Word
 A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words. {% assign words = 'lawsuit Woolwich virgin' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 ### Punctuation
-Punctuation is effected in the usual way, except the Hyphen <img src="{{ assets }}/Hyphen.png" />, and the Dash <img src="{{ assets }}/Dash.png" />. [Jeremy: They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though").]
+Punctuation is effected in the usual way, except the Hyphen&nbsp;<img src="{{ assets }}/Hyphen.png" />, and the Dash&nbsp;<img src="{{ assets }}/Dash.png" />. [Jeremy: They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though").]
 
 ### Initial Capitals
 Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
 
-[TODO: Lots of text. Unclear how best to render it.]
+- **A**&nbsp;![]({{ assets }}/a.png) 
 
 ## Specimen of Fully-Written Style
 The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just ad it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
@@ -126,31 +126,31 @@ In the reporting style two new methods are introduced, namely 'expression by mod
 The following methods of abbreviation are used in correspondence and in ordinary writing.
 
 1. The vowels **a** and **o** are omitted before **m** and **n**, except initially and in rare words; thus, {% assign words = 'can or con,al(o)ne,w(o)m(a)n' | split: ',' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}. An omission of this kind can always be corrected, if desired, by writing the omitted character above; thus, {% assign words = 'band bond' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 2. **Dots** are generally omitted in common words such as it, in, is, if, him, his, will. [Jeremy: Sic, without examples of the outlines in Orthic. Note this method includes omitting both dots above the letter i and dots below doubled letters. Both omissions are used in writing "will."]
 
 3. Initial **Th** is omitted in all common words. The omission is shown by writing the rest of the word above the line; thus, {% assign words = 'the they this them tho’ that' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}. **Exception:** The character **a** <img src="{{ assets }}/a_raised.png" /> written above the line stands for the word **and.**
 
 4. In adding inflections to words ending in **y,** the **y** is not changed to **i** or **ie**; thus, {% assign words = 'applyd trys easyst happyr' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 5. Some common terminations are abbreviated as shown in the following list: [TODO: List. Same issue as with all the joining rules, but in miniature.]
 
 ### The General Method
 The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% assign words = 'DIFferenT DIFferenCE acknowledge ESPeciallY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}. In many cases the termination may be joined, as in the last three examples.
 
 ### Phrases
 Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [following]: ex.&nbsp;gr. {% assign words = 'able to do,as it is,I am not,I have had,I shall be very,to be,ought to have been,with a view to' | split: ',' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" /> **{{ word }}**{% unless forloop.last %}, {% endunless %}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
 ### Abbreviations for Common Words
