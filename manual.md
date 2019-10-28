@@ -211,7 +211,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 </figure>
 
 #### Key
-<p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif ; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.</p>
+<p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif&#8239;; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.</p>
 
 ### German
 #### Specimen
@@ -223,7 +223,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 #### Key
 <p lang="de">Die anziehende Kraft des geriebenen Bernsteins war bereits im Alterthume bekannt, jedoch ohne dass derselben weiter nachgeforscht wurde. Sie wurde gewöhnlich in Gemeinschaft mit der Anziehung des Magnetsteins gekannt, und von dieser nicht unterschieden. Die gleiche Eigenschaft wie beim Bernstein war später noch an einer bituminösen Steinkohle (Gagat) wahrgenommen worden.</p>
 
-<p lang="de">Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (_<span lang="grc">ἤλεκτρον</span>_) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u. s. w., nach dem Reiben…</p>
+<p lang="de">Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (_<span lang="grc">ἤλεκτρον</span>_) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u.&#8239;s.&#8239;w., nach dem Reiben…</p>
 
 ### Italian
 #### Specimen
