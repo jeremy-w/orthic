@@ -181,30 +181,80 @@ See the first section. :)
 
 It is time that this description of the England which Charles the Second governed should draw to a close. Yet one subject of the highest moment still remains untouched. Nothing has yet been said of the great body of the people, of those who held the ploughs, who tended the oxen, who toiled at the looms of Norwich, and squared the Portland stone for St Paul's. Nor can very much be said. The most numerous class is precisely the class respecting which we have the most meagre information. In those times philanthropists did not yet regard it a sacred duty, not had demagogues yet found it a lucrative trade, to talk and write about the distress of the labourer. History was too much occupied with the Courts and camps to spare a line for the hut of the peasant, or the garret of the mechanic. The press now often sends forth in a day a greater quantity of discussion and declamation about the condition of the working man than was published during the twenty-eight years which elapsed between the Restoration and the Revolution. But it would be a great error to infer from the increase of complaint that there has been any increase of misery.
 
-[TODO: Continue.]
+The great criterion of the state of the common people is the amount of wages; and as four-fifths of the common people were, in the seventeenth century, employed in agriculture, it is especially important to ascertain what were then the wages of the agricultural industry. On this subject we have the means of arriving at conclusions sufficiently exact for our purpose.
 
-### St John 11
+It seems clear that the wages of labour, estimated in money, were, in 1685, not more than half of what they now are; and there were few articles important to the working man of which the price was not, in 1685, more than half of what it now is. Beer was undoubtedly much cheaper in that age than at present. Meat was also cheaper, but was still so dear that hundreds of thousands of families scarcely knew the taste of it. In the cost of wheat there has been very little change. The average price of the quarter, during the last 12 years of Charles the Second, was fifty shillings. Bread, therefore, such as is now given to the inmates of a workhouse, was then seldom seen, even on the trencher of a yeoman or of a shopkeeper. The great majority of the nation lived entirely on rye, barley, and oats.
+
+The produce of tropical countries, of mines, and of machinery, was positively dearer than at present. Among the commodities for which the labourer would have had to pay dearer in 1685 than his posterity now pay, were sugar, salt, coals, candles, soap, shoes, stockings, and generally all articles of clothing and all articles of bedding. It may be added, that the old coats and blankets would have been, not only more costly, but less serviceable, than the modern fabrics.
+
+### St John II
+<figure>
+ <img src="{{ assets }}/OrdinaryStyleStJohnPage1.png" />
+ <figcaption>John 2:1–13, KJV.</figcaption>
+</figure>
+
+<figure>
+ <img src="{{ assets }}/OrdinaryStyleStJohnPage2.png" />
+ <figcaption>John 2:14–25, 3:1–2, KJV.</figcaption>
+</figure>
+
+[For the [Key to the John II passage](https://holybible.com/jhn.2.1), see any copy of the King James Version of the Bible.]
 
 ## Application to Foreign Languages
+Owing to the peculiar character of the vowel system and the facility with which the characters can be joined, the alphabet of Orthographic Cursive is immediately applicable with very slight modifications to almost all foreign languages. It is impossible here to work out the subject fully, but the following specimens will be of interest as shewing the capabilities of the system. They are written almost in full, containing only one or two trifling abbreviations, such as _-mt_ for _-ment,_ analogous to those used in the ordinary style of English.
+
 ### French
 #### Specimen
+<figure>
+ <img src="{{ assets }}/FrenchSpecimen.png" />
+ <figcaption>Specimen of French</figcaption>
+</figure>
+
 #### Key
+De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif ; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.
 
 ### German
 #### Specimen
+<figure>
+ <img src="{{ assets }}/GermanSpecimen.png" />
+ <figcaption>Specimen of German</figcaption>
+</figure>
+
 #### Key
+Die anziehende Kraft des geriebenen Bernsteins war bereits im Alterthume bekannt, jedoch ohne dass derselben weiter nachgeforscht wurde. Sie wurde gewöhnlich in Gemeinschaft mit der Anziehung des Magnetsteins gekannt, und von dieser nicht unterschiedem. Die gleiche Eigenschaft wie beim Bernstein war später noch an einer bituminösen Steinkohle (Gagat) wahrgenommen worden.
+
+Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (_ἤλεκτρον_) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u. s. w., nach dem Reiben…
 
 ### Italian
 #### Specimen
+<figure>
+ <img src="{{ assets }}/ItalianSpecimen.png" />
+ <figcaption>Specimen of Italian</figcaption>
+</figure>
+
 #### Key
+L'historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl'anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl'illustri Campioni che in tal Arringo fanno messe di Palme e d'Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co' loro inchiostri le Imprese de' Principi e Potentati, e qualificati Personaggi, e trapontando coll' ago finissimo dell' ingegno i fili d'oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —_I Promessi Sposi,_ Introduction.
 
 ### Latin
 #### Specimen
+<figure>
+ <img src="{{ assets }}/LatinSpecimen.png" />
+ <figcaption>Specimen of Latin</figcaption>
+</figure>
+
 #### Key
+Urbem Romam a principio reges habuere. Libertarem et consulatum L. Brutus instituit. Dictaturae ad tempus sumebantur. Neque decemviralis potestas ultra biennium, neque tribunorum militum consulare jus diu valuit. Non Cinnae, non Sullae longa dominatio; et Pompeii Crassique potentia cito in Caesarem, Lepidi atque Antonii arma in Augustum cessere, qui cuncta, discordiis civilibus fessa, nomine Principis sub imperium accepit. —Tacitus, _Annals,_ I.1.
 
 ### Greek
 #### Specimen
+<figure>
+ <img src="{{ assets }}/GreekSpecimen.png" />
+ <figcaption>Specimen of Greek</figcaption>
+</figure>
+
 #### Key
+Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγεσιν περὶ τῶν πεληροφορημένων ἐν ἡμῖν πραγμάτων, καθὼς παρέδοσαν ἡμῖν οἱ ἀπ’ ἀρχῆς αὐτόπται καὶ ὑμηρέται γενόμενοι τοῦ λόγου, ἔδοξε κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοὶ γράψαι, κράτιστε θεόφιλε. —St Luke I.1–3.
+<!-- thanks http://www.typegreek.com/ -->
 
 ## Hints for the Reporting Style
 ### Written in Ordinary Style
@@ -212,3 +262,26 @@ It is time that this description of the England which Charles the Second governe
 
 ### Specimen (Moderately Abbreviated)
 #### Key
+**Local Government.**
+
+I agree with Sir Charles Dilke in attributing the utmost importance to the question of local government in the future.
+I agree with him in the estimate which he has formed of the high place that question will occupy in the programme of the Liberal party.
+Experience justifies us in the hope that the Reformed Parliament will do much in the direction of completing the work which previous Reformed Parliaments have commenced.
+What was the main and the material advantage which resulted from the Reform Bill of 1832?
+It was the concession of municipal government to our country towns — a concession which has been highly appreciated, and which has been wisely used, and which has added most materially to the comfort and the happiness of the populations concerned.
+And what was the greatest result of the Reform of 1867?
+It was the extension of the functions of local governments by the creation of a system of education national in its scope, but locally administered.
+And it remains for the Reformed Parliament which will meet in 1886 to complete this work and to carry it further.
+I can conceive of no nobler and no more congenial task for those who represent the whole people than that of extending to the counties and to the metropolis and to the sister kingdom the liberties and the institutions which have conferred so great a benefit upon us the provinces.
+Gentlemen, local government is important altogether beyond its usefulness.
+It is the best political education, and I am convinced that the welfare and the contentment of the whole population can only be secured in proportion as the whole population are called in to take a part and a share in the obligations and the responsibilities of government.
+But, the extension of municipal institutions is not all that we have to do in the way of local government.
+We have in the future to elevate our conception of the meaning of the word.
+It is not merely a parochial and municipal, it is not even merely a provincial question, it is a national question also.
+What are the great problems of the future?
+We have to deal with obstruction in the House of Commons.
+We have to deal with the system under which the greatest legislative assemblage in the world has begun to lose its usefulness, and in consequence lose its influence.
+And that result can never be accomplished as long as the Imperial Parliament is burdened with an ever increasing amount of petty detail with which it is incompetent to deal, and which ought to be referred to other bodies.
+
+What are the two greatest and most pressing needs of our time?
+I think most men would say the provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the labourer to obtain a small plot of land which he may be able to work.
