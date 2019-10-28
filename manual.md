@@ -211,7 +211,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 </figure>
 
 #### Key
-<p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif&#8239;; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.</p>
+<p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c’est le système fédératif&#8239;; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l’y constituer sous la forme de gouvernement centrale.</p>
 
 ### German
 #### Specimen
@@ -233,7 +233,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 </figure>
 
 #### Key
-<p lang="it">L'historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl'anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl'illustri Campioni che in tal Arringo fanno messe di Palme e d'Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co' loro inchiostri le Imprese de' Principi e Potentati, e qualificati Personaggi, e trapontando coll' ago finissimo dell' ingegno i fili d'oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —<em>I Promessi Sposi,</em> <span lang="en">Introduction</span>.</p>
+<p lang="it">L’historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl’anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl’illustri Campioni che in tal Arringo fanno messe di Palme e d’Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co’ loro inchiostri le Imprese de’ Principi e Potentati, e qualificati Personaggi, e trapontando coll’ ago finissimo dell’ ingegno i fili d’oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —<em>I Promessi Sposi,</em> <span lang="en">Introduction</span>.</p>
 
 ### Latin
 #### Specimen
