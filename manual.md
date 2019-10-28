@@ -211,7 +211,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 </figure>
 
 #### Key
-De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif ; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.
+<p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c'est le système fédératif ; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l'y constituer sous la forme de gouvernement centrale.</p>
 
 ### German
 #### Specimen
@@ -221,9 +221,9 @@ De tous les systèmes de gouvernement et de garanties politiques, à coup sûr l
 </figure>
 
 #### Key
-Die anziehende Kraft des geriebenen Bernsteins war bereits im Alterthume bekannt, jedoch ohne dass derselben weiter nachgeforscht wurde. Sie wurde gewöhnlich in Gemeinschaft mit der Anziehung des Magnetsteins gekannt, und von dieser nicht unterschieden. Die gleiche Eigenschaft wie beim Bernstein war später noch an einer bituminösen Steinkohle (Gagat) wahrgenommen worden.
+<p lang="de">Die anziehende Kraft des geriebenen Bernsteins war bereits im Alterthume bekannt, jedoch ohne dass derselben weiter nachgeforscht wurde. Sie wurde gewöhnlich in Gemeinschaft mit der Anziehung des Magnetsteins gekannt, und von dieser nicht unterschieden. Die gleiche Eigenschaft wie beim Bernstein war später noch an einer bituminösen Steinkohle (Gagat) wahrgenommen worden.</p>
 
-Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (_ἤλεκτρον_) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u. s. w., nach dem Reiben…
+<p lang="de">Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (_<span lang="grc">ἤλεκτρον</span>_) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u. s. w., nach dem Reiben…</p>
 
 ### Italian
 #### Specimen
@@ -233,7 +233,7 @@ Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetste
 </figure>
 
 #### Key
-L'historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl'anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl'illustri Campioni che in tal Arringo fanno messe di Palme e d'Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co' loro inchiostri le Imprese de' Principi e Potentati, e qualificati Personaggi, e trapontando coll' ago finissimo dell' ingegno i fili d'oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —_I Promessi Sposi,_ Introduction.
+<p lang="it">L'historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl'anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl'illustri Campioni che in tal Arringo fanno messe di Palme e d'Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co' loro inchiostri le Imprese de' Principi e Potentati, e qualificati Personaggi, e trapontando coll' ago finissimo dell' ingegno i fili d'oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —<em>I Promessi Sposi,</em> <span lang="en">Introduction</span>.</p>
 
 ### Latin
 #### Specimen
@@ -243,7 +243,7 @@ L'historia si puo veramente deffinire una guerra illustre contro il Tempo, perch
 </figure>
 
 #### Key
-Urbem Romam a principio reges habuere. Libertarem et consulatum L. Brutus instituit. Dictaturae ad tempus sumebantur. Neque decemviralis potestas ultra biennium, neque tribunorum militum consulare jus diu valuit. Non Cinnae, non Sullae longa dominatio; et Pompeii Crassique potentia cito in Caesarem, Lepidi atque Antonii arma in Augustum cessere, qui cuncta, discordiis civilibus fessa, nomine Principis sub imperium accepit. —Tacitus, _Annals,_ I.1.
+<p lang="la">Urbem Romam a principio reges habuere. Libertarem et consulatum L. Brutus instituit. Dictaturae ad tempus sumebantur. Neque decemviralis potestas ultra biennium, neque tribunorum militum consulare jus diu valuit. Non Cinnae, non Sullae longa dominatio; et Pompeii Crassique potentia cito in Caesarem, Lepidi atque Antonii arma in Augustum cessere, qui cuncta, discordiis civilibus fessa, nomine Principis sub imperium accepit. —Tacitus, <em lang="en">Annals,</em> I.1.</p>
 
 ### Greek
 #### Specimen
@@ -253,7 +253,7 @@ Urbem Romam a principio reges habuere. Libertarem et consulatum L. Brutus instit
 </figure>
 
 #### Key
-Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγεσιν περὶ τῶν πεληροφορημένων ἐν ἡμῖν πραγμάτων, καθὼς παρέδοσαν ἡμῖν οἱ ἀπ’ ἀρχῆς αὐτόπται καὶ ὑμηρέται γενόμενοι τοῦ λόγου, ἔδοξε κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοὶ γράψαι, κράτιστε θεόφιλε. —St Luke I.1–3.
+<p lang="grc">Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγεσιν περὶ τῶν πεληροφορημένων ἐν ἡμῖν πραγμάτων, καθὼς παρέδοσαν ἡμῖν οἱ ἀπ’ ἀρχῆς αὐτόπται καὶ ὑμηρέται γενόμενοι τοῦ λόγου, ἔδοξε κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοὶ γράψαι, κράτιστε θεόφιλε. <span lang="en">—St Luke I.1–3.</span></p>
 <!-- thanks http://www.typegreek.com/ -->
 
 ## Hints for the Reporting Style
