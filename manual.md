@@ -103,7 +103,88 @@ Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png"
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
 
-- **A**&nbsp;![]({{ assets }}/a.png) 
+- **A**&nbsp;![]({{ assets }}/a.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}.
+  - **Ay** may be curved either way. The form ![]({{ assets }}/ay_under.png) is used whenever it joins more clearly or easily than the form ![]({{ assets }}/ay_over.png), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />
+{%- endfor %} thus, {% assign words = 'days quay' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}; cp. {% assign words = 'says hay' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}.
+
+- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![]({{ assets }}/cursive_b.png), but with a more open loop and without the hook upwards at the end. It forms the compounds:
+{% for it in site.data.manual.compounds.b %}
+  - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+{% endfor %}
+
+- **C**&nbsp;![]({{ assets }}/C.png) is written like the letter _c,_ but it is not turned up at the end, unless followed by _e._
+  - **Ch**&nbsp;![]({{ assets }}/Ch.png) is written and joined exactly like the longhand letter _o_; thus, {% assign words = 'chair Christ ache' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}, cp. {% assign word = "ahead" %}<img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**.
+  - Other compounds are:
+{% for it in site.data.manual.compounds.c %}
+    - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+{% endfor %}
+
+- **D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
+{% for it in site.data.manual.compounds.d %}
+  - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
+
+- **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
+  - **Ea**&nbsp;![]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![]({{ assets }}/ea_under.png) is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />
+{%- endfor %}. An angle must always be made after ![]({{ assets }}/ea_over.png) before ![]({{ assets }}/T.png)![]({{ assets }}/D.png) or ![]({{ assets }}/S_noarrow.png); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}.
+  - The diphthongs ee ei ie are all written upwards much more steeply than _u._ steep, cp. stupid. eu, ew new. [TODO: Images in this paragraph.]
+
+- **F**&nbsp;![]({{ assets }}/F.png)
+
+- **G**&nbsp;![]({{ assets }}/G.png)
+
+- **H**&nbsp;![]({{ assets }}/H.png)
+
+- **I**&nbsp;![]({{ assets }}/I.png)
+
+- **J**&nbsp;![]({{ assets }}/J.png)
+
+- **K**&nbsp;![]({{ assets }}/K.png)
+
+- **L**&nbsp;![]({{ assets }}/L.png)
+
+- **M**&nbsp;![]({{ assets }}/M.png)
+
+- **N**&nbsp;![]({{ assets }}/N.png)
+
+- **O**&nbsp;![]({{ assets }}/O.png)
+
+- **P**&nbsp;![]({{ assets }}/P.png)
+
+- **Qu**&nbsp;![]({{ assets }}/Qu.png)
+
+- **R**&nbsp;![]({{ assets }}/R.png)
+
+- **S**&nbsp;![]({{ assets }}/S.png)
+
+- **T**&nbsp;![]({{ assets }}/T.png)
+
+- **U**&nbsp;![]({{ assets }}/U.png)
+
+- **V**&nbsp;![]({{ assets }}/V.png)
+
+- **W**&nbsp;![]({{ assets }}/W.png)
+
+- **X**&nbsp;![]({{ assets }}/X.png)
+
+- **Y**&nbsp;![]({{ assets }}/Y.png)
+
+- **Z**&nbsp;![]({{ assets }}/Z.png)
+
 
 ## Specimen of Fully-Written Style
 The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just ad it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
