@@ -137,8 +137,8 @@ In the following alphabetic list are given examples and explanations of all the 
 
 - **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
   - **Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" alt="{{ word.first }}" title="{{ word.first }}" />
-{%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png)![d]({{ assets }}/D.png) or ![s]({{ assets }}/S_noarrow.png); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" alt="{{ word | slice: 0,1 }}" title="{{ word | slice: 0,1 }}" />
+{%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png "t")![d]({{ assets }}/D.png "d") or ![s]({{ assets }}/S_noarrow.png "s"); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
   - The diphthongs ee ei ie are all written upwards much more steeply than _u._ steep, cp. stupid. eu, ew new. [TODO: Images in this paragraph.]
