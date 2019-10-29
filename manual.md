@@ -66,14 +66,14 @@ In learning the system the student should work straight through the alphabet and
 ### Doubled Letters
 Doubled letters are shown, **not** by repeating the character, but by putting a dot below; thus, ![]({{ assets }}/odd.png)&nbsp;**odd**, ![]({{ assets }}/too.png)&nbsp;**too.**
 
-**Exception:** ![]({{ assets }}/EE.png) **ee**; thus, ![]({{ assets }}/sleep.png) **sleep**, cp. ![]({{ assets }}/sup.png) **sup**.
+**Exception:** ![]({{ assets }}/EE.png)&nbsp;**ee**; thus, ![]({{ assets }}/sleep.png)&nbsp;**sleep**, cp. ![]({{ assets }}/sup.png)&nbsp;**sup**.
 
 ## General Rules
 ### Orthographic Spelling
 All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ["How to Write and Join the Characters"].
 
 ### Diphthongs
-When two vowels come together forming a 'diphthong', the angle between them is slurred or rounded off into a continuous curve; thus, ![]({{ assets }}/ai_angled.png) **ai** = ![]({{ assets }}/ai.png), ![]({{ assets }}/oy_angled.png) **oy** = ![]({{ assets }}/oy.png), ![]({{ assets }}/ou_angled.png) **ou** = ![]({{ assets }}/ou.png), ![]({{ assets }}/eau_angled.png) **eau** = ![]({{ assets }}/eau.png).
+When two vowels come together forming a 'diphthong', the angle between them is slurred or rounded off into a continuous curve; thus, ![]({{ assets }}/ai_angled.png)&nbsp;**ai** = ![]({{ assets }}/ai.png), ![]({{ assets }}/oy_angled.png)&nbsp;**oy** = ![]({{ assets }}/oy.png), ![]({{ assets }}/ou_angled.png)&nbsp;**ou** = ![]({{ assets }}/ou.png), ![]({{ assets }}/eau_angled.png)&nbsp;**eau** = ![]({{ assets }}/eau.png).
 
 When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words {% assign words = 're-enter Oölite Deä create Leo fiasco serious fuel poem' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
@@ -106,15 +106,15 @@ In the following alphabetic list are given examples and explanations of all the 
 - **A**&nbsp;![]({{ assets }}/a.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
-  - **Ay** may be curved either way. The form ![]({{ assets }}/ay_under.png) is used whenever it joins more clearly or easily than the form ![]({{ assets }}/ay_over.png), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" />
+  - **Ay** may be curved either way. The form ![under-ay]({{ assets }}/ay_under.png "under-ay") is used whenever it joins more clearly or easily than the form ![over-ay]({{ assets }}/ay_over.png "over-ay"), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" alt="{{ word }}" title="{{ word }}" />
 {%- endfor %} thus, {% assign words = 'days quay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}; cp. {% assign words = 'says hay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
 
-- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![]({{ assets }}/cursive_b.png), but with a more open loop and without the hook upwards at the end. It forms the compounds:
+- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/cursive_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
@@ -136,9 +136,9 @@ In the following alphabetic list are given examples and explanations of all the 
 {% endfor %}
 
 - **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
-  - **Ea**&nbsp;![]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![]({{ assets }}/ea_under.png) is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" />
-{%- endfor %}. An angle must always be made after ![]({{ assets }}/ea_over.png) before ![]({{ assets }}/T.png)![]({{ assets }}/D.png) or ![]({{ assets }}/S_noarrow.png); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
+  - **Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" alt="{{ word.first }}" title="{{ word.first }}" />
+{%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png)![d]({{ assets }}/D.png) or ![s]({{ assets }}/S_noarrow.png); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
   - The diphthongs ee ei ie are all written upwards much more steeply than _u._ steep, cp. stupid. eu, ew new. [TODO: Images in this paragraph.]
