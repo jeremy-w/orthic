@@ -116,7 +116,7 @@ In the following alphabetic list are given examples and explanations of all the 
 
 - **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![]({{ assets }}/cursive_b.png), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
-  - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
 - **C**&nbsp;![]({{ assets }}/C.png) is written like the letter _c,_ but it is not turned up at the end, unless followed by _e._
@@ -125,12 +125,12 @@ In the following alphabetic list are given examples and explanations of all the 
 {%- endfor %}, cp. {% assign word = "ahead" %}<img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.c %}
-    - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
 - **D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
 {% for it in site.data.manual.compounds.d %}
-  - {{ it.compound }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
