@@ -1,0 +1,312 @@
+# Raw material for the joining-example pairs that show up a lot in the "How to Join" section.
+# There are more compounds than listed here, but they are dealt with using different layout in the Manual.
+#
+# Schema: { string: string[][] }
+# It's mostly letter to array of pairs, but some joins have no example, some have multiple examples, and there's an n_unangled key in there, too.
+
+a:
+  -
+    - ai
+    - aid
+  -
+    - au
+    - Paul
+  -
+    - ay
+    - days
+    - says
+b:
+ -
+  - bd
+  - rob'd
+ -
+  - bj
+  - object
+ -
+  - bl
+  - able
+ -
+  - br
+  - bray
+ -
+  - bs
+  - absurd
+ -
+  - bt
+  - subtract
+ -
+  - bv
+  - subvent
+
+c:
+ -
+  - ck
+  - suckle
+ -
+  - cl
+  - close
+ -
+  - cr
+  - crutch
+ -
+  - ct
+  - act
+
+d:
+ -
+  - dge
+  - judge
+ -
+  - dj
+ -
+  - dle
+  - fiddle
+ -
+  - dr
+  - dread
+ -
+  - dv
+ -
+  - dw
+  - dwell
+
+e:
+ -
+  - ea
+  - seat
+ -
+  - ee
+  - steep
+ -
+  - ei
+ -
+  - ie
+ -
+  - eu
+ -
+  - ew
+  - new
+
+f:
+ -
+  - ft
+  - soft
+ -
+  - fd
+  - puff'd
+ -
+  - fl
+  - rifle
+ -
+  - fr
+  - afraid
+ -
+  - fs
+  - skiffs
+
+g:
+ -
+  - gh
+  - high
+ -
+  - gl
+  - glory
+ -
+  - gr
+  - agree
+ -
+  - gn
+  - sign
+
+i:
+ -
+  - ia
+ -
+  - ie
+
+l:
+ -
+  - lf
+  - half
+ -
+  - lk
+  - walk
+ -
+  - lp
+  - help
+ -
+  - lt
+  - wilt
+ -
+  - lv
+  - salve
+
+m:
+ -
+  - mp
+  - imply
+ -
+  - mb
+  - limb
+ -
+  - ms
+
+n_unangled:
+ -
+  - ng
+  - singer
+ -
+  - nsp
+  - inspect
+
+n_others:
+ -
+  - nc
+  - since
+ -
+  - nch
+  - inches
+ -
+  - nd
+  - India
+ -
+  - nf
+  - infer
+ -
+  - nj
+  - injury
+ -
+  - nl
+  - unless
+ -
+  - ns
+  - sense
+ -
+  - nt
+  - sent
+ -
+  - nk
+  - sink
+ -
+  - nqu
+  - inquest
+ -
+  - nv
+  - invent
+
+o:
+# oa: handled specially
+ -
+  - oi
+  - toil
+ -
+  - ou
+  - out
+ -
+  - oy
+  - boys
+
+p:
+ -
+  - sp
+  - spear
+ -
+  - ps
+  - cups
+ -
+  - ph
+  - phrase
+  - phlegm
+ -
+  - pl
+  - place
+ -
+  - pr
+  - present
+ -
+  - pt
+  - depth
+ -
+  - phth
+#  - naphtha
+
+r:
+# rce fierce
+ -
+  - rd
+ -
+  - rt
+ -
+  - rf
+ -
+  - rk
+  - work
+ -
+  - rn
+  - learn
+ -
+  - rp
+ -
+  - rs
+ -
+  - rv
+
+s:
+ -
+  - sc
+  - scent
+ -
+  - sk
+ -
+  - sl
+  - slew
+ -
+  - sm
+ -
+  - sn
+ -
+  - sp
+  - sphere
+ -
+  - squ
+  - square
+ -
+  - st
+  - still
+ -
+  - sw
+  - answer
+
+t:
+ -
+  - tch
+  - sketch
+ -
+  - tle
+  - turtle
+ -
+  - tr
+  - truth
+ -
+  - tw
+  - two
+
+u:
+ -
+  - ua
+  - guard
+ -
+  - ui
+  - suit
+
+w:
+ # wr wh ws
+ -
+  - wk
+  - hawk
+ -
+  - wl
+  - owls
+ -
+  - wn
+  - dawn
