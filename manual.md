@@ -144,7 +144,7 @@ In the following alphabetic list are given examples and explanations of all the 
 {%- endfor %}.
   - The diphthongs {% assign words = 'ee ei ie' | split: ' ' %}{% for word in words -%}
     **{{ word }}**&nbsp;<img src="{{ assets }}/{{ word }}.png" />{% unless forloop.last %}, {% endunless %}
-{%- endfor %}ee ei ie are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
+{%- endfor %} are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
 
 - **F**&nbsp;![]({{ assets }}/F.png)
 
