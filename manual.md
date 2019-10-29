@@ -80,7 +80,7 @@ When, however, the vowels are separately sounded, either the characters are sepa
 {%- endfor -%}.
 
 ### The Two Sizes of Character
-The two sizes of character must be carefully distinguished, just as 'C' and 'c', 'e' and 'l', are distinguished in longhand. [FIXME: Need a script-like font to make the e vs l hit home. But note that cursive l is basically a vertically stretched cursive e.] The first letter of a word is generally written so as to end on the line. The beginner should write between double-ruled lines at first, as in the following examples:
+The two sizes of character must be carefully distinguished, just as [lowercase] 'c' and [uppercase] 'C', ![longhand lowercase E]({{ assets }}/longhand_E.png "longhand lowercase E") and ![longhand lowercase L]({{ assets }}/longhand_L.png "longhand lowercase L"), are distinguished in longhand. [Jeremy: Note that cursive lowercase L is basically a vertically stretched cursive lowercase E.] The first letter of a word is generally written so as to end on the line. The beginner should write between double-ruled lines at first, as in the following examples:
 
 <figure>
 <img src="{{ assets }}/TheTwoSizesOfCharacter.png" />
@@ -103,8 +103,8 @@ Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png"
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
 
-- **A**&nbsp;![]({{ assets }}/a.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+- **A**&nbsp;![]({{ assets }}/A.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay_both' | split: ' ' %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word | slice: 0,2 }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
   - **Ay** may be curved either way. The form ![under-ay]({{ assets }}/ay_under.png "under-ay") is used whenever it joins more clearly or easily than the form ![over-ay]({{ assets }}/ay_over.png "over-ay"), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" alt="{{ word }}" title="{{ word }}" />
@@ -114,7 +114,7 @@ In the following alphabetic list are given examples and explanations of all the 
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
 
-- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/cursive_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
+- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/longhand_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
@@ -134,6 +134,7 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
+ [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
 
 - **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
   - **Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
@@ -141,7 +142,9 @@ In the following alphabetic list are given examples and explanations of all the 
 {%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png "t")![d]({{ assets }}/D.png "d") or ![s]({{ assets }}/S_noarrow.png "s"); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
-  - The diphthongs ee ei ie are all written upwards much more steeply than _u._ steep, cp. stupid. eu, ew new. [TODO: Images in this paragraph.]
+  - The diphthongs {% assign words = 'ee ei ie' | split: ' ' %}{% for word in words -%}
+    **{{ word }}**&nbsp;<img src="{{ assets }}/{{ word }}.png" />{% unless forloop.last %}, {% endunless %}
+{%- endfor %}ee ei ie are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
 
 - **F**&nbsp;![]({{ assets }}/F.png)
 
