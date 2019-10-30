@@ -5,8 +5,8 @@ subtitle: "The Cambridge System"
 author: "Hugh L. Callendar"
 toc: true
 ---
-# A Manual of Orthographic Shorthand
-_The Cambridge System_
+# A Manual of Orthographic Shorthand: The Cambridge System
+
 by Hugh L. Callendar, M.A., Fellow of Trinity College, Cambridge. 1891.
 
 Rendered into Markdown by Jeremy W. Sherman based on [the version made available by Google Books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ).
