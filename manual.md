@@ -140,6 +140,7 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
+
  [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
 
 - **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
@@ -153,16 +154,32 @@ In the following alphabetic list are given examples and explanations of all the 
 {%- endfor %} are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
 
 - **F**&nbsp;![]({{ assets }}/F.png)
+  - F is joined without an angle after vowels; thus, ![]({{ assets }}/if.png)&nbsp;**if** (not ![]({{ assets }}/if_angled.png)).
+  - It is joined to following characters like the longhand letter _s_; thus, 
+{% for it in site.data.manual.compounds.f %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **G**&nbsp;![]({{ assets }}/G.png)
+- **G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds:
+{% for it in site.data.manual.compounds.g %}
+  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **H**&nbsp;![]({{ assets }}/H.png)
+- **H**&nbsp;![]({{ assets }}/H.png) is a large circle or backward loop beginning at the bottom. It is distinguished from ch&nbsp;![]({{ assets }}/Ch.png) by the way it is joined; thus,
+{% assign words = "hat chat what which" | split: " " %}{% for word in words -%}
+    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
+{%- endfor %}
 
-- **I**&nbsp;![]({{ assets }}/I.png)
+- **I**&nbsp;![]({{ assets }}/I.png) is a short upstroke, like _e,_ but dotted.
+  - **ia**&nbsp;![]({{ assets }}/ia_both.png) may be curved either way like _ea_; thus, ![]({{ assets }}/social.png)**social**, ![]({{ assets }}/optician.png)**optician**; ![]({{ assets }}/chief.png)**chief**.
 
-- **J**&nbsp;![]({{ assets }}/J.png)
+- **J**&nbsp;![]({{ assets }}/J.png) is like the letter _j,_ but is not dotted.
 
-- **K**&nbsp;![]({{ assets }}/K.png)
+- **K**&nbsp;![]({{ assets }}/K.png) is like ![]({{ assets }}/G.png)_g,_ but is turned the other way. It is joined in the same way as ![]({{ assets }}/F.png)**f.**
 
 - **L**&nbsp;![]({{ assets }}/L.png)
 
