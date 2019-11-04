@@ -355,6 +355,13 @@ Owing to the peculiar character of the vowel system and the facility with which 
 <p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c’est le système fédératif&#8239;; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l’y constituer sous la forme de gouvernement centrale.</p>
 
 ### German
+#### Adaptations
+- English **g** and **c** are swapped, giving German **g**&nbsp;![]({{ assets }}/C.png) and **c**&nbsp;![]({{ assets }}/G.png).
+- English **sh** becomes German **sch**&nbsp;![]({{ assets }}/sh.png).
+- English **under-ai** becomes German **ei**&nbsp;![]({{ assets }}/ai_under.png).
+- English **-ing** becomes German **-ung**&nbsp;![]({{ assets }}/ing_both.png).
+- German omits **h**&nbsp;![]({{ assets }}/H.png) both after vowels and after **t**.
+
 #### Specimen
 <figure>
  <img src="{{ assets }}/GermanSpecimen.png" />
