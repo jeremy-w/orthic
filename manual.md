@@ -395,9 +395,47 @@ Owing to the peculiar character of the vowel system and the facility with which 
 
 ## Hints for the Reporting Style
 ### Written in Ordinary Style
+
+<figure>
+ <img src="{{ assets }}/ReportingHintsPage1.png" />
+ <img src="{{ assets }}/ReportingHintsPage2.png" />
+ <figcaption>Hints for the reporting style. See next section for key.</figcaption>
+</figure>
+
 #### Key
+_Jeremy: This section is an original addition of this work. The images have a dot at the start of every fifth line to help you jump back and forth between the shorthand and this key._
+
+_The original text provided no key for these hints. If you wanted to learn the reporting style from the manual, you needed to learn to read ordinary style first._
+
+The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
+Words are abbreviated as in longhand by the application (3) of the general principle given in §10.
+This method is so simple that with a little (4) practice any reporter can easily extemporise suitable abbreviations for himself, according to the (5) context of the subject upon which he is engaged.
+In order however to secure the greatest possible (6) uniformity of style among writers of-the system, it’s intended shortly to publish (7) a standard list of abbreviations for common words in the form of a vocabulary.
+(8) It’s impossible to treat the subject of reporting 
+adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10) 
+
+1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and inflexions which are evidently required (12) by the context may be omitted.
+ Mere initials may be largely used for repeated names (13) and titles.
+ Examples s = sir, l = lord, p = page, q = question, pr = principle, rep = (14) represent, imp = important, fou = found, ea = each, mu = much. (15)
+ In the case of short words it’s often better to join the last letter; pt = part, (16) sht = short, tn = town, ler = letter, ld = world, ming = morning. (17)
+ Letters which are weakly sounded, such as GH in STRAIT = straight, may often be left (18) out in abbreviating; initial H in such words as HIM HAS HAD especially in (19) phrases and compounds; chas = which has, shtnd = shorthand, chil = which will.
+ 
+2. (1) SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
+ In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word. 
+ Examples of common slurs are: (5) doubled-D = DD or TD, deep doubled D = DV, UUN = USION or UTION. (6)
+ The larger and more characteristic signs should be retained, but the smaller signs such as L R (7) may be slurred; examples expeec = experience, beev = believe, aso = also, gt (8) = grt, mter = matter, eduun = education, nstuun = institution. (9)
+
+3. MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
+ The omission of B P or V is indicated by (12) mode I, that is by writing the termination above;
+ [TODO: Transcribe the rest of line 12 and then lines 13 through 20.]
 
 ### Specimen (Moderately Abbreviated)
+
+<figure>
+ <img src="{{ assets }}/ReportingSpecimen.png" />
+ <figcaption>Specimen of a moderately abbreviated reporting style. See next section for key.</figcaption>
+</figure>
+
 #### Key
 **Local Government.**
 
