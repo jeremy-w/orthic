@@ -181,11 +181,41 @@ In the following alphabetic list are given examples and explanations of all the 
 
 - **K**&nbsp;![]({{ assets }}/K.png) is like ![]({{ assets }}/G.png)_g,_ but is turned the other way. It is joined in the same way as ![]({{ assets }}/F.png)**f.**
 
-- **L**&nbsp;![]({{ assets }}/L.png)
+- **L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
+  - When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
+  - In other cases the distinction is obvious; cp.
+  {% assign pairs = 'black bread,clay_lowercase crow,addle dry,flow fro,glad grade,play pray,little litre,slay Israël,held herd,world already' | split: ',' %}
+  {% for pair in pairs %}
+    {% assign row = pair | split: ' ' %}
+    ![]({{ assets }}/{{ row.first }}.png) | {{ row.first | split: "_" | first }} | ![]({{ assets }}/{{ row.last }}.png) | {{ row.last }}
+  {% endfor %}
+  - Other compounds are:
+{% for it in site.data.manual.compounds.l %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **M**&nbsp;![]({{ assets }}/M.png)
+- **M**&nbsp;![]({{ assets }}/M.png) is like ![]({{ assets }}/N.png)&nbsp;**n,** but much longer and flatter.
+{% for it in site.data.manual.compounds.m %}
+  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **N**&nbsp;![]({{ assets }}/N.png)
+- **N**&nbsp;![]({{ assets }}/N.png) is like the first hook of the letter _n._
+  - No angle need be made in the compounds:
+{% for it in site.data.manual.compounds.n_unangled %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
+  - Other compounds are:
+{% for it in site.data.manual.compounds.n %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
 - **O**&nbsp;![]({{ assets }}/O.png)
 
