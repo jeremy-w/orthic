@@ -159,7 +159,7 @@ n_unangled:
   - nsp
   - inspect
 
-n_others:
+n:
  -
   - nc
   - since
