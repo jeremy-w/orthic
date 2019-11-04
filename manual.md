@@ -341,10 +341,14 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 Owing to the peculiar character of the vowel system and the facility with which the characters can be joined, the alphabet of Orthographic Cursive is immediately applicable with very slight modifications to almost all foreign languages. It is impossible here to work out the subject fully, but the following specimens will be of interest as shewing the capabilities of the system. They are written almost in full, containing only one or two trifling abbreviations, such as _-mt_ for _-ment,_ analogous to those used in the ordinary style of English.
 
 ### French
+#### Adaptations
+- English **y** is used to write French **é**&nbsp;![]({{ assets }}/Y.png).
+- Both forms of English **-ing** are used instead to write French **ée**&nbsp;![]({{ assets }}/ing_both.png).
+
 #### Specimen
 <figure>
  <img src="{{ assets }}/FrenchSpecimen.png" />
- <figcaption>Specimen of French</figcaption>
+ <figcaption>Specimen of French. The blue highlight marks an example of how the grave accent is written by crossing the outline.</figcaption>
 </figure>
 
 #### Key
