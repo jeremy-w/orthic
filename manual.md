@@ -374,6 +374,9 @@ Owing to the peculiar character of the vowel system and the facility with which 
 <p lang="de">Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (<em lang="grc">ἤλεκτρον</em>) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u.&#8239;s.&#8239;w., nach dem Reiben…</p>
 
 ### Italian
+#### Adaptations
+- Final _o_ is omitted after consonants.
+
 #### Specimen
 <figure>
  <img src="{{ assets }}/ItalianSpecimen.png" />
@@ -384,16 +387,31 @@ Owing to the peculiar character of the vowel system and the facility with which 
 <p lang="it">L’historia si puo veramente deffinire una guerra illustre contro il Tempo, perchè togliendoli di mano gl’anni suoi prigioneri, anzi già fatti cadaveri, li richiama in vita, li passa in rassegna, e li schiera di nuovo in battaglia. Ma gl’illustri Campioni che in tal Arringo fanno messe di Palme e d’Allori, rapiscono solo che le sole spoglie più sfarzose e brillanti, imbalsamando co’ loro inchiostri le Imprese de’ Principi e Potentati, e qualificati Personaggi, e trapontando coll’ ago finissimo dell’ ingegno i fili d’oro e di seta, che formano un perpetuo ricamo di Attioni gloriose. —<em>I Promessi Sposi,</em> <span lang="en">Introduction</span>.</p>
 
 ### Latin
+#### Adaptations
+- Final **um**&nbsp;![]({{ assets }}/Y.png) is written with English **y.**
+
 #### Specimen
 <figure>
  <img src="{{ assets }}/LatinSpecimen.png" />
- <figcaption>Specimen of Latin</figcaption>
+ <figcaption>Specimen of Latin. Note the end-of-line hyphens in _tribu-norum_ and _dom-inatio_ used to mark that the word continues on the next line.</figcaption>
 </figure>
 
 #### Key
 <p lang="la">Urbem Romam a principio reges habuere. Libertarem et consulatum L. Brutus instituit. Dictaturae ad tempus sumebantur. Neque decemviralis potestas ultra biennium, neque tribunorum militum consulare jus diu valuit. Non Cinnae, non Sullae longa dominatio; et Pompeii Crassique potentia cito in Caesarem, Lepidi atque Antonii arma in Augustum cessere, qui cuncta, discordiis civilibus fessa, nomine Principis sub imperium accepit. —Tacitus, <em lang="en">Annals,</em> I.1.</p>
 
 ### Greek
+#### Adaptations
+- English **y** becomes Greek **η**&nbsp;![]({{ assets }}/Y.png).
+- English straight **ing** becomes Greek **ω**&nbsp;![]({{ assets }}/ing_straight.png)
+
+[Jeremy: That covers adapting Orthic to Green. As for adapting Greek to Orthic, it appears that Callendar decided:
+
+- _Spiritus lenis_ is unmarked.
+- _Spiritus asper_ is marked by writing an English **h**&nbsp;![]({{ assets }}/H.png).
+- All tone marks are omitted.
+
+I guess that makes this an atonic Greek orthography. I expect diaeresis would be indicated by an angle joining, as discussed in "Dipthongs."]
+
 #### Specimen
 <figure>
  <img src="{{ assets }}/GreekSpecimen.png" />
