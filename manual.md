@@ -251,7 +251,10 @@ Even when thus written in full the system is very brief as contrasted (12) with 
 
 [Jeremy: The specimen ends here.]
 
-In the reporting style two new methods are introduced, namely 'expression by mode' and 'phraseography.' These, together with the extension of the methods used in the ordinary style, combine to render the reporting style of Cursive as short, consistently with clearness, as any system of writing can possibly be made. It is intended to treat this subject more fully in a future publication, but the methods are so simple that it has been thought worth while to include a short sketch of them in the present manual. It is probable that the hints given in ["Hints for the Ordinary Style"] will be sufficient to enable any intelligent student to apply them successfully for himself without further assistance.
+In the reporting style two new methods are introduced, namely 'expression by mode' and 'phraseography.'
+These, together with the extension of the methods used in the ordinary style, combine to render the reporting style of Cursive as short, consistently with clearness, as any system of writing can possibly be made.
+It is intended to treat this subject more fully in a future publication, but the methods are so simple that it has been thought worth while to include a short sketch of them in the present manual.
+It is probable that the hints given in ["Hints for the Reporting Style"](#hints-for-the-reporting-style) will be sufficient to enable any intelligent student to apply them successfully for himself without further assistance.
 
 <figure>
  <img src="{{ assets }}/FullyWrittenStyleSpecimen.png" />
@@ -278,7 +281,8 @@ The following methods of abbreviation are used in correspondence and in ordinary
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor -%}.
 
-5. Some common terminations are abbreviated as shown in the following list: [TODO: List. Same issue as with all the joining rules, but in miniature.]
+5. Some common terminations are abbreviated as shown in the following list:
+  - **[TODO: List of common terminations.]**
 
 ### The General Method
 The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% assign words = 'DIFferenT DIFferenCE acknowledge ESPeciallY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
@@ -293,7 +297,7 @@ Words may often be joined together provided that they are closely connected in s
 ### Abbreviations for Common Words
 The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand.
 
-[TODO: Add table of abbreviations.]
+**[TODO: Add table of abbreviations.]**
 
 ## Specimens of the Ordinary Style
 ### The Introductory Remarks
@@ -410,7 +414,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 - _Spiritus asper_ is marked by writing an English **h**&nbsp;![]({{ assets }}/H.png).
 - All tone marks are omitted.
 
-I guess that makes this an atonic Greek orthography. I expect diaeresis would be indicated by an angle joining, as discussed in "Dipthongs."]
+I guess that makes this an atonic Greek orthography. I expect diaeresis would be indicated by an angle joining, as discussed in ["Diphthongs."](#diphthongs)]
 
 #### Specimen
 <figure>
