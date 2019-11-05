@@ -358,7 +358,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 #### Adaptations
 - English **g** and **c** are swapped, giving German **g**&nbsp;![]({{ assets }}/C.png) and **c**&nbsp;![]({{ assets }}/G.png).
 - English **sh** becomes German **sch**&nbsp;![]({{ assets }}/sh.png).
-- English **under-ai** becomes German **ei**&nbsp;![]({{ assets }}/ai_under.png).
+- English **under-ea** becomes German **ei**&nbsp;![]({{ assets }}/ea_under.png).
 - English **-ing** becomes German **-ung**&nbsp;![]({{ assets }}/ing_both.png).
 - German omits **h**&nbsp;![]({{ assets }}/H.png) both after vowels and after **t**.
 
