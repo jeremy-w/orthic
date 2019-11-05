@@ -408,7 +408,7 @@ Owing to the peculiar character of the vowel system and the facility with which 
 - English **y** becomes Greek **η**&nbsp;![]({{ assets }}/Y.png).
 - English straight **ing** becomes Greek **ω**&nbsp;![]({{ assets }}/ing_straight.png)
 
-[Jeremy: That covers adapting Orthic to Green. As for adapting Greek to Orthic, it appears that Callendar decided:
+[Jeremy: That covers adapting Orthic to Greek. As for adapting Greek to Orthic, it appears that Callendar decided:
 
 - _Spiritus lenis_ is unmarked.
 - _Spiritus asper_ is marked by writing an English **h**&nbsp;![]({{ assets }}/H.png).
