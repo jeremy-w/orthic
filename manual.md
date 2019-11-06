@@ -221,7 +221,7 @@ In the following alphabetic list are given examples and explanations of all the 
   - **Oa** is distinguished from **o** by writing the ![]({{ assets }}/A.png)&nbsp;**a** above; thus, ![]({{ assets }}/oar.png)&nbsp;**oar**, cp. ![]({{ assets }}/or.png)&nbsp;**or**; ![]({{ assets }}/oak.png)&nbsp;**oak**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.o %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -242,7 +242,7 @@ In the following alphabetic list are given examples and explanations of all the 
 
 - **Qu**&nbsp;![]({{ assets }}/Qu.png) is like the lower loop of the letter ![lowercase f in cursive longhand]({{ assets }}/f_longhand.png); it is turned the opposite way to ![]({{ assets }}/J.png)&nbsp;**j**. ![]({{ assets }}/esquire.png)&nbsp;**esquire**.
 
-- **R**&nbsp;![]({{ assets }}/R.png) is a small circle like ![]({{ assets }}/L.png)&nbsp;**l**, but is always turned the opposite way, like the loop of the longhand letter ![lowercase e in cursive longhand]({{ assets }}/e_longhand.png). [For examples, see L.](#joining-L-examples)
+- **R**&nbsp;![]({{ assets }}/R.png) is a small circle like ![]({{ assets }}/L.png)&nbsp;**L**, but is always turned the opposite way, like the loop of the longhand letter ![lowercase e in cursive longhand]({{ assets }}/e_longhand.png). [For examples, see L.](#joining-L-examples)
   - The compound ![]({{ assets }}/rce.png)&nbsp;**rce** is written like the ![initial lowercase e in cursive longhand]({{ assets }}/e_initial_longhand.png) form of the longhand letter _e_; thus, ![]({{ assets }}/fierce.png)&nbsp;**fierce**. [Jeremy: I've never seen this style of cursive _e_ used outside Callendar's own writing. It is like the uppercase cursive _E_ made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the _e._ The result is basically the counter-clockwise Orthic _r_ sitting atop a half-height Orthic _c_ with a rise at the end for the _e._)
   - Other compounds are:
 {% for it in site.data.manual.compounds.r %}
