@@ -183,7 +183,7 @@ In the following alphabetic list are given examples and explanations of all the 
 
 - **L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
   - When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
-  - In other cases the distinction is obvious; cp.
+  - <a id="joining-L-examples" />In other cases the distinction is obvious; cp.
   {% assign pairs = 'black bread,clay_lowercase crow,addle dry,flow fro,glad grade,play pray,little litre,slay Israël,held herd,world already' | split: ',' %}
   {% for pair in pairs %}
     {% assign row = pair | split: ' ' %}
@@ -217,13 +217,39 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- endfor -%}
 {% endfor %}
 
-- **O**&nbsp;![]({{ assets }}/O.png)
+- **O**&nbsp;![]({{ assets }}/O.png) is made about three times as long as ![]({{ assets }}/A.png)&nbsp;**a**.
+  - **Oa** is distinguished from **o** by writing the ![]({{ assets }}/A.png)&nbsp;**a** above; thus, ![]({{ assets }}/oar.png)&nbsp;**oar**, cp. ![]({{ assets }}/or.png)&nbsp;**or**; ![]({{ assets }}/oak.png)&nbsp;**oak**.
+  - Other compounds are:
+{% for it in site.data.manual.compounds.o %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **P**&nbsp;![]({{ assets }}/P.png)
+- **P**&nbsp;![]({{ assets }}/P.png) is a long downstroke, like the upper half of the stroke of the letter ![lowercase p in cursive longhand]({{ assets }}/p_longhand.png). It is made about three times as long as ![]({{ assets }}/S.png)&nbsp;**s**.
+  - In joining ![]({{ assets }}/S.png)&nbsp;**s** before and after ![]({{ assets }}/P.png)&nbsp;**p**, the _s_-tick is sloped backwards; thus
+{% for it in site.data.manual.compounds.p limit:2 %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
+  - Other compounds are:
+{% for it in site.data.manual.compounds.p offset:2 %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **Qu**&nbsp;![]({{ assets }}/Qu.png)
+- **Qu**&nbsp;![]({{ assets }}/Qu.png) is like the lower loop of the letter ![lowercase f in cursive longhand]({{ assets }}/f_longhand.png); it is turned the opposite way to ![]({{ assets }}/J.png)&nbsp;**j**. ![]({{ assets }}/esquire.png)&nbsp;**esquire**.
 
-- **R**&nbsp;![]({{ assets }}/R.png)
+- **R**&nbsp;![]({{ assets }}/R.png) is a small circle like ![]({{ assets }}/L.png)&nbsp;**l**, but is always turned the opposite way, like the loop of the longhand letter ![lowercase e in cursive longhand]({{ assets }}/e_longhand.png). [For examples, see L.](#joining-L-examples)
+  - The compound ![]({{ assets }}/rce.png)&nbsp;**rce** is written like the ![initial lowercase e in cursive longhand]({{ assets }}/e_initial_longhand.png) form of the longhand letter _e_; thus, ![]({{ assets }}/fierce.png)&nbsp;**fierce**. [Jeremy: I've never seen this style of cursive _e_ used outside Callendar's own writing. It is like the uppercase cursive _E_ made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the _e._ The result is basically the counter-clockwise Orthic _r_ sitting atop a half-height Orthic _c_ with a rise at the end for the _e._)
+  - Other compounds are:
+{% for it in site.data.manual.compounds.r %}
+    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
 - **S**&nbsp;![]({{ assets }}/S.png)
 
