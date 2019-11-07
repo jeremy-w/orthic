@@ -251,11 +251,40 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- endfor -%}
 {% endfor %}
 
-- **S**&nbsp;![]({{ assets }}/S.png)
+- **S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
+  - When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
+  - In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
+  {% assign words = "shed Tisri shred school" | split: " " %}{% for word in words -%}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{%- endfor %}
+  - Other compounds are:
+{% for it in site.data.manual.compounds.s %}
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **T**&nbsp;![]({{ assets }}/T.png)
+- **T**&nbsp;![]({{ assets }}/T.png) is like the hook at the end of the letter ![t]({{ assets }}/t_longhand.png).
+  - **Th**&nbsp;![]({{ assets }}/T.png) is written like the letter ![d]({{ assets }}/d_longhand.png) [Jeremy: d at the end of a word, that is].
+  - At the end of a word, the circle of the _h_ need not be completed; thus,
+{% assign words = "with both" | split: " " %}{% for word in words -%}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{%- endfor %}
+  - Other compounds are:
+{% for it in site.data.manual.compounds.t %}
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
-- **U**&nbsp;![]({{ assets }}/U.png)
+- **U**&nbsp;![]({{ assets }}/U.png) is a long up-stroke on a flat slope, making an angle of about ![]({{ assets }}/30_degrees.png) 30° with the line.
+  - **U**&nbsp;![]({{ assets }}/U.png) is distinguished from **ee**&nbsp;![]({{ assets }}/ee.png) by being written much less steeply; cp. ![]({{ assets }}/seen.png)&nbsp;**seen**, ![]({{ assets }}/sun.png)&nbsp;**sun**.
+  - **Dipththongs**
+{% for it in site.data.manual.compounds.u %}
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
 - **V**&nbsp;![]({{ assets }}/V.png)
 
