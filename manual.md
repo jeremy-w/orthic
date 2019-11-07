@@ -388,7 +388,7 @@ The following methods of abbreviation are used in correspondence and in ordinary
     - It is better to curve the stroke, thus ![]({{ assets }}/ing_curved.png), after
 {%- assign words = "d m n t v" | split: " " %}{% for word in words %}
       *{{word}},*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
-{%- endfor %}, and vowels.
+{%- endfor %} and vowels.
 
 
 ### The General Method
