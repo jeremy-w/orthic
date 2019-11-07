@@ -372,11 +372,11 @@ The following methods of abbreviation are used in correspondence and in ordinary
 {% assign words = "us'd kiss'd stirr'd" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-  - **Ful** ![]({{ assets }}/fl.png)&nbsp;**fl**
+  - **Ful** ![]({{ assets }}/ending_fl.png)&nbsp;**fl**
 {% assign words = "useful beautyfully" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-  - **Hood** ![]({{ assets }}/hd.png)&nbsp;**hd**
+  - **Hood** ![]({{ assets }}/ending_hd.png)&nbsp;**hd**
 {% assign words = "manhood" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
@@ -386,9 +386,9 @@ The following methods of abbreviation are used in correspondence and in ordinary
 {% endfor %}
     - This form is used only for the inflection _-ing_ and not in such words as ![]({{ assets }}/king.png)&nbsp;**king**; cp. ![]({{ assets }}/sing.png)&nbsp;**sing**, ![]({{ assets }}/singing.png)&nbsp;**singing.**
     - It is better to curve the stroke, thus ![]({{ assets }}/ing_curved.png), after
-{% assign words = "d m n t v" | split: " " %}{% for word in words %}
-      *word{% if forloop.last%}.{%else%},{%endif%}*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
-{% endfor %}
+{% assign words = "d m n t v" | split: " " %}{% for word in words -%}
+      *{{word}}{% if forloop.last%}.{%else%},{%endif%}*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
+{%- endfor %}
 
 
 ### The General Method
