@@ -286,9 +286,29 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- endfor -%}
 {% endfor %}
 
-- **V**&nbsp;![]({{ assets }}/V.png)
+- **V**&nbsp;![]({{ assets }}/V.png) is distinguished from ![]({{ assets }}/ste.png)&nbsp;**ste** by its size; cp.
+{% assign words = "minster Minver stew view" | split: " " %}{% for word in words %}
+  - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
 
-- **W**&nbsp;![]({{ assets }}/W.png)
+- **W**&nbsp;![]({{ assets }}/W.png) is an upward hook, which may be turned either way.
+  - The first [clockwise] form is always used at the beginning of a word, except before **r**. Thus
+{% assign words = "way woe wet" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+    - cp. ![]({{ assets }}/write.png)&nbsp;**write**
+  - **wr**&nbsp;![]({{ assets }}/wr.png) is distinguished from ![]({{ assets }}/th.png)&nbsp;**th** by its size.
+  - **wh**&nbsp;![]({{ assets }}/wh.png) is made by enlarging the _w_ hook so as to look like the _h_- circle; cp. ![]({{ assets }}/who.png)&nbsp;**who**, ![]({{ assets }}/ha.png)&nbsp;**ha**.
+  - **ws**&nbsp;![]({{ assets }}/ws.png); at the end of a word the addition of the _s_ tick to the _w_ hook forms a loop; thus
+{% assign words = "sews cows laws" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+- Other compounds are:
+{% for it in site.data.manual.compounds.w %}
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
 - **X**&nbsp;![]({{ assets }}/X.png)
 
