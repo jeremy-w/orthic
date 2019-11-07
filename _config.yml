@@ -30,6 +30,9 @@ github_username:  jeremy-w
 permalink: "/:title"
 
 # Build settings
+# Theme info:
+#  https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
+# Source: https://github.com/chrisrhymes/bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
