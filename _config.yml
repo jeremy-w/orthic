@@ -42,7 +42,7 @@ plugins:
   - jekyll-seo-tag
 
 paginate: 5
-paginate_path: "/notes/page:num"
+paginate_path: "/notes/page-:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
