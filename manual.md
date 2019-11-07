@@ -391,7 +391,7 @@ The following methods of abbreviation are used in correspondence and in ordinary
       *{{word}},*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
 {%- endfor %} and vowels.
 {% for it in site.data.manual.endings %}
-  - **{{ it.ending }}**&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png)
+  - **{{ it.ending }}**&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png) **{{ it.orthic }}**
   {{- it.note | default:"" }}
   {% for word in it.examples %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
