@@ -303,7 +303,7 @@ In the following alphabetic list are given examples and explanations of all the 
 {% assign words = "sews cows laws" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-- Other compounds are:
+  - Other compounds are:
 {% for it in site.data.manual.compounds.w %}
     - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
@@ -311,11 +311,22 @@ In the following alphabetic list are given examples and explanations of all the 
 {% endfor %}
 
 - **X**&nbsp;![]({{ assets }}/X.png)
+  - No angle need be made in:
+{% for it in site.data.manual.compounds.x %}
+    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
+  {%- endfor -%}
+{% endfor %}
 
 - **Y**&nbsp;![]({{ assets }}/Y.png)
+{% assign words = "yacht yet yore yule" | split: " " %}{% for word in words %}
+  - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
 
 - **Z**&nbsp;![]({{ assets }}/Z.png)
-
+{% assign words = "daze Fitz puzzle" | split: " " %}{% for word in words %}
+  - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
 
 ## Specimen of Fully-Written Style
 The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just ad it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
