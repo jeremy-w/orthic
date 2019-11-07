@@ -389,6 +389,14 @@ The following methods of abbreviation are used in correspondence and in ordinary
 {%- assign words = "d m n t v" | split: " " %}{% for word in words %}
       *{{word}},*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
 {%- endfor %} and vowels.
+{% for it in site.data.manual.endings %}
+  - **{{ it.ending }}**&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png)
+  {{- it.note | default:"" }}
+  {% for word in it.examples %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+  {%- endfor -%}
+{% endfor %}
 
 
 ### The General Method

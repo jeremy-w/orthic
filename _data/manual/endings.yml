@@ -1,0 +1,80 @@
+# This isn't all of them, just the ones
+# in the latter half of the list
+# that perfectly follow the same pattern.
+-
+  ending: Ight
+  orthic: "t"
+  note: ", below"
+  examples:
+    - night
+    - light
+
+-
+  ending: Ion
+  orthic: un
+  note: ", dotted if necessary"
+  examples:
+    - action
+
+-
+  ending: Ity
+  orthic: "y"
+  note: ", above"
+  examples:
+    - ab(il)ities
+    - pec(uliar)ity
+
+-
+  ending: Less
+  orthic: ls
+  note: ""
+  examples:
+    - thankless
+    - fearlessness
+
+-
+  ending: Ly
+  orthic: y
+  note: " below"
+  examples:
+    - nearly
+    - easily
+    - dailies
+
+-
+  ending: Ment
+  orthic: mt
+  note: ""
+  examples:
+    - comment
+    - arrangement
+
+-
+  ending: Ness
+  orthic: ns
+  note: " [J: **Don't use this.** _Ness_ was later amended in _Supplement_ to **ess** per the general method of abbreviation. A different ending was then assigned to _ns._]"
+  examples:
+    - happyness
+    - thoughtfulness
+
+-
+  ending: Ough
+  orthic: "o"
+  note: "**’**"
+  examples:
+    - ought
+    - brought
+
+-
+  ending: Ther
+  orthic: hr
+  note: ""
+  examples:
+    - others
+
+-
+  ending: Ward
+  orthic: ard
+  note: ""
+  examples:
+    - towards
