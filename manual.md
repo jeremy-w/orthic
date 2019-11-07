@@ -369,7 +369,7 @@ The following methods of abbreviation are used in correspondence and in ordinary
 
 5. Some common terminations are abbreviated as shown in the following list:
   - **Ed.** The _e_ may generally be omitted; thus,
-{% assign words = "us'd kiss'd stirr'd" | split: " " %}{% for word in words %}
+{% assign words = "us’d kiss’d stirr’d" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
   - **Ful** ![]({{ assets }}/ending_fl.png)&nbsp;**fl**
