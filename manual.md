@@ -265,7 +265,7 @@ In the following alphabetic list are given examples and explanations of all the 
 {% endfor %}
 
 - **T**&nbsp;![]({{ assets }}/T.png) is like the hook at the end of the letter ![t]({{ assets }}/t_longhand.png).
-  - **Th**&nbsp;![]({{ assets }}/th.png) is written like the letter ![d]({{ assets }}/d_longhand.png). [Jeremy: That's _d_ as sometimes written at the end of a word, such as in "end"&nbsp;![]({{ assets }}/end_longhand.png), which also shows the funky _e_ Callendar uses to explain how to write the compound _rce._]
+  - **Th**&nbsp;![]({{ assets }}/th.png) is written like the letter ![d]({{ assets }}/d_longhand.png). [Jeremy: That's a looped-through version of the _d_ Callendar often writes at the end of a word, as seen for example in "end"&nbsp;![]({{ assets }}/end_longhand.png). That word also shows the funky _e_ Callendar uses to explain how to write the compound _rce._]
   - At the end of a word, the circle of the _h_ need not be completed; thus,
 {% assign words = "with both" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
