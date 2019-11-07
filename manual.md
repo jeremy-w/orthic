@@ -368,7 +368,28 @@ The following methods of abbreviation are used in correspondence and in ordinary
 {%- endfor -%}.
 
 5. Some common terminations are abbreviated as shown in the following list:
-  - **[TODO: List of common terminations.]**
+  - **Ed.** The _e_ may generally be omitted; thus,
+{% assign words = "us'd kiss'd stirr'd" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+  - **Ful** ![]({{ assets }}/fl.png)&nbsp;**fl**
+{% assign words = "useful beautyfully" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+  - **Hood** ![]({{ assets }}/hd.png)&nbsp;**hd**
+{% assign words = "manhood" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+  - **Ing** ![]({{ assets }}/ing_both.png)&nbsp;**ing**
+{% assign words = "using saying seeming" | split: " " %}{% for word in words %}
+    - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
+{% endfor %}
+    - This form is used only for the inflection _-ing_ and not in such words as ![]({{ assets }}/king.png)&nbsp;**king**; cp. ![]({{ assets }}/sing.png)&nbsp;**sing**, ![]({{ assets }}/singing.png)&nbsp;**singing.**
+    - It is better to curve the stroke, thus ![]({{ assets }}/ing_curved.png), after
+{% assign words = "d m n t v" | split: " " %}{% for word in words %}
+      *word{% if forloop.last%}.{%else%},{%endif%}*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
+{% endfor %}
+
 
 ### The General Method
 The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% assign words = 'DIFferenT DIFferenCE acknowledge ESPeciallY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
