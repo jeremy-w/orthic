@@ -394,7 +394,6 @@ The following methods of abbreviation are used in correspondence and in ordinary
   {{- it.note | default:"" }}
   {% for word in it.examples %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
-{% endfor %}
   {%- endfor -%}
 {% endfor %}
 
