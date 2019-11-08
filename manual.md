@@ -410,8 +410,8 @@ The general method of abbreviating long words is to write only the first syllabl
 
 {% assign words = 'DIF.feren.T DIF.feren.CE ACK.nowledge ESP.eciall.Y CIR.cumstan.CE EXTR.aordinar.Y REP.resentati.VE' | split: ' ' %}{% for word in words -%}
 {% assign image = word | remove:"." -%}
-{% assign bits = word | downcase | split:"." %}
-- <img src="{{ assets }}/{{ word }}.png" />&nbsp;**<u>{{ bit[0] }}</u>({{ bit[1] }})<u>{{ bit[2] }}</u>**
+{% assign bit = word | downcase | split:"." %}
+- <img src="{{ assets }}/{{ image }}.png" />&nbsp;**<u>{{ bit[0] }}</u>({{ bit[1] }})<u>{{ bit[2] }}</u>**
 {% endfor %}
 
 In many cases the termination may be joined, as in the last three examples.
