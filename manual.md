@@ -418,7 +418,9 @@ Words may often be joined together provided that they are closely connected in s
 ### Abbreviations for Common Words
 The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand.
 
-**[TODO: Add table of abbreviations.]**
+{% for b in site.data.manual.briefs %}
+  - **{{ b }}**&nbsp;![]({{ assets }}/b_{{ b | remove:"(" | remove:")","" | truncatewords:1 }}.png)
+{% endfor %}
 
 ## Specimens of the Ordinary Style
 ### The Introductory Remarks
