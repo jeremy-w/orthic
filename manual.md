@@ -557,7 +557,6 @@ I guess that makes this an atonic Greek orthography. I expect diaeresis would be
 <!-- thanks http://www.typegreek.com/ -->
 
 ## Hints for the Reporting Style
-### Written in Ordinary Style
 
 <figure>
  <img src="{{ assets }}/ReportingHintsPage1.png" />
@@ -565,15 +564,16 @@ I guess that makes this an atonic Greek orthography. I expect diaeresis would be
  <figcaption>Hints for the reporting style. See next section for key.</figcaption>
 </figure>
 
-#### Key
+## Key to Hints
 _Jeremy: This section is an original addition of this work. The images have a dot at the start of every fifth line to help you jump back and forth between the shorthand and this key._
 
 _The original text provided no key for these hints. If you wanted to learn the reporting style from the manual, you needed to learn to read ordinary style first._
 
 The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
+
 Words are abbreviated as in longhand by the application (3) of the general principle given in §10.
-This method is so simple that with a little (4) practice any reporter can easily extemporise suitable abbreviations for himself, according to the (5) context of the subject upon which he is engaged.
-In order however to secure the greatest possible (6) uniformity of style among writers of-the system, it’s intended shortly to publish (7) a standard list of abbreviations for common words in the form of a vocabulary.
+This method is so simple that with a little (4) practice any reporter can easily extemporise suitable abbreviations for himself, according to the (5) context of the subject upon which he is engaged. In order however to secure the greatest possible (6) uniformity of style among writers of-the system, it’s intended shortly to publish (7) a standard list of abbreviations for common words in the form of a vocabulary.
+
 (8) It’s impossible to treat the subject of reporting 
 adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10) 
 
@@ -590,7 +590,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
 
 3. MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
  The omission of B P or V is indicated by (12) mode I, that is by writing the termination above;
- [TODO: Transcribe the rest of line 12 and then lines 13 through 20.]
+ thus which^r = whichever, g^n = given. (13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III ; thus s_n = sign, s_t = sight, t_n = taken, wa_. = wage, wa_s = wages (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; this dif-ce = difference, a-plish = accomplish. (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; -- (19) un-n = uncommon, i-c^. = i-c(o)nceive, isha^. = ishabe (i shall be), chas^n = (whi)ch has b(ee)n, (20) ^yd = bey(o)nd, ^f = before, ^ter = better, ^n^lnt = benevolent, f^ry = for every.
 
 ### Specimen (Moderately Abbreviated)
 
