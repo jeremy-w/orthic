@@ -406,14 +406,19 @@ Some common terminations are abbreviated as shown in the following list:
 
 
 ### The General Method
-The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus, {% assign words = 'DIFferenT DIFferenCE acknowledge ESPeciallY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor -%}. In many cases the termination may be joined, as in the last three examples.
+The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus,
+
+{% assign words = 'DIFferenT DIFferenCE ACKnowledge ESPeciallY CIRcumstanCE EXTRaordinarY REPresentatiVE' | split: ' ' %}{% for word in words -%}
+- <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**
+{% endfor %}
+
+In many cases the termination may be joined, as in the last three examples.
 
 ### Phrases
-Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [following]: ex.&nbsp;gr. {% assign words = 'able to do,as it is,I am not,I have had,I shall be very,to be,ought to have been,with a view to' | split: ',' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor -%}.
+Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [of common words in the next section]: ex.&nbsp;gr.
+{% assign words = 'able to do,as it is,I am not,I have had,I shall be very,to be,ought to have been,with a view to' | split: ',' %}{% for word in words -%}
+- <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**
+{% endfor %}
 
 ### Abbreviations for Common Words
 The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand.
