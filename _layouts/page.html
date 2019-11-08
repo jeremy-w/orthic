@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% assign hmin = page.toc_hmin | default: 2 %}
+    {% assign hmax = page.toc_hmax | default: 3 %}
+    {% include toc.html html=content class='menu-list' h_min=hmin h_max=hmax contents_title=contentsTitle %}
+{% endif %}
+<div class="content">
+    {{ content }}
+</div>

@@ -4,6 +4,7 @@ title: "A Manual of Orthographic Shorthand"
 subtitle: "The Cambridge System"
 author: "Hugh L. Callendar"
 toc: true
+toc_hmax: 6
 ---
 # A Manual of Orthographic Shorthand: The Cambridge System
 
@@ -564,7 +565,7 @@ I guess that makes this an atonic Greek orthography. I expect diaeresis would be
  <figcaption>Hints for the reporting style. See next section for key.</figcaption>
 </figure>
 
-## Key to Hints
+### Key to Hints
 _Jeremy: This section is an original addition of this work. The images have a dot at the start of every fifth line to help you jump back and forth between the shorthand and this key._
 
 _The original text provided no key for these hints. If you wanted to learn the reporting style from the manual, you needed to learn to read ordinary style first._
