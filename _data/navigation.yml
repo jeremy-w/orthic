@@ -1,5 +1,4 @@
-- name: Resources
-  link: /#
-  dropdown:
-    - name: The Manual
-      link: /manual
+- name: The Manual
+  link: /manual
+- name: Notes
+  link: /notes
