@@ -68,6 +68,8 @@ It is only necessary to point out its bearing on the question of an orthographic
 
 [^1]: Published by C. J. Clay and Sons, price 2_s_.
 
+### Simple, definite, and familiar
+
 Every system of shorthand must in one sense be orthographic.
 There must be a correct outline for each word.
 Every departure from this rule entails a certain loss of efficiency, and a systematic violation of it results in hopeless confusion.
@@ -83,18 +85,26 @@ That is the main and decisive point.
 The simplicity and definiteness obtained by adopting the orthographic basis make it far preferable for general use to the phonetic.
 There are several minor advantages, however, which should not be overlooked.
 
+### Easily represents names and foreign languages
+
 A phonetic system is quite unable to cope with any peculiarities of spelling, or to give any adequate representation of proper names.
 It is also very difficult to adapt to the pronunciation of a foreign language.
 Orthic, as [shown in the _Manual,_]({{M}}#application-to-foreign-languages) can be used, almost without change, for writing any foreign language that is spelt with the common alphabet.
 
+### Longhand abbreviations directly usable
+
 Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.
 The majority of the examples given in the list of ["Examples of Abbreviations"](#examples-of-abbreviations) are simply transliterations of those in common use, and being already familiar require no learning.
+
+### Equal to any phonetic system
 
 It is commonly urged in favour of phonetic spelling that so much is gained in point of shortness by the omission of mute and silent letters, and by using simple signs for diphthongs and other compound sounds.
 This argument as applied to shorthand is somewhat misleading.
 All phonetic methods of abbreviation, such as _tho_ for _though,_ _brot_ for _brought_ etc., in so far as they are convenient and clear, are naturally utilised in any orthographic system.
 Common diphthongs and combinations are also naturally represented by simple curves.
 The characters of the orthographic alphabet can also be grouped on the principle of representing similar sounds by similar signs, thus securing whatever advantages a phonetic system may claim in this respect.
+
+### Solves the harder problems
 
 From the inventor's point of view, the real advantage of a phonetic system lies in the fact that it is much easier _to construct._
 The early inventors could not find sufficient material for their alphabets in the way of characters that would join easily and clearly.
@@ -109,6 +119,8 @@ As early as 1887 the author fully recognised the advantages of an orthographic b
 He was therefore content to abandon his orthographic labours, and to acquiesce in the generally prevailing opinion (as expressed in the _Manual,_ p.&nbsp;19) that a system of shorthand to be simple, consistent and complete must be phonetic, since it is _almost impossible_ to make a system represent consistently and simply the endless variety of combinations in the common spelling.
 A correction in the above passage suggested by two or three eminent shorthand authorities, conducted in striking out the word 'almost' before impossible.
 The author however, having at length succeeded in solving the problem to his own satisfaction, is now of the opinion that he had somewhat over-rated the impossibility.
+
+### No need to learn phonetic spelling
 
 Very shortly after the publication of _Cursive,_ it became evident that the difficulties of the majority of learners were almost entirely phonetic, that the system was otherwise extremely simple and very easily acquired.
 The author therefore set to work again in a more systematic way.
