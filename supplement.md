@@ -94,7 +94,7 @@ Orthic, as shown in the _Manual,_ can be [used, almost without change, for writi
 ### Longhand abbreviations directly usable
 
 Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.
-The majority of the examples given in the list of ["Examples of Abbreviations"](#examples-of-abbreviations) are simply transliterations of those in common use, and being already familiar require no learning.
+The majority of the examples given in the list of ['Examples of Abbreviations'](#examples-of-abbreviations) are simply transliterations of those in common use, and being already familiar require no learning.
 
 ### Equal to any phonetic system
 
@@ -161,7 +161,27 @@ This is of great assistance in forming the characters neatly, and in distinguish
 
 ## General Method of Abbreviation
 
+The [general method of abbreviating Orthic as given in the _Manual_]({{M}}#the-general-method) is the same as that ordinarily employed in longhand, namely, to write the first syllable of a word and, if necessary, to indicate the termination by writing the last letter or two separated by a small interval from the rest of the word.
+Experience has shown that abbreviations made in this way are at once the most suggestive and the most readily extemporised.
+The free use of this method of abbreviation is rendered possible in Orthic by the full expression of vowels in the outlines.
+In systems of shorthand which have no adequate means of expressing the vowels, it would obviously be quite inadmissible.
+
+In correspondence, this method must of course be used with reason and moderation and with due regard to the context.
+It should be restricted to very common words or to words frequently repeated and specially related to the subject of the letter.
+In taking notes intended only for private use, it may much more freely employed.
+
+Examples of abbreviations for common words such as may safely be used in correspondence are given in the list of ['Examples of Abbreviations.'](#examples-of-abbreviations)
+The method of curtailment may be applied to short words as well as to long ones.
+In the case of short words containing a characteristic long vowel of diphthong it is usually best to keep the vowel (e.g. _rea_ for _read,_ _rou_ for _round,_ _cou_ for _count_), but in the case of very common words for which abbreviations are already current in longhand, it is often better to follow the longhand usage (e.g. _rt_ for _right,_ _mst_ for _most,_ _pt_ for _part,_ _pnt_ for _point,_ _cd_ for _could_).
+It may be remarked that, as in longhand, the same abbreviation may in some cases be used for two or even three different words provided they are different parts of speech such as would necessarily be distinguished by the context.
+Thus _hd_ is used for _had_ and _head_ and also for the termination _-hood,_ _wd_ for _would_ and _world,_ _mst_ for _most_ and _must,_ _mt_ for _might_ and for the termination _-ment._
+In most systems of shorthand this principle is applied, by the wholesale omission of vowels, to an altogether unwarrantable extent.
+In Taylor's or Pitman's a single combination of consonants such as _ls_ may stand for any one of twenty or thirty different words.
+The principle in itself is good and reasonable, but we would caution writers of Orthic against the abuse of it.
+
+
 ## Phraseography
+
 
 ## Supra Linear Writing
 
