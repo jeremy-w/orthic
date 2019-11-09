@@ -581,17 +581,17 @@ adequately in the present publication, (9) but we will proceed to give a few hin
 1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and inflexions which are evidently required (12) by the context may be omitted.
  Mere initials may be largely used for repeated names (13) and titles.
  Examples
- 
- - s = sir,
- - l = lord,
- - p = page,
- - q = question,
- - pr = principle,
- - rep = (14) represent,
- - imp = important,
- - fou = found,
- - ea = each,
- - mu = much.
+
+  - s = sir,
+  - l = lord,
+  - p = page,
+  - q = question,
+  - pr = principle,
+  - rep = (14) represent,
+  - imp = important,
+  - fou = found,
+  - ea = each,
+  - mu = much.
 
  (15) In the case of short words it’s often better to join the last letter;
 
@@ -639,10 +639,10 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    - wa_s = wages
 
  - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
-
+  
    - dif-ce = difference,
    - a-plish = accomplish.
-   
+    
   (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
 
     - (19) un-n = uncommon,
