@@ -47,7 +47,7 @@ _June,_ 1892.
 
 ## Introduction
 
-The object of the following pages is to supply fuller explanation and illustration of [the methods of abbreviation given in the _Manual_ as "Hints for the Reporting Style"]({{M}}#hints-for-the-reporting-style) and to provide advanced writers of the system with additional matter for exercise and reading practice.
+The object of the following pages is to supply fuller explanation and illustration of [the methods of abbreviation given in the _Manual_ as 'Hints for the Reporting Style']({{M}}#hints-for-the-reporting-style) and to provide advanced writers of the system with additional matter for exercise and reading practice.
 
 Some students appear to think that a phonetic system must necessarily be briefer and simpler than an orthographic.
 Others appreciating the superior simplicity of the orthographic method are apt to wonder why shorthand was ever made phonetic.
@@ -141,6 +141,23 @@ In any case the work of both teacher and learner would be much simplified by kee
 
 
 ## Ordinary Style
+
+The Ordinary Style of Orthic is intended for general use and for purposes of correspondence and communication between different writers of the system.
+The rules have been made as simple and definite as possible, so that any word can be correctly written in one way only.
+It is particularly desirable that writers should keep as far as possible to the ordinary style in correspondence, and that they should not introduce reporting abbreviations of their own devising.
+
+Since the publication of the _Manual_ the [methods of abbreviation given under 'Hints for Reporting']({{M}}#hints-for-the-reporting-style) have been very thoroughly tested by experienced writers of the system.
+Many of these methods have been found to be so convenient and safe for purposes of correspondence that it has been decided to admit them into the ordinary style.
+The following list contains a fuller explanation and illustration of the abbreviations which have been thus admitted.
+
+It should be observed that the use of these additional abbreviations is _optional._
+Those who prefer it may continue to write [the full ordinary style as developed in the _Manual,_]({{M}}#ordinary-style) which is quite brief enough for general purposes.
+But if they correspond with advanced writers of the system, they must be prepared to meet with any of the following methods of abbreviation.
+
+Teachers are recommended to instruct their pupils thoroughly in the full ordinary style, before introducing them to the advanced style developed in this Supplement.
+They should also make beginners write between double-ruled lines at first, as explained in the _Manual,_ ['The Two Sizes of Character.']({{M}}#the-two-sizes-of-character)
+This is of great assistance in forming the characters neatly, and in distinguishing correctly between the two sizes.
+
 
 ## General Method of Abbreviation
 
