@@ -43,7 +43,9 @@ In the meantime teaching for various centres can be arranged with Mr Stevens, th
 _June,_ 1892.
 
 
-## Supplement to the Manual of Orthic
+# Supplement to the Manual of Orthic
+
+## Introduction
 
 The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the _Manual_ [as "Hints for the Reporting Style"]({{M}}#hints-for-the-reporting-style) and to provide advanced writers of the system with additional matter for exercise and reading practice.
 
@@ -52,7 +54,7 @@ Others appreciating the superior simplicity of the orthographic method are apt t
 It has therefore been thought necessary to explain these points more fully for the benefit of those who may not have read the author's previous publications on the subject.
 
 
-### Advantages of the Orthographic Basis
+## Advantages of the Orthographic Basis
 
 An _Orthography,_ that is to say a definite standard of spelling, is the necessary groundwork of any practical system of writing.
 It is essential, both for the sake of rapid automatic writing and to secure ease and certainty in reading, that each word should always be spelt in the same way.
@@ -126,24 +128,24 @@ But it has been shown that there is no necessary connection between the two; and
 In any case the work of both teacher and learner would be much simplified by keeping the two subjects separate.
 
 
-### Ordinary Style
+## Ordinary Style
 
-### General Method of Abbreviation
+## General Method of Abbreviation
 
-### Phraseography
+## Phraseography
 
-### Supra Linear Writing
+## Supra Linear Writing
 
-### Other Prefixes and Slurs
+## Other Prefixes and Slurs
 
-### Terminations
+## Terminations
 
-### Examples of Abbreviations
+## Examples of Abbreviations
 
-### Specimen: Ordinary Style, Abbreviated
+## Specimen: Ordinary Style, Abbreviated
 
-### Specimen: Notes on Reporting
+## Specimen: Notes on Reporting
 
-### Specimen: Notes of a Speech
+## Specimen: Notes of a Speech
 
-### Specimen: Verbatim Report of a Speech
+## Specimen: Verbatim Report of a Speech
