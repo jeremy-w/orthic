@@ -47,7 +47,7 @@ _June,_ 1892.
 
 ## Introduction
 
-The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the _Manual_ [as "Hints for the Reporting Style"]({{M}}#hints-for-the-reporting-style) and to provide advanced writers of the system with additional matter for exercise and reading practice.
+The object of the following pages is to supply fuller explanation and illustration of [the methods of abbreviation given in the _Manual_ as "Hints for the Reporting Style"]({{M}}#hints-for-the-reporting-style) and to provide advanced writers of the system with additional matter for exercise and reading practice.
 
 Some students appear to think that a phonetic system must necessarily be briefer and simpler than an orthographic.
 Others appreciating the superior simplicity of the orthographic method are apt to wonder why shorthand was ever made phonetic.
@@ -89,7 +89,7 @@ There are several minor advantages, however, which should not be overlooked.
 
 A phonetic system is quite unable to cope with any peculiarities of spelling, or to give any adequate representation of proper names.
 It is also very difficult to adapt to the pronunciation of a foreign language.
-Orthic, as [shown in the _Manual,_]({{M}}#application-to-foreign-languages) can be used, almost without change, for writing any foreign language that is spelt with the common alphabet.
+Orthic, as shown in the _Manual,_ can be [used, almost without change, for writing any foreign language that is spelt with the common alphabet.]({{M}}#application-to-foreign-languages)
 
 ### Longhand abbreviations directly usable
 
