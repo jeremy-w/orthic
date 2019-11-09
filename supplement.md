@@ -191,6 +191,14 @@ The simplest and best general rule for a beginner to follow is _not to use_ phra
 
 ## Supra Linear Writing
 
+This signifies writing a word above the line, out of its natural position, to indicate the omission of a prefix.
+It is a method of great simplicity and power if properly applied.
+
+[Initial _th_ as explained in the _Manual_]({{M}}#replace-th--with-writing-higher) is already expressed in this way, supplying clear and systematic abbreviations for a very special class of common words peculiar to English.
+It is found, however, that the use of this method may be very largely extended without any risk of clashing.
+It will be observed that all the following applications of the method are merely special cases of the general method of [abbreviation 'by mode' as explained in the _Manual._]({{M}}#modes)
+
+[TODO: The list of prefixes.]
 
 
 ## Other Prefixes and Slurs
