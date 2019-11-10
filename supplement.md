@@ -19,6 +19,9 @@ p img, li img, td img {
 }
 </style>
 {% assign M = {{ site.url | append: site.baseurl }}/manual %}
+{% capture S -%}
+{{ site.baseurl }}/assets/supplement
+{%- endcapture %}
 
 ## Preface
 
@@ -306,9 +309,63 @@ Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _
 ## Examples of Abbreviations
 
 ## Specimen: Ordinary Style, Abbreviated
+This specimen is the introduction to this book rendered in the abbreviated ordinary style that is its subject. It comprises the entire chapter 'Advantages of the Orthographic Basis' and the start of 'The Ordinary Style.' The earlier text itself serves as the key.
+
+<figure>
+ <img src="{{ S }}/OrthographicBasisPage1.png" />
+ <figcaption>This page runs from, 'An orthography, that is…,' through, 'Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.'</figcaption>
+</figure>
+
+<figure>
+ <img src="{{ S }}/OrthograpicBasisPage2.png" />
+ <figcaption>This page continues through, 'A correction in the above passage suggested by 2.'</figcaption>
+</figure>
+
+<figure>
+ <img src="{{ S }}/OrthograpicBasisPage3.png" />
+ <figcaption>This continues the text. It finishes that 
+'…they should not introduce reporting abbreviations of their own devising.' It then concludes with a new sentence.</figcaption>
+</figure>
+
+The new sentence is a variation on one occurring later in the 'General Method' chapter: 'In reporting or taking notes for private use much greater latitude may be naturally allowed.'
+
 
 ## Specimen: Notes on Reporting
 
-## Specimen: Notes of a Speech
+<figure>
+ <img src="{{ S }}/ReportingNotesPage1.png" />
+ <img src="{{ S }}/ReportingNotesPage2.png" />
+ <img src="{{ S }}/ReportingNotesPage3.png" />
+ <figcaption>Notes on reporting. No key is provided.</figcaption>
+</figure>
+
+## Specimen: Notes of a Speech by Lord Dufferin at St Andrews
+
+### Page 1
+
+<figure>
+ <img src="{{ S }}/SpeechPage1.png" />
+ <figcaption>Notes of a speech, page 1.</figcaption>
+</figure>
+
+### Key to Page 1
+
+### Page 2
+
+<figure>
+ <img src="{{ S }}/SpeechPage2.png" />
+ <figcaption>Notes of a speech, page 2.</figcaption>
+</figure>
+
+### Key to Page 2
 
 ## Specimen: Verbatim Report of a Speech
+
+<figure>
+ <img src="{{ S }}/VerbatimPage1.png" />
+ <figcaption>Specimen of verbatim reporting.</figcaption>
+</figure>
+
+### Key: Lord Salisbury at the Mansion House
+
+
