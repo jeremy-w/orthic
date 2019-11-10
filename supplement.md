@@ -198,10 +198,41 @@ It is a method of great simplicity and power if properly applied.
 It is found, however, that the use of this method may be very largely extended without any risk of clashing.
 It will be observed that all the following applications of the method are merely special cases of the general method of [abbreviation 'by mode' as explained in the _Manual._]({{M}}#modes)
 
-[TODO: The list of prefixes.]
+### Eve
+The words:
+{% assign words = "every evening event evident evil" | split:" " %}
+{%for word in words %}
+- _{{word}}_
+{%endfor%}
 
+and their derivatives are abbreviated by the _V_-Mode, in the same way as _ever,_ by omitting the _eve_ and writing the rest of the word above the line.
+
+**Exception:** _Even_ is written _e’en,_ to distinguish it from _than_ or _then._
+
+### Be
+This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
+
+The word _be_ is expressed by a dot above the line; _been_ and _being_ by _n_ and straight _‑ing;_ the former will not be found to clash with _than._
+
+### Per-, pro-, pre-
+These prefixes, being Latin, will not clash with any of the above English prefixes, and may be expressed in the same way with great saving of time and space.
+
+_Pre-_ and _pro-_ are distinguished from _per,_ if necessary, by retaining the vowels _e_ and _o._
+The cases, however, in which it is necessary to make the distinction are very rare.
+
+When any of these prefixes occur in the middle of a word after another prefix, as in the words _unbelief, compromise,_ etc., they are expressed by Mode (1), that is to say by writing the terminal portion of the word close above and to the right of the initial prefix.
+In the prefixes _super, supra, hyper,_ the _per_ is similarly expressed.
+
+The allied prefix _pri_ may be expressed in the same way as _pre_ in some common words. [TODO: See if List provides some examples, because none were given here.]
+
+### Para, peri
+These Greek prefixes may also be expressed by supra-linear writing for the same reason.
+_Peri_ is distinguished by retaining the _i_; it may be regarded as a special case of _per._
+
+_Examples_ of these prefixes will be found in the list of ['Examples of Abbreviations.'](#examples-of-abbreviations)
 
 ## Other Prefixes and Slurs
+
 
 ## Terminations
 
