@@ -273,6 +273,40 @@ Written _trs,_ as in longhand.
 
 ## Terminations
 
+In accordance with the general method terminations are indicated by writing the last letter or two detached from the rest of the word.
+Thus the common terminations
+{%assign words = "ent ence ency graph ism ship wise" | split:" "%}
+{%for word in words%}
+_‑{{word}},_
+{%endfor%}
+are written
+{%assign words = "t ence cy ph m p se" | split:" "%}
+{%for word in words%}
+_‑{{word}},_
+{%endfor%}
+respectively.
+(See the list.)
+
+### Ness
+This termination should be written _‑ess_ detached, by the general rule, and not _ns_ as given in the _Manual._
+Detached _n_ and _ns_ can then be used, as in longhand, for the expression of the common terminations _‑ation_ and _‑ations._
+
+### Ve, ‑ive
+This common termination is expressed by a dot above and to the right of the word to indicate the _v._
+([Mode (1), _Manual,_ 'Hints.']({{M}}#modes))
+When the word is inflected the last letter of the inflection is substituted for the dot.
+(See _gives, given, selves,_ etc. in the list.)
+
+### Ge, ‑dge, ‑age
+These and derived terminations are similarly expressed by a dot below and to the right to indicate the _g._
+([Mode (3), _Manual,_ 'Hints.']({{M}}#modes)
+See also _knowledge, agent,_ etc. in the list.)
+
+### Gn, gram
+Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _g,_ as in the termination _‑ight._
+(See _foreign, sign,_ in the list.)
+
+
 ## Examples of Abbreviations
 
 ## Specimen: Ordinary Style, Abbreviated
