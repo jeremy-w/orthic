@@ -652,7 +652,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
      - i-c<sup>.</sup> = i-c(o)nceive,
      - isha<sup>.</sup> = ishabe (i shall be),
      - chas<sup>n</sup> = (whi)ch has b(ee)n,
-     - (20) <sup>yd</sup> = bey(o)nd,
+     - (20) <sup>yd</sup> = bey(on)d,
      - <sup>f</sup> = before,
      - <sup>ter</sup> = better,
      - <sup>n<sup>lnt</sup></sup> = benevolent,
