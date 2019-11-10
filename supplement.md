@@ -276,14 +276,10 @@ Written _trs,_ as in longhand.
 In accordance with the general method terminations are indicated by writing the last letter or two detached from the rest of the word.
 Thus the common terminations
 {%assign words = "ent ence ency graph ism ship wise" | split:" "%}
-{%for word in words%}
-_‑{{word}},_
-{%endfor%}
+{%for word in words%}_‑{{word}},_ {%endfor%}
 are written
 {%assign words = "t ence cy ph m p se" | split:" "%}
-{%for word in words%}
-_‑{{word}},_
-{%endfor%}
+{%for word in words%}_‑{{word}},_ {%endfor%}
 respectively.
 (See the list.)
 
