@@ -579,81 +579,84 @@ This method is so simple that with a little (4) practice any reporter can easily
 adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10) 
 
 1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and inflexions which are evidently required (12) by the context may be omitted.
- Mere initials may be largely used for repeated names (13) and titles.
- Examples
+   Mere initials may be largely used for repeated names (13) and titles.
+   Examples
 
-  - s = sir,
-  - l = lord,
-  - p = page,
-  - q = question,
-  - pr = principle,
-  - rep = (14) represent,
-  - imp = important,
-  - fou = found,
-  - ea = each,
-  - mu = much.
+   - s = sir,
+   - l = lord,
+   - p = page,
+   - q = question,
+   - pr = principle,
+   - rep = (14) represent,
+   - imp = important,
+   - fou = found,
+   - ea = each,
+   - mu = much.
 
- (15) In the case of short words it’s often better to join the last letter;
+   (15) In the case of short words it’s often better to join the last letter;
 
- - pt = part,
- - (16) sht = short,
- - tn = town,
- - ler = letter,
- - ld = world,
- - ming = morning. (17)
+   - pt = part,
+   - (16) sht = short,
+   - tn = town,
+   - ler = letter,
+   - ld = world,
+   - ming = morning.
 
- (17) Letters which are weakly sounded, such as GH in STRAIT = straight, may often be left (18) out in abbreviating; initial H in such words as HIM HAS HAD especially in (19) phrases and compounds;
- - chas = which has,
- - shtnd = shorthand,
- - chil = which will.
+   (17) Letters which are weakly sounded, such as GH in STRAIT = straight, may often be left (18) out in abbreviating; initial H in such words as HIM HAS HAD especially in (19) phrases and compounds;
+
+   - chas = which has,
+   - shtnd = shorthand,
+   - chil = which will.
  
 2. (1) <a id="slurring" />SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
- In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word. 
- Examples of common slurs are:
+   In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word. 
+   Examples of common slurs are:
  
- - (5) doubled-D = DD or TD,
- - deep doubled D = DV,
- - UUN = USION or UTION. (6)
+   - (5) doubl-width D = DD or TD,
+   - deep double-width D = DV,
+   - UUN = USION or UTION. (6)
 
- The larger and more characteristic signs should be retained, but the smaller signs such as L R (7) may be slurred; examples
+   The larger and more characteristic signs should be retained, but the smaller signs such as L R (7) may be slurred; examples
  
- - expeec = experience,
- - beev = believe,
- - aso = also,
- - gt (8) = grt,
- - mter = matter,
- - eduun = education,
- - nstuun = institution. (9)
+   - expeec = experience,
+   - beev = believe,
+   - aso = also,
+   - gt (8) = grt,
+   - mter = matter,
+   - eduun = education,
+   - nstuun = institution. (9)
 
 3. <a id="modes" />MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
 
- - The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
-   - which^r = whichever,
-   - g^n = given.
- - (13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III; thus
+   - The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
 
-   - s_n = sign,
-   - s_t = sight,
-   - t_n = taken,
-   - wa_. = wage,
-   - wa_s = wages
+     - which^r = whichever,
+     - g^n = given.
 
- - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
+   - (13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III; thus
+
+     - s_n = sign,
+     - s_t = sight,
+     - t_n = taken,
+     - wa_. = wage,
+     - wa_s = wages
+
+   - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
   
-   - dif-ce = difference,
-   - a-plish = accomplish.
+     - dif-ce = difference,
+     - a-plish = accomplish.
     
-  (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
+     (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
 
-    - (19) un-n = uncommon,
-    - i-c^. = i-c(o)nceive,
-    - isha^. = ishabe (i shall be),
-    - chas^n = (whi)ch has b(ee)n,
-    - (20) ^yd = bey(o)nd,
-    - ^f = before,
-    - ^ter = better,
-    - ^n^lnt = benevolent,
-    - f^ry = for every.
+     - (19) un-n = uncommon,
+     - i-c^. = i-c(o)nceive,
+     - isha^. = ishabe (i shall be),
+     - chas^n = (whi)ch has b(ee)n,
+     - (20) ^yd = bey(o)nd,
+     - ^f = before,
+     - ^ter = better,
+     - ^n^lnt = benevolent,
+     - f^ry = for every.
 
 #### [Modal vs position writing]
 [Jeremy: "Benevolent" demonstrates how indication by mode differs from the fixed positions used in Pitman's shorthand. While Pitman's positions are relative to the line, Orthic's modes are relative to the preceding character. Thus a raised _n_ implies the prefix _be-,_ and then an _lnt_ raised relative to that _n_ implies the _v._]
