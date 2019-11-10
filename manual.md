@@ -612,7 +612,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word. 
    Examples of common slurs are:
  
-   - (5) doubl-width D = DD or TD,
+   - (5) double-width D = DD or TD,
    - deep double-width D = DV,
    - UUN = USION or UTION. (6)
 
@@ -630,16 +630,16 @@ adequately in the present publication, (9) but we will proceed to give a few hin
 
    - The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
 
-     - which^r = whichever,
-     - g^n = given.
+     - which<sup>r</sup> = whichever,
+     - g<sup>n</sup> = given.
 
    - (13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III; thus
 
-     - s_n = sign,
-     - s_t = sight,
-     - t_n = taken,
-     - wa_. = wage,
-     - wa_s = wages
+     - s<sub>n</sub> = sign,
+     - s<sub>t</sub> = sight,
+     - t<sub>n</sub> = taken,
+     - wa<sub>.</sub> = wage,
+     - wa<sub>s</sub> = wages
 
    - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
   
@@ -649,17 +649,17 @@ adequately in the present publication, (9) but we will proceed to give a few hin
      (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
 
      - (19) un-n = uncommon,
-     - i-c^. = i-c(o)nceive,
-     - isha^. = ishabe (i shall be),
-     - chas^n = (whi)ch has b(ee)n,
-     - (20) ^yd = bey(o)nd,
-     - ^f = before,
-     - ^ter = better,
-     - ^n^lnt = benevolent,
-     - f^ry = for every.
+     - i-c<sup>.</sup> = i-c(o)nceive,
+     - isha<sup>.</sup> = ishabe (i shall be),
+     - chas<sup>n</sup> = (whi)ch has b(ee)n,
+     - (20) <sup>yd</sup> = bey(o)nd,
+     - <sup>f</sup> = before,
+     - <sup>ter</sup> = better,
+     - <sup>n<sup>lnt</sup></sup> = benevolent,
+     - f<sup>ry</sup> = for every.
 
 #### [Modal vs position writing]
-[Jeremy: "Benevolent" demonstrates how indication by mode differs from the fixed positions used in Pitman's shorthand. While Pitman's positions are relative to the line, Orthic's modes are relative to the preceding character. Thus a raised _n_ implies the prefix _be-,_ and then an _lnt_ raised relative to that _n_ implies the _v._]
+[Jeremy: 'Benevolent' demonstrates how indication by mode differs from the fixed positions used in Pitman's shorthand. While Pitman's positions are relative to the _line,_ Orthic's modes are relative to the _preceding character._ Thus a raised _n_ implies the prefix _be-,_ and then an _lnt_ raised relative to that _n_ implies the _v._]
 
 ### Specimen (Moderately Abbreviated)
 
