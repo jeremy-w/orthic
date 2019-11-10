@@ -232,6 +232,43 @@ _Peri_ is distinguished by retaining the _i_; it may be regarded as a special ca
 _Examples_ of these prefixes will be found in the list of ['Examples of Abbreviations.'](#examples-of-abbreviations)
 
 ## Other Prefixes and Slurs
+### Acqu
+Written _aqu._
+
+### Adj
+Written _aj._
+
+### Adv
+Slurred into one large character compounded of _d_ and _v_ [as explained in the _Manual,_ 'Hints for Reporting,' 'Slurring.']({{M}}#slurring)
+
+### Com, con
+Expressed by a dot on the line written close in front of the word, as explained in the _Manual,_ 'Hints for Reporting.'
+[Jeremy: As far as I can tell, this is not actually explained there. You could infer it, but it's not explained.]
+In taking notes, the dot may generally be omitted or expressed by Mode (2).
+In correspondence it should be retained.
+
+In compound prefixes, such as _incom-, discom-,_ etc., the _com-_ or _con-_ is expressed by Mode (2).
+
+### Circum
+Written _cir_ followed by a short break to represent _cum._ _Circe_ is the the regular longhand abbreviation for the word _circumstance._
+
+### Magna, magni
+Written _m,_ the rest of the word being placed below to indicate the _g._ (Mode (3), _Manual,_ 'Hints.')
+
+### Mb
+May be written with a single character somewhat like _mp,_ but beginning and ending on the line. (See the list.)
+
+### Mis-
+Written _ms,_ omitting the _i._
+
+### Nch, sch
+These combinations may be written without an angle or break. (See _inch, such, school,_ in the list.)
+
+### Tch
+The _t_ may always be omitted in this combination.
+
+### Trans
+Written _trs,_ as in longhand.
 
 
 ## Terminations
