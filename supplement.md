@@ -189,7 +189,7 @@ The number of possible and useful phrases is so great that it is impracticable t
 The simplest and best general rule for a beginner to follow is _not to use_ phraseography at all in correspondence until he has made himself perfectly familiar with the system.
 
 
-## Supra Linear Writing
+## Supra-Linear Writing
 
 This signifies writing a word above the line, out of its natural position, to indicate the omission of a prefix.
 It is a method of great simplicity and power if properly applied.
