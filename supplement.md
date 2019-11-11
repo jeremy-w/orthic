@@ -308,7 +308,7 @@ Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _
 
 ## Examples of Abbreviations
 {% for b in site.data.supplement.briefs %}
-  - {{ b }}&nbsp;![]({{ assets }}/b_{{ b | remove:"(" | remove:")" | truncatewords:1,"" }}.png)
+  - {{ b }}&nbsp;![]({{ assets }}/{{ b | remove:"(" | remove:")" | truncatewords:1,"" }}.png)
 {% endfor %}
 
 ## Specimen: Ordinary Style, Abbreviated
