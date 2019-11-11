@@ -312,17 +312,17 @@ Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _
 This specimen is the introduction to this book rendered in the abbreviated ordinary style that is its subject. It comprises the entire chapter 'Advantages of the Orthographic Basis' and the start of 'The Ordinary Style.' The earlier text itself serves as the key.
 
 <figure>
- <img src="{{ S }}/OrthographicBasisPage1.png" />
+ <img src="{{ S }}/OrthographicBasisPage1.jpg" />
  <figcaption>This page runs from, 'An orthography, that is…,' through, 'Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.'</figcaption>
 </figure>
 
 <figure>
- <img src="{{ S }}/OrthograpicBasisPage2.png" />
+ <img src="{{ S }}/OrthographicBasisPage2.jpg" />
  <figcaption>This page continues through, 'A correction in the above passage suggested by 2.'</figcaption>
 </figure>
 
 <figure>
- <img src="{{ S }}/OrthograpicBasisPage3.png" />
+ <img src="{{ S }}/OrthographicBasisPage3.jpg" />
  <figcaption>This continues the text. It finishes that 
 '…they should not introduce reporting abbreviations of their own devising.' It then concludes with a new sentence.</figcaption>
 </figure>
