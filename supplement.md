@@ -307,6 +307,9 @@ Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _
 
 
 ## Examples of Abbreviations
+{% for b in site.data.supplement.briefs %}
+  - {{ b }}&nbsp;![]({{ assets }}/b_{{ b | remove:"(" | remove:")" | truncatewords:1,"" }}.png)
+{% endfor %}
 
 ## Specimen: Ordinary Style, Abbreviated
 This specimen is the introduction to this book rendered in the abbreviated ordinary style that is its subject. It comprises the entire chapter 'Advantages of the Orthographic Basis' and the start of 'The Ordinary Style.' The earlier text itself serves as the key.
