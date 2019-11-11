@@ -73,7 +73,7 @@ In learning the system the student should work straight through the alphabet and
 ### Doubled Letters
 Doubled letters are shown, **not** by repeating the character, but by putting a dot below; thus, ![]({{ assets }}/odd.png)&nbsp;**odd**, ![]({{ assets }}/too.png)&nbsp;**too.**
 
-**Exception:** ![]({{ assets }}/EE.png)&nbsp;**ee**; thus, ![]({{ assets }}/sleep.png)&nbsp;**sleep**, cp. ![]({{ assets }}/sup.png)&nbsp;**sup**.
+**Exception:** ![]({{ assets }}/EE_arrow.png)&nbsp;**ee**; thus, ![]({{ assets }}/sleep.png)&nbsp;**sleep**, cp. ![]({{ assets }}/sup.png)&nbsp;**sup**.
 
 ## General Rules
 ### Orthographic Spelling
