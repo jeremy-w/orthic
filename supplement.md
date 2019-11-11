@@ -336,9 +336,9 @@ The new sentence is a variation on one occurring later in the 'General Method' c
 ## Specimen: Notes on Reporting
 
 <figure>
- <img src="{{ S }}/ReportingNotesPage1.png" />
- <img src="{{ S }}/ReportingNotesPage2.png" />
- <img src="{{ S }}/ReportingNotesPage3.png" />
+ <img src="{{ S }}/ReportingNotesPage1.jpg" />
+ <img src="{{ S }}/ReportingNotesPage2.jpg" />
+ <img src="{{ S }}/ReportingNotesPage3.jpg" />
  <figcaption>Notes on reporting. No key is provided.</figcaption>
 </figure>
 
