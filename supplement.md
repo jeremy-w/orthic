@@ -347,25 +347,27 @@ The new sentence is a variation on one occurring later in the 'General Method' c
 ### Page 1
 
 <figure>
- <img src="{{ S }}/SpeechPage1.png" />
+ <img src="{{ S }}/SpeechPage1.jpg" />
  <figcaption>Notes of a speech, page 1.</figcaption>
 </figure>
 
 ### Key to Page 1
 
+
 ### Page 2
 
 <figure>
- <img src="{{ S }}/SpeechPage2.png" />
+ <img src="{{ S }}/SpeechPage2.jpg" />
  <figcaption>Notes of a speech, page 2.</figcaption>
 </figure>
 
 ### Key to Page 2
 
+
 ## Specimen: Verbatim Report of a Speech
 
 <figure>
- <img src="{{ S }}/VerbatimPage1.png" />
+ <img src="{{ S }}/VerbatimPage1.jpg" />
  <figcaption>Specimen of verbatim reporting.</figcaption>
 </figure>
 
