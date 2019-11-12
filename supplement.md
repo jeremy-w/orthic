@@ -18,7 +18,7 @@ p img, li img, td img {
   max-height: 3ex
 }
 </style>
-{% assign M = {{ site.url | append: site.baseurl }}/manual %}
+{% assign M = site.url | append: site.baseurl | append: "/manual" %}
 {% capture S -%}
 {{ site.baseurl }}/assets/supplement
 {%- endcapture %}
