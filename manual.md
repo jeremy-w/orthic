@@ -185,11 +185,12 @@ In the following alphabetic list are given examples and explanations of all the 
 - **L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
   - When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
   - <a id="joining-L-examples" />In other cases the distinction is obvious; cp.
-  {% assign pairs = 'black bread,clay_lowercase crow,addle dry,flow fro,glad grade,play pray,little litre,slay Israël,held herd,world already' | split: ',' %}
-  {% for pair in pairs %}
-    {% assign row = pair | split: ' ' %}
-    ![]({{ assets }}/{{ row.first }}.png) | {{ row.first | split: "_" | first }} | ![]({{ assets }}/{{ row.last }}.png) | {{ row.last }}
-  {% endfor %}
+
+        {% assign pairs = 'black bread,clay_lowercase crow,addle dry,flow fro,glad grade,play pray,little litre,slay Israël,held herd,world already' | split: ','-%}
+        {%-for pair in pairs-%}
+        {%-assign row = pair | split: ' '-%}
+        ![]({{ assets }}/{{ row.first }}.png) | {{ row.first | split: "_" | first }} | ![]({{ assets }}/{{ row.last }}.png) | {{ row.last }}
+        {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.l %}
     - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
