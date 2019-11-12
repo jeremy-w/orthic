@@ -373,4 +373,9 @@ The new sentence is a variation on one occurring later in the 'General Method' c
 
 ### Key: Lord Salisbury at the Mansion House
 
-
+{%comment%}
+Add an HR before the footnotes.
+(There may be a way to alter an include or something so this happens
+automatically when there are footnotes.)
+{%endcomment%}
+---
