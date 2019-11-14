@@ -339,8 +339,80 @@ The new sentence is a variation on one occurring later in the 'General Method' c
  <img src="{{ S }}/ReportingNotesPage1.jpg" />
  <img src="{{ S }}/ReportingNotesPage2.jpg" />
  <img src="{{ S }}/ReportingNotesPage3.jpg" />
- <figcaption>Notes on reporting. No key is provided.</figcaption>
+ <figcaption>Notes on reporting.</figcaption>
 </figure>
+
+### Key
+[Jeremy: As in the _Manual,_ the Reporting Specimen did not have a key. This section is my own contribution.]
+
+**Notes on Reporting**
+
+(1) The reporting style of Orthic is in no way essent(ial)ly dif(ferent) fr(om) the ord(inar)y (2) style.
+There-is li(tt)le n(e)w t(o) learn and n(oth)ing to unlearn.
+It’s simply an extension of-the same (3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tise).
+
+(5) The most important and generally useful method of abbreviation is the general method already (6) explained.
+It may be very freely used in reporting with due regard to the context. (7)
+Half the art of reporting depends on the *judicious* use of the context. (8)
+The good reporter acquires an *instinct* which tells him how he may scribble and abbreviate (9) recklessly without fear of subsequent misreading.
+Common or repeated words (10) may be very generally abbreviated but uncommon or rare words should be carefully written. (11)
+It’s of no use to burden the memory with special abbreviations for rare words (12) however long and awkward they may be.
+Beginners often waste a great deal of time (13) and ingenuity in devising special contractions for such words as _bijection,_ _trinitarianism,_ (14) _sesquipedalian,_ and-the like.
+The absurdity of such-a proceeding is too obvious (15) to need comment.
+
+#### Modes
+(16) The use of modes (1) and (3) (except in the special cases (17) already given) should be almost entirely restricted to the expression of _V_ and _G_ respectively. (18)
+Many students appear to have misunderstood the principles of their application some have even (19) gone so far as to write all words beginning with _p, b_ or _v_ above the line omitting (1) the initial letter.
+This is manifestly absurd.
+The initial letter of a word is (2) usually the most important for its identification and should therefore be retained — except in (3) one special case namely that of a com(mo)n prefix.
+Such prefix being common to a large class (4) of words is a less use for purpose of identification and making therefore be (5) suitably expressed by the method of supra-linear writing.
+
+(6) In-the middle of a short word _G_ or _V_ may be conveniently expressed by the (7) mode
+as in _s<super>re</super>_ = severe, _re<sub>n</sub>_ = regain, _s<sub>t</sub>_ = sight, (8)
+but in-the case of longer words
+it's generally better to keep the _G_ or _V_ if it forms (9) part of-the first syllable or root of-the word,
+and only to express it by mode (10) if it occurs in a subsequent syllable.
+For instance it's better to write
+_several_ = (11) _sev_ than _s<super>ral</super>_,
+similarly _reg<sub>n</sub>_ = regulation,
+_<super>nev</super>_ = benevolent not _<super>n<super>lent</super></super>_
+(12) but in _abbr<super>te</super>_ = abbreviate,
+el^te = elevate,
+intel_ce = intelligence,
+rel_n = religion
+(13) the _V_ or _G_ would be aptly expressed by mode. (14)
+
+#### Slurring
+
+In addition to the common slurs given in the _Manual_ the fo(llo)wing (15) will be fou(nd) useful:
+
+- [TODO: List of slurs, lines 15-17.]
+
+(18)
+
+##### Short Vowels
+
+(3)
+
+#### Repeated Letters
+
+(6)
+
+#### Other Suggestions
+
+(10)
+
+#### E and i
+
+(12)
+
+#### Shading
+
+(17)
+
+#### Lastly
+
+
 
 ## Specimen: Notes of a Speech by Lord Dufferin at St Andrews
 
