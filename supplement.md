@@ -339,7 +339,7 @@ The new sentence is a variation on one occurring later in the 'General Method' c
  <img src="{{ S }}/ReportingNotesPage1.jpg" />
  <img src="{{ S }}/ReportingNotesPage2.jpg" />
  <img src="{{ S }}/ReportingNotesPage3.jpg" />
- <figcaption>Notes on reporting.</figcaption>
+ <figcaption>Notes on reporting. Three pages.</figcaption>
 </figure>
 
 ### Key
@@ -347,9 +347,9 @@ The new sentence is a variation on one occurring later in the 'General Method' c
 
 **Notes on Reporting**
 
-(1) The reporting style of Orthic is in no way essent(ial)ly dif(ferent) fr(om) the ord(inar)y (2) style.
+(page 1, line 1) The reporting style of Orthic is in no way essent(ial)ly dif(ferent) fr(om) the ord(inar)y (line 2) style.
 There-is li(tt)le n(e)w t(o) learn and n(oth)ing to unlearn.
-It’s simply an extension of-the same (3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tise).
+It’s simply an extension of-the same (l. 3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tise).
 
 (5) The most important and generally useful method of abbreviation is the general method already (6) explained.
 It may be very freely used in reporting with due regard to the context. (7)
@@ -363,56 +363,53 @@ The absurdity of such-a proceeding is too obvious (15) to need comment.
 #### Modes
 (16) The use of modes (1) and (3) (except in the special cases (17) already given) should be almost entirely restricted to the expression of _V_ and _G_ respectively. (18)
 Many students appear to have misunderstood the principles of their application
-and some have even (19) gone so far as to write all words beginning with _p, b_ or _v_ above the line omitting (1) the initial letter.
+and some have even (19) gone so far as to write all words beginning with _p, b_ or _v_ above the line omitting (page 2, line 1) the initial letter.
 This is manifestly absurd.
 The initial letter of a word is (2) usually the most important for its identification and should therefore be retained — except in (3) one special case namely that of a com(mo)n prefix.
 Such-a prefix being common to a large class (4) of words is a less use for purpose of identification and may therefore be (5) suitably expressed by the method of supra-linear writing.
 
 (6) In-the middle of a short word _G_ or _V_ may be conveniently expressed by the (7) mode
-as in _s<super>re</super>_ = severe, _re<sub>n</sub>_ = regain, _s<sub>t</sub>_ = sight, (8)
+as in _s<sup>re</sup>_ = severe, _re<sub>n</sub>_ = regain, _s<sub>t</sub>_ = sight, (8)
 but in-the case of longer words
 it's generally better to keep the _G_ or _V_ if it forms (9) part of-the first syllable or root of-the word,
 and only to express it by mode (10) if it occurs in a subsequent syllable.
 For instance it's better to write
-_several_ = (11) _sev_ than _s<super>ral</super>_,
+_several_ = (11) _sev_ than _s<sup>ral</sup>_,
 similarly _reg<sub>n</sub>_ = regulation,
-_<super>nev</super>_ = benevolent not _<super>n<super>lent</super></super>_
-(12) but in _abbr<super>te</super>_ = abbreviate,
-el^te = elevate,
-intel_ce = intelligence,
-rel_n = religion
-(13) the _V_ or _G_ would be aptly expressed by mode. (14)
+_<sup>nev</sup>_ = benevolent not _<sup>n<sup>lent</sup></sup>_
+(12) but in _abbr<sup>te</sup>_ = abbreviate,
+_el<sup>te</sup>_ = elevate,
+_intel<sub>ce</sub>_ = intelligence,
+_rel<sub>n</sub>_ = religion
+(13) the _V_ or _G_ would be aptly expressed by mode.
 
 #### Slurring
 
-In addition to the common slurs given in the _Manual_ the fo(llo)wing (15) will be fou(nd) useful:
+(14) In addition to the common slurs given in the _Manual_ the fo(llo)wing (15) will be fou(nd) useful:
 
 - [TODO: List of slurs, lines 15-17.]
 
-(18)
 
 ##### Short Vowels
+(18)
 
-(3)
+(page 3, line 1)
+
 
 #### Repeated Letters
-
-(6)
+(3)
 
 #### Other Suggestions
-
-(10)
+(6)
 
 #### E and i
-
-(12)
+(10)
 
 #### Shading
-
-(17)
+(12)
 
 #### Lastly
-
+(17)
 
 
 ## Specimen: Notes of a Speech by Lord Dufferin at St Andrews
