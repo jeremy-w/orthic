@@ -362,10 +362,11 @@ The absurdity of such-a proceeding is too obvious (15) to need comment.
 
 #### Modes
 (16) The use of modes (1) and (3) (except in the special cases (17) already given) should be almost entirely restricted to the expression of _V_ and _G_ respectively. (18)
-Many students appear to have misunderstood the principles of their application some have even (19) gone so far as to write all words beginning with _p, b_ or _v_ above the line omitting (1) the initial letter.
+Many students appear to have misunderstood the principles of their application
+and some have even (19) gone so far as to write all words beginning with _p, b_ or _v_ above the line omitting (1) the initial letter.
 This is manifestly absurd.
 The initial letter of a word is (2) usually the most important for its identification and should therefore be retained — except in (3) one special case namely that of a com(mo)n prefix.
-Such prefix being common to a large class (4) of words is a less use for purpose of identification and making therefore be (5) suitably expressed by the method of supra-linear writing.
+Such-a prefix being common to a large class (4) of words is a less use for purpose of identification and may therefore be (5) suitably expressed by the method of supra-linear writing.
 
 (6) In-the middle of a short word _G_ or _V_ may be conveniently expressed by the (7) mode
 as in _s<super>re</super>_ = severe, _re<sub>n</sub>_ = regain, _s<sub>t</sub>_ = sight, (8)
