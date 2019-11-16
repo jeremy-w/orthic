@@ -265,7 +265,7 @@ May be written with a single character somewhat like _mp_ ![]({{ S }}/mp.png), b
 Written _ms,_ omitting the _i._ ![]({{ S }}/mis-.png)
 
 ### Nch, sch
-These combinations may be written without an angle or break. (See _inch_ ![]({{ S }}/inch.png), _such_ ![]({{ S }}/such.png), _school_ ![]({{ S }}/school.png),_ in the list.)
+These combinations may be written without an angle or break. (See _inch_ ![]({{ S }}/inch.png), _such_ ![]({{ S }}/such.png), _school_ ![]({{ S }}/school.png), in the list.)
 
 ### Tch
 The _t_ may always be omitted in this combination. [Jeremy: As far as I can tell, not a single example of this rule appears in this book!]
