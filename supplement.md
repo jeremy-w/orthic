@@ -205,7 +205,7 @@ It will be observed that all the following applications of the method are merely
 The words:
 {% assign words = "every evening event evident evil" | split:" " %}
 {%for word in words %}
-- _{{word}}_ ![]({{ S }}/present.png)
+- _{{word}}_ ![]({{ S }}/{{ word }}.png)
 {%endfor%}
 
 and their derivatives are abbreviated by the _V_-Mode, in the same way as _ever,_ by omitting the _eve_ and writing the rest of the word above the line.
