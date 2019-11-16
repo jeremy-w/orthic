@@ -488,6 +488,23 @@ The method however is not to be generally recommended.
 
 ### Key to Page 1
 
+The Rector, who was received with cheers, said that he had determined that the best return he could make to those who had shown him so much kindness, but to whom he knew he was incompetent to communicate anything worth their attention, in regard either to science or letters,
+would be to give them, in as simple and unpretending a manner as he could, such practical hints in regard to some few of the matters which would affect their start in life as his own personal experience might furnish.
+
+The first piece of advice, then, that he would give was to endeavour to reach a practical conception both of the length and of the shortness of life;
+he urged upon them to get clearly into their heads the fact that life is a definite circumscribed period of time, sufficiently long to get a great deal done in it, and yet not long enough to oppress them with the idea of exhausting and unending effort.
+He asked them, in the next place, to try and frame for themselves beforehand as clear and correct a conception as circumstances might permit of the natural incidence, and ultimate conditions of whatever careers they were determined to follow,
+being careful at the same time, before they chose their profession, to get a right knowledge of their individual aptitudes, and of the extent of their powers,
+for he was convinced that their usefulness, as well as their happiness, depended upon their work being done in a congenial atmosphere;
+and that it was much better to choose a humbler, less promising, or less remunerative walk in life, in which they were certain of personal satisfaction, than to commit themselves to a more ambitious employment which might, perhaps, prove distressing to their tastes and unsuited to their faculties.
+
+He impressed upon them strongly the necessity of attending to their health, maintaining that the healthiness and robustness of their nerves and mental fibre were as worthy of cultivation as those of their corporeal faculties.
+In that way they would keep themselves free from those morbid, sentimental, and vicious growths which left a human being neither man nor woman.
+
+Regarding the acquisition of languages, he was inclined to range himself on the side of those who would retain not only Latin but also Greek as an essential part of the education of every gentleman.
+Nay, if one were to be compulsorily admitted, he would prefer dropping Latin rather than Greek, for the literature of Greece had been the quarry out of which the brightest gems in the writings of their modern authors had been extracted.
+He adverted to the necessity of their acquiring a knowledge of, at all events, one modern European language, and there could not be any doubt that that language should be French, for not only was its literature the
+
 
 ### Page 2
 
@@ -497,6 +514,22 @@ The method however is not to be generally recommended.
 </figure>
 
 ### Key to Page 2
+
+most diverse and admirable possessed by any European community except their own, but it had long been accepted as the common channel of communication between European nations.
+
+But far more important than the acquisition of any foreign tongue was the art of skilfully handling their own.
+Already Providence had issued its decree that English should be the predominant language of the globe — in other words, the man who wrote a good book, or made a good speech in English, would command for all time what was already the greatest audience known to history, and which eventually would cover the better part of three of the five continents of the world.
+There was one golden rule which he would venture to insist upon — namely, that in the first place, before putting pen to paper, they should compel their own mind to hammer out an absolutely clear and distinct conception of the thought they wished to express, and that then they should put it into the simplest and least Latinised words that came to hand, without giving a thought to what was called style, and confining their attention to the attainment of only two objects — conciseness and lucidity.
+There was one other useful rule which he would also recommend to all young writers, no matter what might be the nature of their composition, whether books, speeches, sermons, lectures, or addresses — namely, that after they had written them they should cut them down by about one-third.
+Probably there were few books, fewer still sermons, and certainly no speeches, that had ever been produced or delivered which would not have been much improved by being considerably curtailed.
+
+With regard to public speaking, the first essential principle was undoubtedly practice.
+He had often heard experienced members of the House of Commons remark on the extraordinary improvement which practice had produced amongst those whom necessary circumstances or their own courage and ambition had induced to persevere in imposing themselves upon a long-suffering audience.
+He adverted to their writing an extempore speech beforehand, and said they should not send it to the reporters, before it had been delivered, as once was done by an acquaintance of his, who, after all, never got an opportunity of speaking.
+
+His Lordship concluded by mentioning two further rules of conduct — namely, the cultivation of the spirit of justice, and, of the sentiment of chivalry.
+The secret of lifelong happiness was not, as was generally said, to keep one's illusions as long as possible, but to preserve the conviction that one's "illusions" were the only realities, and that their destruction was tantamount to their becoming the victims of a vain and empty dream.
+But with knightly purity and white-robed justice for their companions, the magic light would neither waver nor fade from their path.
 
 
 ## Specimen: Verbatim Report of a Speech
