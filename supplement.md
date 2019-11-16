@@ -205,28 +205,28 @@ It will be observed that all the following applications of the method are merely
 The words:
 {% assign words = "every evening event evident evil" | split:" " %}
 {%for word in words %}
-- _{{word}}_
+- _{{word}}_ ![]({{ S }}/present.png)
 {%endfor%}
 
 and their derivatives are abbreviated by the _V_-Mode, in the same way as _ever,_ by omitting the _eve_ and writing the rest of the word above the line.
 
-**Exception:** _Even_ is written _e’en,_ to distinguish it from _than_ or _then._
+**Exception:** _Even_ is written _e’en_ ![]({{ S }}/even.png), to distinguish it from _than_ or _then._
 
 ### Be
 This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
 
-The word _be_ is expressed by a dot above the line; _been_ and _being_ by _n_ and straight _‑ing;_ the former will not be found to clash with _than._
+The word _be_ is expressed by a dot above the line ![]({{ S }}/be.png); _been_ and _being_ by _n_ ![]({{ S }}/been.png) and straight _‑ing_ ![]({{ S }}/being.png); the former will not be found to clash with _than._
 
 ### Per-, pro-, pre-
-These prefixes, being Latin, will not clash with any of the above English prefixes, and may be expressed in the same way with great saving of time and space.
+These prefixes, being Latin, will not clash with any of the above English prefixes, and may be expressed in the same way with great saving of time and space. [E.g. ![]({{ S }}/person.png) _person,_ ![]({{ S }}/present.png) _present_, ![]({{ S }}/promise.png) _promise._]
 
 _Pre-_ and _pro-_ are distinguished from _per,_ if necessary, by retaining the vowels _e_ and _o._
 The cases, however, in which it is necessary to make the distinction are very rare.
 
-When any of these prefixes occur in the middle of a word after another prefix, as in the words _unbelief, compromise,_ etc., they are expressed by Mode (1), that is to say by writing the terminal portion of the word close above and to the right of the initial prefix.
+When any of these prefixes occur in the middle of a word after another prefix, as in the words _unbelief, compromise,_ etc., they are expressed by Mode (1), that is to say by writing the terminal portion of the word close above and to the right of the initial prefix. [E.g. ![]({{ S }}/comprehend.png) _comprehend._]
 In the prefixes _super, supra, hyper,_ the _per_ is similarly expressed.
 
-The allied prefix _pri_ may be expressed in the same way as _pre_ in some common words. [TODO: See if List provides some examples, because none were given here.]
+The allied prefix _pri_ may be expressed in the same way as _pre_ in some common words. [E.g., ![]({{ S }}/private.png) _private_.]
 
 ### Para, peri
 These Greek prefixes may also be expressed by supra-linear writing for the same reason.
@@ -236,42 +236,42 @@ _Examples_ of these prefixes will be found in the list of ['Examples of Abbrevia
 
 ## Other Prefixes and Slurs
 ### Acqu
-Written _aqu._
+Written _aqu_ ![]({{ S }}/acqu.png).
 
 ### Adj
-Written _aj._
+Written _aj_ ![]({{ S }}/adj.png).
 
 ### Adv
-Slurred into one large character compounded of _d_ and _v_ [as explained in the _Manual,_ 'Hints for Reporting,' 'Slurring.']({{M}}#slurring)
+Slurred into one large character compounded of _d_ and _v_ [as explained in the _Manual,_ 'Hints for Reporting,' 'Slurring.']({{M}}#slurring) [E.g., ![]({{ S }}/advantage.png) _advantage._]
 
 ### Com, con
 Expressed by a dot on the line written close in front of the word, as explained in the _Manual,_ 'Hints for Reporting.'
-[Jeremy: As far as I can tell, this is not actually explained there. You could infer it, but it's not explained.]
+[Jeremy: As far as I can tell, this is not actually explained there. You could infer it, but it's not explained.] [E.g. ![]({{ S }}/common.png) _common,_ ![]({{ S }}/concerning.png) _conc(ern)ing._]
 In taking notes, the dot may generally be omitted or expressed by Mode (2).
 In correspondence it should be retained.
 
 In compound prefixes, such as _incom-, discom-,_ etc., the _com-_ or _con-_ is expressed by Mode (2).
 
 ### Circum
-Written _cir_ followed by a short break to represent _cum._ _Circe_ is the the regular longhand abbreviation for the word _circumstance._
+Written _cir_ ![]({{ S }}/circum-.png) followed by a short break to represent _cum._ _Circe_ ![]({{ S }}/circumstance.png) is the the regular longhand abbreviation for the word _circumstance._
 
 ### Magna, magni
-Written _m,_ the rest of the word being placed below to indicate the _g._ (Mode (3), _Manual,_ 'Hints.')
+Written _m,_ the rest of the word being placed below to indicate the _g._ (Mode (3), _Manual,_ 'Hints.') [E.g. ![]({{ S }}/magnify.png) _magnify._]
 
 ### Mb
-May be written with a single character somewhat like _mp,_ but beginning and ending on the line. (See the list.)
+May be written with a single character somewhat like _mp_ ![]({{ S }}/mp.png), but beginning and ending on the line ![]({{ S }}/mb.png). (See the list.)
 
 ### Mis-
-Written _ms,_ omitting the _i._
+Written _ms,_ omitting the _i._ ![]({{ S }}/mis-.png)
 
 ### Nch, sch
-These combinations may be written without an angle or break. (See _inch, such, school,_ in the list.)
+These combinations may be written without an angle or break. (See _inch_ ![]({{ S }}/inch.png), _such_ ![]({{ S }}/such.png), _school_ ![]({{ S }}/school.png),_ in the list.)
 
 ### Tch
-The _t_ may always be omitted in this combination.
+The _t_ may always be omitted in this combination. [Jeremy: As far as I can tell, not a single example of this rule appears in this book!]
 
 ### Trans
-Written _trs,_ as in longhand.
+Written _trs,_ as in longhand. [E.g. ![]({{ S }}/transact.png) _transact._]
 
 
 ## Terminations
@@ -287,23 +287,23 @@ respectively.
 (See the list.)
 
 ### Ness
-This termination should be written _‑ess_ detached, by the general rule, and not _ns_ as given in the _Manual._
+This termination should be written _‑ess_ detached, by the general rule, and not _ns_ as given in the _Manual._ [E.g. ![]({{ S }}/goodness.png) _goodness._]
 Detached _n_ and _ns_ can then be used, as in longhand, for the expression of the common terminations _‑ation_ and _‑ations._
 
 ### Ve, ‑ive
 This common termination is expressed by a dot above and to the right of the word to indicate the _v._
-([Mode (1), _Manual,_ 'Hints.']({{M}}#modes))
+([Mode (1), _Manual,_ 'Hints.']({{M}}#modes)) [E.g. ![]({{ S }}/arrive.png) _arrive._]
 When the word is inflected the last letter of the inflection is substituted for the dot.
-(See _gives, given, selves,_ etc. in the list.)
+(See _gives_ ![]({{ S }}/gives.png), _given_ ![]({{ S }}/given.png), _selves_ ![]({{ S }}/selves.png), etc. in the list.)
 
 ### Ge, ‑dge, ‑age
 These and derived terminations are similarly expressed by a dot below and to the right to indicate the _g._
 ([Mode (3), _Manual,_ 'Hints.']({{M}}#modes)
-See also _knowledge, agent,_ etc. in the list.)
+See also _knowledge_ ![]({{ S }}/knowledge.png), _agent_ ![]({{ S }}/agent.png), etc. in the list.)
 
 ### Gn, gram
-Indicated by _n_ and _m_ respectively written below (Mode (3)) to indicate the _g,_ as in the termination _‑ight._
-(See _foreign, sign,_ in the list.)
+Indicated by _n_ ![]({{ S }}/-gn.png) and _m_ ![]({{ S }}/-gram.png) respectively written below (Mode (3)) to indicate the _g,_ as in the termination _‑ight._
+(See _foreign_ ![]({{ S }}/foreign.png), _sign_ ![]({{ S }}/sign.png), in the list.)
 
 
 ## Examples of Abbreviations
