@@ -392,7 +392,7 @@ _rel<sub>n</sub>_ = religion
 - double-wide M and y = many
 - (16) w and double-wide M = woman
 - u and double-wide M = human
-- double-wide M and eef = mneef (??)
+- double-wide M and uf = manuf(acture)
 - double-wide M and ey = money
 - (17) ct-blend = ct
 - f hooked up at end = fs
@@ -413,7 +413,7 @@ ty (20) and th, thus duy = duty, wih = with, ohr = other.
 
 (page 3, line 1) Examples of other slurs are;
 
-- long O and g = orog (??)
+- long O and gy = ology
 - tmow = tomorrow
 - (2) c long-ou r = counter
 - ul = until
