@@ -541,6 +541,29 @@ But with knightly purity and white-robed justice for their companions, the magic
 
 ### Key: Lord Salisbury at the Mansion House
 
+My Lord Mayor, my noble colleague challenged me to tell you what were the changes of policy of her Majesty's Government.
+Well, we are to meet in Cabinet to-morrow, and of course I shall have the opportunity of explaining them to him more distinctly when we meet.
+But I may tell you that my task will be an easy one, because they are represented by zero.
+There are no changes in the policy of her Majesty's Government.
+
+We are quite satisfied with the result of our policy in Ireland.
+And we think that the statesman who has been principally associated with that policy, Mr Arthur Balfour, may retire from the immediate supervision of it with a consciousness of the best bit of four years' work that has ever been done by a statesman.
+And I am bound to say that what we have recently seen in Ireland has not altered our opinion.
+What we have seen has not made us think that a domestic legislature in Ireland will be distinguished by peace or order, or an abstinence from blackthorn, or a freedom from the curse of ecclesiastical domination.
+Therefore I have to reply to my noble friend that I see no reason to change our policy with respect to Ireland.
+
+With respect to our foreign affairs, there is always a certain difficulty and responsibility, because the speaker is apt to be suspected of intending to assume the mantle of a prophet.
+I desire entirely to disclaim that intention.
+We have had a good deal of prophecy of late — they call it meteorology.
+We are told of things that are certainly to happen in a year's time.
+Well, I am not here to discuss those prophecies, but I think confident predictions when they are to the advantage of the predictor are sometimes a mistake, for fortune is fond of flouting such confidence.
+
+But, at all events, whatever we may think of domestic affairs, with respect to Foreign affairs I will speak only of the present what I know; and with respect to the present I will say that there is not on the horizon a single speck of a cloud which contains within it anything injurious to the prospects of peace.
+In fact, it seems to me that the warfare of nations, if you are to judge by the interest they take in the subject, is slowly changing its object and its field, and that it is the industrial competition which chiefly occupies in these days the chancellaries and diplomacies.
+The great subjects of consideration are those Treaties of Commerce which are to expire next year; the great question is what tariffs will the various nations adopt with regard to each other.
+And though, with respect to material warfare, I think we can hold out to you the most promising anticipations, as far as our present prospects go, with respect to this industrial warfare, which has for its weapons protective legislation, and has for its prize the markets of various countries, I am afraid we must be content to occupy for a time a peculiar and isolated position.
+
+
 {%comment%}
 Add an HR before the footnotes.
 (There may be a way to alter an include or something so this happens
