@@ -349,8 +349,9 @@ The new sentence is a variation on one occurring later in the 'General Method' c
 
 (page 1, line 1) The reporting style of Orthic is in no way essent(ial)ly dif(ferent) fr(om) the ord(inar)y (line 2) style.
 There-is li(tt)le n(e)w t(o) learn and n(oth)ing to unlearn.
-It’s simply an extension of-the same (l. 3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tise).
+It’s simply an extension of-the same (l. 3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tice).
 
+#### [Freely yet judiciously abbreviate]
 (5) The most important and generally useful method of abbreviation is the general method already (6) explained.
 It may be very freely used in reporting with due regard to the context. (7)
 Half the art of reporting depends on the *judicious* use of the context. (8)
@@ -422,7 +423,7 @@ ty (20) and th, thus duy = duty, wih = with, ohr = other.
 
 #### Repeated Letters
 (3) Repeated letters may often be omitted when abbreviating especially if the termination contains (4) the last letter of-the root and can be joined.
-This principle has always been freely used in rng-nt (??) abbreviations.
+This principle has always been freely used in long (ha)nd abbreviations.
 (5) Thus
 
 - este = estate
