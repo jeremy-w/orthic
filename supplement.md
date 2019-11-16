@@ -387,29 +387,93 @@ _rel<sub>n</sub>_ = religion
 
 (14) In addition to the common slurs given in the _Manual_ the fo(llo)wing (15) will be fou(nd) useful:
 
-- [TODO: List of slurs, lines 15-17.]
+- double-wide M = man (compare double-wide D = td)
+- double-wide M and y = many
+- (16) w and double-wide M = woman
+- u and double-wide M = human
+- double-wide M and eef = mneef (??)
+- double-wide M and ey = money
+- (17) ct-blend = ct
+- f hooked up at end = fs
+- k hooked up at end like initial w = ks
+- cl = chl
+- clofm = chloroform [J: I originally thought this was "chroroform", and expected the L to be inside the CH to stay below the line of exit. In fact, this "chl" together with "fr(anything)" underscores that Callendar considered the direction the circle is traced rather than whether the circle is above or below the exiting line that distinguishes R from L.]
 
 
 ##### Short Vowels
-(18)
+(18) Short vowels may often be slurred especially in terminations,
 
-(page 3, line 1)
+- double-wide M and r = manner
+- (19) upr = upper
+- n-nl = national.
+
+T may generally be slurred in-the terminations
+ty (20) and th, thus duy = duty, wih = with, ohr = other.
+
+(page 3, line 1) Examples of other slurs are;
+
+- long O and g = orog (??)
+- tmow = tomorrow
+- (2) c long-ou r = counter
+- ul = until
+- i n s long-d = instead
+- nst = next.
 
 
 #### Repeated Letters
-(3)
+(3) Repeated letters may often be omitted when abbreviating especially if the termination contains (4) the last letter of-the root and can be joined.
+This principle has always been freely used in rng-nt (??) abbreviations.
+(5) Thus
+
+- este = estate
+- ulte = ultimate
+- circe = circumstance
+- instute = institute.
 
 #### Other Suggestions
-(6)
+(6) It has been proposed to use the mode of writing below the line
+(7) for the expression of-the common prefixes _de_ and _di,_ the latter being distinguished by retaining the _i._
+(8) Thus 
+
+- <sub>ifer</sub> = differ
+- <sub>fer</sub> = defer
+- <sub>isfun</sub> = dissatisfaction
+- <sub>ft</sub> = defendant [J: I totally expected "defeat", which amply demonstrates the next point.]
+
+(9) This method however should not be used in correspondence but restricted to private notes.
 
 #### E and i
-(10)
+(10) E and i may often be distinguished without dotting the i by writing the letter more
+(11) steeply than e. Compare
+
+- illegib(le) with eligible
+- inter with enter
+- ill with ell.
 
 #### Shading
-(12)
+(12) There can be no doubt that the device of shading or thickening a character
+(13) is _not_ sound _for general use._
+Some writers however are of opinion that it may occasionally be
+(14) used with advantage in reporting.
+If used it's most appropriately applied to express a combined _R_ or _L_
+(15) thus [using capitals to represent shaded characters]
+
+- Fme = fr(a)me,
+- Coss = cross,
+- pP = ppl,
+- Pac = prac(tice),
+- oD = old;
+- (16) aTghr = altghr,
+- Am = arm.
+
+The method however is not to be generally recommended.
+
 
 #### Lastly
-(17)
+(17) The most important rule of all in reporting practice is _never_ to use a mode or an
+(18) abbreviation that causes hesitation or waste of time, not to worry about trifles; and to _practise_
+(19) writing from dictation and transcribing till your notes become perfectly fluent and cursive and legible.
+(20) A study of-the examples which follow will probably be more useful than many pages of hints.
 
 
 ## Specimen: Notes of a Speech by Lord Dufferin at St Andrews
