@@ -77,7 +77,7 @@ Doubled letters are shown, **not** by repeating the character, but by putting a 
 
 ## General Rules
 ### Orthographic Spelling
-All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ["How to Write and Join the Characters"].
+All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ['How to Write and Join the Characters'](#how-to-write-and-join-the-characters).
 
 ### Diphthongs
 When two vowels come together forming a 'diphthong', the angle between them is slurred or rounded off into a continuous curve; thus, ![]({{ assets }}/ai_angled.png)&nbsp;**ai** = ![]({{ assets }}/ai.png), ![]({{ assets }}/oy_angled.png)&nbsp;**oy** = ![]({{ assets }}/oy.png), ![]({{ assets }}/ou_angled.png)&nbsp;**ou** = ![]({{ assets }}/ou.png), ![]({{ assets }}/eau_angled.png)&nbsp;**eau** = ![]({{ assets }}/eau.png).
