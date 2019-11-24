@@ -6,7 +6,7 @@ author: Jeremy
 categories:
 - news
 - "study aids"
-----
+---
 Callendar advises practicing with double-ruled paper to start in ["The Two Sizes of Character"]({{site.baseurl}}/manual#the-two-sizes-of-character). Now you can print your own! [Download the template here.]({{site.baseurl}}/assets/paper/beginner's%20ruled%20paper%20(US%20letter).pdf) 
 
 The template is also linked from that section of the _Manual._
