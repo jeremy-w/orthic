@@ -94,6 +94,8 @@ The two sizes of character must be carefully distinguished, just as [lowercase] 
 <figcaption>Characters written against both base and midline rules, first in alphabetical order, then in small/large groupings. Example words are provided at the end.</figcaption>
 </figure>
 
+[Jeremy: Here's a ready-to-print [double-ruled paper template for US letter paper]({{ site.baseurl }}/assets/paper/beginner's ruled paper (US letter).pdf).]
+
 ### Dividing a Word
 A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words. {% assign words = 'lawsuit Woolwich virgin' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
