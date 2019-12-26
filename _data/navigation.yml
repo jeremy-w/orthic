@@ -2,5 +2,12 @@
   link: /manual
 - name: Supplement
   link: /supplement
+- name: Resources
+  link: /#
+  dropdown:
+    - name: Anki Deck
+      link: /anki-deck-available
+    - name: Ruled Paper
+      link: /beginners-paper-template
 - name: Notes
   link: /notes
