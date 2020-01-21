@@ -112,6 +112,15 @@ Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png"
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
 
+You can jump to a specific letter or significant joining:
+
+{% for letter, joins in site.data.manual.joins %}
+- [{{ letter }}](#{{letter}}-join)
+{% for join in joins offset:1 %}
+  - [{{ join }}](#{{join}}-join)
+{% endfor %}
+{% endfor %}
+
 - **A**&nbsp;![]({{ assets }}/A.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay_both' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word | slice: 0,2 }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
