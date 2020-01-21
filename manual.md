@@ -112,20 +112,20 @@ Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png"
 ## How to Write and Join the Characters
 In the following alphabetic list are given examples and explanations of all the joinings which are likely to cause the beginner any difficulty.
 
-You can jump to a specific letter or significant joining:
-
-{% comment %}
+> You can jump to a specific letter or significant joining:
+>
+{%- comment %}
 Having a map with a single key per entry is kinda silly.
 But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endcomment %}
-{% for map in site.data.manual.joins %}
-{% for letter in map %}
-- [{{ letter[0] }}](#{{letter[0]}}-join)
-{% for join in letter[1] %}
-  - [{{ join }}](#{{join | slugify}}-join)
-{% endfor %}
-{% endfor %}
-{% endfor %}
+{%- for map in site.data.manual.joins %}
+{%- for letter in map %}
+> - [{{ letter[0] }}](#{{letter[0]}}-join)
+{%- for join in letter[1] %}
+>   - [{{ join }}](#{{join | slugify}}-join)
+{%- endfor %}
+{%- endfor %}
+{%- endfor %}
 
 - <a id="A-join" />**A**&nbsp;![]({{ assets }}/A.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay_both' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word | slice: 0,2 }}**{% unless forloop.last %}, {% endunless %}
