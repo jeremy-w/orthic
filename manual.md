@@ -394,19 +394,19 @@ In adding inflections to words ending in **y,** the **y** is not changed to **i*
 #### Abbreviate common endings
 Some common terminations are abbreviated as shown in the following list:
 
-  - **Ed.** The _e_ may generally be omitted; thus,
+  - <a id="ed-ending" href="#ed-ending">**Ed.**</a> The _e_ may generally be omitted; thus,
 {% assign words = "us’d kiss’d stirr’d" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-  - **Ful** ![]({{ assets }}/ending_fl.png)&nbsp;**fl**
+  - <a id="ful-ending" href="#ful-ending">**Ful**</a> ![]({{ assets }}/ending_fl.png)&nbsp;**fl**
 {% assign words = "useful beautyfully" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-  - **Hood** ![]({{ assets }}/ending_hd.png)&nbsp;**hd**
+  - <a id="hood-ending" href="#hood-ending">**Hood**</a> ![]({{ assets }}/ending_hd.png)&nbsp;**hd**
 {% assign words = "manhood" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
-  - **Ing** ![]({{ assets }}/ing_both.png)&nbsp;**ing**
+  - <a id="ing-ending" href="#ing-ending">**Ing**</a> ![]({{ assets }}/ing_both.png)&nbsp;**ing**
 {% assign words = "using saying seeming" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
@@ -416,13 +416,14 @@ Some common terminations are abbreviated as shown in the following list:
       *{{word}},*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
 {%- endfor %} and vowels.
 {% for it in site.data.manual.endings %}
-  - **{{ it.ending }}**&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png) **{{ it.orthic }}**
+  - <a id="{{it.ending|slugify}}-ending" href="#{{it.ending|slugify}}-ending">**{{ it.ending }}**</a>&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png) **{{ it.orthic }}**
   {{- it.note | default:"" }}
   {% for word in it.examples %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
   {%- endfor -%}
 {% endfor %}
 
+[J: Note that each links to itself, to aid in teaching fellow writers.]
 
 ### The General Method
 The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus,
@@ -442,11 +443,11 @@ Words may often be joined together provided that they are closely connected in s
 {% endfor %}
 
 ### Abbreviations for Common Words
-The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand.
+The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand. [J: Note that each links to itself, to aid in teaching fellow writers.]
 
 {% for b in site.data.manual.briefs %}
 {% assign word = b | remove:"(" | remove:")" | truncatewords:1,"" %}
-  - **{{ b }}**&nbsp;![]({{ assets }}/b_{{ word }}.png)
+  - <a id="{{word|slugify}}-brief" href="#{{word|slugify}}-brief">**{{ b }}**</a>&nbsp;![]({{ assets }}/b_{{ word }}.png)
 {% endfor %}
 
 ## Specimens of the Ordinary Style
