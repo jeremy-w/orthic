@@ -144,7 +144,7 @@ In the following alphabetic list are given examples and explanations of all the 
   {%- endfor -%}
 {% endfor %}
 
- [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
+  [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
 
 - **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
   - **Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
