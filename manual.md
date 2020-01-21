@@ -140,7 +140,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 
 - <a id="B-join" />**B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/longhand_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
-  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+  - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
 - <a id="C-join" />**C**&nbsp;![]({{ assets }}/C.png) is written like the letter _c,_ but it is not turned up at the end, unless followed by _e._
@@ -149,7 +149,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {%- endfor %}, cp. {% assign word = "ahead" %}<img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.c %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
 - <a id="D-join" />**D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
@@ -182,7 +182,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 
 - <a id="G-join" />**G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds:
 {% for it in site.data.manual.compounds.g %}
-  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -210,14 +210,14 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
     {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.l %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
 
 - <a id="M-join" />**M**&nbsp;![]({{ assets }}/M.png) is like ![]({{ assets }}/N.png)&nbsp;**n,** but much longer and flatter.
 {% for it in site.data.manual.compounds.m %}
-  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -231,7 +231,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.n %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -265,7 +265,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
   - <a id="rce-join" />The compound ![]({{ assets }}/rce.png)&nbsp;**rce** is written like the ![initial lowercase e in cursive longhand]({{ assets }}/e_initial_longhand.png) form of the longhand letter _e_; thus, ![]({{ assets }}/fierce.png)&nbsp;**fierce**. [Jeremy: I've never seen this style of cursive _e_ used outside Callendar's own writing. It is like the uppercase cursive _E_ made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the _e._ The result is basically the counter-clockwise Orthic _r_ sitting atop a half-height Orthic _c_ with a rise at the end for the _e._]
   - Other compounds are:
 {% for it in site.data.manual.compounds.r %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -278,7 +278,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {%- endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.s %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -300,7 +300,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
   - <a id="u-versus-ee-join" />**U**&nbsp;![]({{ assets }}/U.png) is distinguished from **ee**&nbsp;![]({{ assets }}/ee.png) by being written much less steeply; cp. ![]({{ assets }}/seen.png)&nbsp;**seen**, ![]({{ assets }}/sun.png)&nbsp;**sun**.
   - **Dipththongs**
 {% for it in site.data.manual.compounds.u %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
