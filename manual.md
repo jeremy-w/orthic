@@ -114,10 +114,16 @@ In the following alphabetic list are given examples and explanations of all the 
 
 You can jump to a specific letter or significant joining:
 
-{% for letter in site.data.manual.joins %}
+{% comment %}
+Having a map with a single key per entry is kinda silly.
+But YAML maps aren't necessarily ordered, so let's roll with it.
+{% endcomment %}
+{% for map in site.data.manual.joins %}
+{% for letter in map %}
 - [{{ letter[0] }}](#{{letter[0]}}-join)
 {% for join in letter[1] %}
   - [{{ join }}](#{{join | slugify}}-join)
+{% endfor %}
 {% endfor %}
 {% endfor %}
 
