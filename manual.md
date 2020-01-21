@@ -200,7 +200,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 - <a id="K-join" />**K**&nbsp;![]({{ assets }}/K.png) is like ![]({{ assets }}/G.png)_g,_ but is turned the other way. It is joined in the same way as ![]({{ assets }}/F.png)**f.**
 
 - <a id="L-join" />**L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
-  - When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
+  - <a id="standalone-l-versus-r-join" />When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
   - <a id="joining-L-examples" />In other cases the distinction is obvious; cp.
 
     {% assign pairs = 'black bread,clay_lowercase crow,addle dry,flow fro,glad grade,play pray,little litre,slay Israël,held herd,world already' | split: ','-%}
@@ -271,7 +271,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endfor %}
 
 - <a id="S-join" />**S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
-  - When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
+  - <a id="standalone-s-versus-e-join" />When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
   - <a id="sh-and-sr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
   {% assign words = "shed Tisri shred school" | split: " " %}{% for word in words -%}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
