@@ -307,8 +307,11 @@ Indicated by _n_ ![]({{ S }}/-gn.png) and _m_ ![]({{ S }}/-gram.png) respectivel
 
 
 ## Examples of Abbreviations
+[J: Note that each brief is a link to itself, to aid in teaching fellow writers.]
+
 {% for b in site.data.supplement.briefs %}
-  - {{ b }}&nbsp;![]({{ S }}/{{ b | remove:"(" | remove:")" | remove:"," | remove:"?" | truncatewords:1,"" }}.png)
+{% assign brief = b | remove:"(" | remove:")" | remove:"," | remove:"?" | truncatewords:1,"" %}
+  - <a id="{{brief|slugify}}-brief" href="#{{brief|slugify}}-brief">{{ b }}</a>&nbsp;![]({{ S }}/{{brief}}.png)
 {% endfor %}
 
 ## Specimen: Ordinary Style, Abbreviated
