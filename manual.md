@@ -114,10 +114,10 @@ In the following alphabetic list are given examples and explanations of all the 
 
 You can jump to a specific letter or significant joining:
 
-{% for letter, joins in site.data.manual.joins %}
-- [{{ letter }}](#{{letter}}-join)
-{% for join in joins offset:1 %}
-  - [{{ join }}](#{{join}}-join)
+{% for letter in site.data.manual.joins %}
+- [{{ letter[0] }}](#{{letter[0]}}-join)
+{% for join in letter[1] %}
+  - [{{ join }}](#{{join | slugify}}-join)
 {% endfor %}
 {% endfor %}
 
