@@ -121,10 +121,10 @@ You can jump to a specific letter or significant joining:
 {% endfor %}
 {% endfor %}
 
-- **A**&nbsp;![]({{ assets }}/A.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay_both' | split: ' ' %}{% for word in words -%}
+- <a id="A-join" />**A**&nbsp;![]({{ assets }}/A.png) is a short horizontal connecting stroke. It forms the diphthongs {% assign words = 'ai au ay_both' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word | slice: 0,2 }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
-  - **Ay** may be curved either way. The form ![under-ay]({{ assets }}/ay_under.png "under-ay") is used whenever it joins more clearly or easily than the form ![over-ay]({{ assets }}/ay_over.png "over-ay"), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
+  - <a id="ay-join" />**Ay** may be curved either way. The form ![under-ay]({{ assets }}/ay_under.png "under-ay") is used whenever it joins more clearly or easily than the form ![over-ay]({{ assets }}/ay_over.png "over-ay"), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" alt="{{ word }}" title="{{ word }}" />
 {%- endfor %} thus, {% assign words = 'days quay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
@@ -132,13 +132,13 @@ You can jump to a specific letter or significant joining:
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
 
-- **B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/longhand_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
+- <a id="B-join" />**B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/longhand_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
-- **C**&nbsp;![]({{ assets }}/C.png) is written like the letter _c,_ but it is not turned up at the end, unless followed by _e._
-  - **Ch**&nbsp;![]({{ assets }}/Ch.png) is written and joined exactly like the longhand letter _o_; thus, {% assign words = 'chair Christ ache' | split: ' ' %}{% for word in words -%}
+- <a id="C-join" />**C**&nbsp;![]({{ assets }}/C.png) is written like the letter _c,_ but it is not turned up at the end, unless followed by _e._
+  - <a id="ch-join" />**Ch**&nbsp;![]({{ assets }}/Ch.png) is written and joined exactly like the longhand letter _o_; thus, {% assign words = 'chair Christ ache' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}, cp. {% assign word = "ahead" %}<img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**.
   - Other compounds are:
@@ -146,7 +146,7 @@ You can jump to a specific letter or significant joining:
     - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
 {% endfor %}
 
-- **D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
+- <a id="D-join" />**D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
 {% for it in site.data.manual.compounds.d %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
@@ -155,17 +155,17 @@ You can jump to a specific letter or significant joining:
 
   [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
 
-- **E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
-  - **Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
+- <a id="E-join" />**E**&nbsp;![]({{ assets }}/E.png) is a short upstroke; it must not be confused with ![]({{ assets }}/s_straight.png)&nbsp;**s**, which is written downwards.
+  - <a id="ea-join" />**Ea**&nbsp;![ea, both over and under]({{ assets }}/ea_both.png) may be curved either way like _ay._ The form ![under-ea]({{ assets }}/ea_under.png "under-ea") is used except after {% assign words = 'M N P_noarrow S_noarrow Y B' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" alt="{{ word | slice: 0,1 }}" title="{{ word | slice: 0,1 }}" />
 {%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png "t")![d]({{ assets }}/D.png "d") or ![s]({{ assets }}/S_noarrow.png "s"); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
-  - The diphthongs {% assign words = 'ee ei ie' | split: ' ' %}{% for word in words -%}
+  - <a id="ee-join" />The diphthongs {% assign words = 'ee ei ie' | split: ' ' %}{% for word in words -%}
     **{{ word }}**&nbsp;<img src="{{ assets }}/{{ word }}.png" />{% unless forloop.last %}, {% endunless %}
 {%- endfor %} are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
 
-- **F**&nbsp;![]({{ assets }}/F.png)
+- <a id="F-join" />**F**&nbsp;![]({{ assets }}/F.png)
   - F is joined without an angle after vowels; thus, ![]({{ assets }}/if.png)&nbsp;**if** (not ![]({{ assets }}/if_angled.png)).
   - It is joined to following characters like the longhand letter _s_; thus, 
 {% for it in site.data.manual.compounds.f %}
@@ -174,26 +174,26 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds:
+- <a id="G-join" />**G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds:
 {% for it in site.data.manual.compounds.g %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
 
-- **H**&nbsp;![]({{ assets }}/H.png) is a large circle or backward loop beginning at the bottom. It is distinguished from ch&nbsp;![]({{ assets }}/Ch.png) by the way it is joined; thus,
+- <a id="H-join" />**H**&nbsp;![]({{ assets }}/H.png) is a large circle or backward loop beginning at the bottom. It is distinguished from ch&nbsp;![]({{ assets }}/Ch.png) by the way it is joined; thus,
 {% assign words = "hat chat what which" | split: " " %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
-- **I**&nbsp;![]({{ assets }}/I.png) is a short upstroke, like _e,_ but dotted.
+- <a id="I-join" />**I**&nbsp;![]({{ assets }}/I.png) is a short upstroke, like _e,_ but dotted.
   - **ia**&nbsp;![]({{ assets }}/ia_both.png) may be curved either way like _ea_; thus, ![]({{ assets }}/social.png)**social**, ![]({{ assets }}/optician.png)**optician**; ![]({{ assets }}/chief.png)**chief**.
 
-- **J**&nbsp;![]({{ assets }}/J.png) is like the letter _j,_ but is not dotted.
+- <a id="J-join" />**J**&nbsp;![]({{ assets }}/J.png) is like the letter _j,_ but is not dotted.
 
-- **K**&nbsp;![]({{ assets }}/K.png) is like ![]({{ assets }}/G.png)_g,_ but is turned the other way. It is joined in the same way as ![]({{ assets }}/F.png)**f.**
+- <a id="K-join" />**K**&nbsp;![]({{ assets }}/K.png) is like ![]({{ assets }}/G.png)_g,_ but is turned the other way. It is joined in the same way as ![]({{ assets }}/F.png)**f.**
 
-- **L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
+- <a id="L-join" />**L**&nbsp;![]({{ assets }}/L_initial_arrow.png) is a small circle or loop like ![]({{ assets }}/R.png)&nbsp;**r,** but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
   - When standing by itself as an initial, ![]({{ assets }}/L_initial.png)&nbsp;**L** is distinguished from ![]({{ assets }}/R.png)&nbsp;**R** by prefixing a short hair-stroke showing the way it is turned.
   - <a id="joining-L-examples" />In other cases the distinction is obvious; cp.
 
@@ -209,14 +209,14 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **M**&nbsp;![]({{ assets }}/M.png) is like ![]({{ assets }}/N.png)&nbsp;**n,** but much longer and flatter.
+- <a id="M-join" />**M**&nbsp;![]({{ assets }}/M.png) is like ![]({{ assets }}/N.png)&nbsp;**n,** but much longer and flatter.
 {% for it in site.data.manual.compounds.m %}
   - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
 
-- **N**&nbsp;![]({{ assets }}/N.png) is like the first hook of the letter _n._
+- <a id="N-join" />**N**&nbsp;![]({{ assets }}/N.png) is like the first hook of the letter _n._
   - No angle need be made in the compounds:
 {% for it in site.data.manual.compounds.n_unangled %}
     - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -230,8 +230,8 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **O**&nbsp;![]({{ assets }}/O.png) is made about three times as long as ![]({{ assets }}/A.png)&nbsp;**a**.
-  - **Oa** is distinguished from **o** by writing the ![]({{ assets }}/A.png)&nbsp;**a** above; thus, ![]({{ assets }}/oar.png)&nbsp;**oar**, cp. ![]({{ assets }}/or.png)&nbsp;**or**; ![]({{ assets }}/oak.png)&nbsp;**oak**.
+- <a id="O-join" />**O**&nbsp;![]({{ assets }}/O.png) is made about three times as long as ![]({{ assets }}/A.png)&nbsp;**a**.
+  - <a id="oa-join" />**Oa** is distinguished from **o** by writing the ![]({{ assets }}/A.png)&nbsp;**a** above; thus, ![]({{ assets }}/oar.png)&nbsp;**oar**, cp. ![]({{ assets }}/or.png)&nbsp;**or**; ![]({{ assets }}/oak.png)&nbsp;**oak**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.o %}
     - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -239,7 +239,7 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **P**&nbsp;![]({{ assets }}/P.png) is a long downstroke, like the upper half of the stroke of the letter ![lowercase p in cursive longhand]({{ assets }}/p_longhand.png). It is made about three times as long as ![]({{ assets }}/S.png)&nbsp;**s**.
+- <a id="P-join" />**P**&nbsp;![]({{ assets }}/P.png) is a long downstroke, like the upper half of the stroke of the letter ![lowercase p in cursive longhand]({{ assets }}/p_longhand.png). It is made about three times as long as ![]({{ assets }}/S.png)&nbsp;**s**.
   - In joining ![]({{ assets }}/S.png)&nbsp;**s** before and after ![]({{ assets }}/P.png)&nbsp;**p**, the _s_-tick is sloped backwards; thus
 {% for it in site.data.manual.compounds.p limit:2 %}
     - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -253,10 +253,10 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **Qu**&nbsp;![]({{ assets }}/Qu.png) is like the lower loop of the letter ![lowercase f in cursive longhand]({{ assets }}/f_longhand.png); it is turned the opposite way to ![]({{ assets }}/J.png)&nbsp;**j**. ![]({{ assets }}/esquire.png)&nbsp;**esquire**.
+- <a id="Q-join" />**Qu**&nbsp;![]({{ assets }}/Qu.png) is like the lower loop of the letter ![lowercase f in cursive longhand]({{ assets }}/f_longhand.png); it is turned the opposite way to ![]({{ assets }}/J.png)&nbsp;**j**. ![]({{ assets }}/esquire.png)&nbsp;**esquire**.
 
-- **R**&nbsp;![]({{ assets }}/R.png) is a small circle like ![]({{ assets }}/L.png)&nbsp;**L**, but is always turned the opposite way, like the loop of the longhand letter ![lowercase e in cursive longhand]({{ assets }}/e_longhand.png). [For examples, see L.](#joining-L-examples)
-  - The compound ![]({{ assets }}/rce.png)&nbsp;**rce** is written like the ![initial lowercase e in cursive longhand]({{ assets }}/e_initial_longhand.png) form of the longhand letter _e_; thus, ![]({{ assets }}/fierce.png)&nbsp;**fierce**. [Jeremy: I've never seen this style of cursive _e_ used outside Callendar's own writing. It is like the uppercase cursive _E_ made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the _e._ The result is basically the counter-clockwise Orthic _r_ sitting atop a half-height Orthic _c_ with a rise at the end for the _e._]
+- <a id="R-join" />**R**&nbsp;![]({{ assets }}/R.png) is a small circle like ![]({{ assets }}/L.png)&nbsp;**L**, but is always turned the opposite way, like the loop of the longhand letter ![lowercase e in cursive longhand]({{ assets }}/e_longhand.png). [For examples, see L.](#joining-L-examples)
+  - <a id="rce-join" />The compound ![]({{ assets }}/rce.png)&nbsp;**rce** is written like the ![initial lowercase e in cursive longhand]({{ assets }}/e_initial_longhand.png) form of the longhand letter _e_; thus, ![]({{ assets }}/fierce.png)&nbsp;**fierce**. [Jeremy: I've never seen this style of cursive _e_ used outside Callendar's own writing. It is like the uppercase cursive _E_ made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the _e._ The result is basically the counter-clockwise Orthic _r_ sitting atop a half-height Orthic _c_ with a rise at the end for the _e._]
   - Other compounds are:
 {% for it in site.data.manual.compounds.r %}
     - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -264,9 +264,9 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
+- <a id="S-join" />**S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
   - When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
-  - In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
+  - <a id="sh-and-sr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
   {% assign words = "shed Tisri shred school" | split: " " %}{% for word in words -%}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {%- endfor %}
@@ -277,9 +277,9 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **T**&nbsp;![]({{ assets }}/T.png) is like the hook at the end of the letter ![t]({{ assets }}/t_longhand.png).
-  - **Th**&nbsp;![]({{ assets }}/th.png) is written like the letter ![d]({{ assets }}/d_longhand.png). [Jeremy: That's a looped-through version of the _d_ Callendar often writes at the end of a word, as seen for example in "end"&nbsp;![]({{ assets }}/end_longhand.png). That word also shows the funky _e_ Callendar uses to explain how to write the compound _rce._]
-  - At the end of a word, the circle of the _h_ need not be completed; thus,
+- <a id="T-join" />**T**&nbsp;![]({{ assets }}/T.png) is like the hook at the end of the letter ![t]({{ assets }}/t_longhand.png).
+  - <a id="th-join" />**Th**&nbsp;![]({{ assets }}/th.png) is written like the letter ![d]({{ assets }}/d_longhand.png). [Jeremy: That's a looped-through version of the _d_ Callendar often writes at the end of a word, as seen for example in "end"&nbsp;![]({{ assets }}/end_longhand.png). That word also shows the funky _e_ Callendar uses to explain how to write the compound _rce._]
+  - <a id="word-final-th-join" />At the end of a word, the circle of the _h_ need not be completed; thus,
 {% assign words = "with both" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
@@ -290,7 +290,7 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **U**&nbsp;![]({{ assets }}/U.png) is a long up-stroke on a flat slope, making an angle of about ![]({{ assets }}/30_degrees.png) 30° with the line.
+- <a id="U-join" />**U**&nbsp;![]({{ assets }}/U.png) is a long up-stroke on a flat slope, making an angle of about ![]({{ assets }}/30_degrees.png) 30° with the line.
   - **U**&nbsp;![]({{ assets }}/U.png) is distinguished from **ee**&nbsp;![]({{ assets }}/ee.png) by being written much less steeply; cp. ![]({{ assets }}/seen.png)&nbsp;**seen**, ![]({{ assets }}/sun.png)&nbsp;**sun**.
   - **Dipththongs**
 {% for it in site.data.manual.compounds.u %}
@@ -299,20 +299,20 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **V**&nbsp;![]({{ assets }}/V.png) is distinguished from ![]({{ assets }}/ste.png)&nbsp;**ste** by its size; cp.
+- <a id="V-join" />**V**&nbsp;![]({{ assets }}/V.png) is distinguished from ![]({{ assets }}/ste.png)&nbsp;**ste** by its size; cp.
 {% assign words = "minster Minver stew view" | split: " " %}{% for word in words %}
   - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
 
-- **W**&nbsp;![]({{ assets }}/W.png) is an upward hook, which may be turned either way.
+- <a id="W-join" />**W**&nbsp;![]({{ assets }}/W.png) is an upward hook, which may be turned either way.
   - The first [clockwise] form is always used at the beginning of a word, except before **r**. Thus
 {% assign words = "way woe wet" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
     - cp. ![]({{ assets }}/write.png)&nbsp;**write**
-  - **wr**&nbsp;![]({{ assets }}/wr.png) is distinguished from ![]({{ assets }}/th.png)&nbsp;**th** by its size.
-  - **wh**&nbsp;![]({{ assets }}/wh.png) is made by enlarging the _w_ hook so as to look like the _h_- circle; cp. ![]({{ assets }}/who.png)&nbsp;**who**, ![]({{ assets }}/ha.png)&nbsp;**ha**.
-  - **ws**&nbsp;![]({{ assets }}/ws.png); at the end of a word the addition of the _s_ tick to the _w_ hook forms a loop; thus
+  - <a id="wr-join" />**wr**&nbsp;![]({{ assets }}/wr.png) is distinguished from ![]({{ assets }}/th.png)&nbsp;**th** by its size.
+  - <a id="wh-join" />**wh**&nbsp;![]({{ assets }}/wh.png) is made by enlarging the _w_ hook so as to look like the _h_- circle; cp. ![]({{ assets }}/who.png)&nbsp;**who**, ![]({{ assets }}/ha.png)&nbsp;**ha**.
+  - <a id="word-final-ws-join" />**ws**&nbsp;![]({{ assets }}/ws.png); at the end of a word the addition of the _s_ tick to the _w_ hook forms a loop; thus
 {% assign words = "sews cows laws" | split: " " %}{% for word in words %}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
@@ -323,7 +323,7 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **X**&nbsp;![]({{ assets }}/X.png)
+- <a id="X-join" />**X**&nbsp;![]({{ assets }}/X.png)
   - No angle need be made in:
 {% for it in site.data.manual.compounds.x %}
     - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -331,12 +331,12 @@ You can jump to a specific letter or significant joining:
   {%- endfor -%}
 {% endfor %}
 
-- **Y**&nbsp;![]({{ assets }}/Y.png)
+- <a id="Y-join" />**Y**&nbsp;![]({{ assets }}/Y.png)
 {% assign words = "yacht yet yore yule" | split: " " %}{% for word in words %}
   - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
 
-- **Z**&nbsp;![]({{ assets }}/Z.png)
+- <a id="Z-join" />**Z**&nbsp;![]({{ assets }}/Z.png)
 {% assign words = "daze Fitz puzzle" | split: " " %}{% for word in words %}
   - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
