@@ -20,8 +20,8 @@
 - L:
 - M:
 - N:
-- ng:
-- nsp:
+  - ng
+  - nsp
 - O:
   - oa
   - ou
@@ -39,7 +39,7 @@
   - word-final th
   - tw
 - U:
-  - vs ee
+  - U versus ee
 - W:
   - wr
   - wh

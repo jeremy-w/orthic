@@ -154,7 +154,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 
 - <a id="D-join" />**D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
 {% for it in site.data.manual.compounds.d %}
-  - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+  - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -175,7 +175,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
   - F is joined without an angle after vowels; thus, ![]({{ assets }}/if.png)&nbsp;**if** (not ![]({{ assets }}/if_angled.png)).
   - It is joined to following characters like the longhand letter _s_; thus, 
 {% for it in site.data.manual.compounds.f %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -193,7 +193,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {%- endfor %}
 
 - <a id="I-join" />**I**&nbsp;![]({{ assets }}/I.png) is a short upstroke, like _e,_ but dotted.
-  - **ia**&nbsp;![]({{ assets }}/ia_both.png) may be curved either way like _ea_; thus, ![]({{ assets }}/social.png)**social**, ![]({{ assets }}/optician.png)**optician**; ![]({{ assets }}/chief.png)**chief**.
+  - <a id="ia-join" />**ia**&nbsp;![]({{ assets }}/ia_both.png) may be curved either way like _ea_; thus, ![]({{ assets }}/social.png)**social**, ![]({{ assets }}/optician.png)**optician**; ![]({{ assets }}/chief.png)**chief**.
 
 - <a id="J-join" />**J**&nbsp;![]({{ assets }}/J.png) is like the letter _j,_ but is not dotted.
 
@@ -225,7 +225,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 - <a id="N-join" />**N**&nbsp;![]({{ assets }}/N.png) is like the first hook of the letter _n._
   - No angle need be made in the compounds:
 {% for it in site.data.manual.compounds.n_unangled %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -240,7 +240,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
   - <a id="oa-join" />**Oa** is distinguished from **o** by writing the ![]({{ assets }}/A.png)&nbsp;**a** above; thus, ![]({{ assets }}/oar.png)&nbsp;**oar**, cp. ![]({{ assets }}/or.png)&nbsp;**or**; ![]({{ assets }}/oak.png)&nbsp;**oak**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.o %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0] | replace:"2",""}}-join" />{{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -248,13 +248,13 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 - <a id="P-join" />**P**&nbsp;![]({{ assets }}/P.png) is a long downstroke, like the upper half of the stroke of the letter ![lowercase p in cursive longhand]({{ assets }}/p_longhand.png). It is made about three times as long as ![]({{ assets }}/S.png)&nbsp;**s**.
   - In joining ![]({{ assets }}/S.png)&nbsp;**s** before and after ![]({{ assets }}/P.png)&nbsp;**p**, the _s_-tick is sloped backwards; thus
 {% for it in site.data.manual.compounds.p limit:2 %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.p offset:2 %}
-    - {{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -291,13 +291,13 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.t %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
 
 - <a id="U-join" />**U**&nbsp;![]({{ assets }}/U.png) is a long up-stroke on a flat slope, making an angle of about ![]({{ assets }}/30_degrees.png) 30° with the line.
-  - **U**&nbsp;![]({{ assets }}/U.png) is distinguished from **ee**&nbsp;![]({{ assets }}/ee.png) by being written much less steeply; cp. ![]({{ assets }}/seen.png)&nbsp;**seen**, ![]({{ assets }}/sun.png)&nbsp;**sun**.
+  - <a id="u-versus-ee-join" />**U**&nbsp;![]({{ assets }}/U.png) is distinguished from **ee**&nbsp;![]({{ assets }}/ee.png) by being written much less steeply; cp. ![]({{ assets }}/seen.png)&nbsp;**seen**, ![]({{ assets }}/sun.png)&nbsp;**sun**.
   - **Dipththongs**
 {% for it in site.data.manual.compounds.u %}
     - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -324,7 +324,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endfor %}
   - Other compounds are:
 {% for it in site.data.manual.compounds.w %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
@@ -332,7 +332,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 - <a id="X-join" />**X**&nbsp;![]({{ assets }}/X.png)
   - No angle need be made in:
 {% for it in site.data.manual.compounds.x %}
-    - {{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
+    - <a id="{{it[0]}}-join" />{{ it[0] | replace:"2","" }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
   {%- endfor -%}
 {% endfor %}
