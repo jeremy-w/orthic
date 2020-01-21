@@ -37,7 +37,7 @@ The writing requires no great niceties of penmanship. No distinction is made, as
 
 The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. The rules are consequently very few, definite, and easy to apply.
 
-In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen [of the fully-written style], in which every word is spelt in full.
+In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen [of the fully-written style], every word of which is spelt in full.
 
 ## The Cursive Alphabet
 {% capture assets -%}
