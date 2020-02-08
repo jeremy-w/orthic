@@ -5,6 +5,8 @@
 - name: Resources
   link: /#
   dropdown:
+    - name: Dictionary
+      link: /dictionary
     - name: Anki Deck
       link: /anki-deck-available
     - name: Ruled Paper
