@@ -19,7 +19,7 @@
 # python
 # import yaml
 # e = yaml.load(...)
-# {'plaintext': w.replace.replace(')', ''), 'notes': '', 'orthic': [{'style': 'ordinary', 'notation': w, 'source': 'manual', 'imagePath': '/assets/manual/b_' + w + '.png'}]} for w in e]
+# [{'plaintext': w.replace(')', '').replace(')', ''), 'notes': '', 'orthic': [{'style': 'ordinary', 'notation': w, 'source': 'manual', 'imagePath': '/assets/manual/b_' + w + '.png'}]} for w in e]
 -   plaintext: example entry
     orthic:
     -   imagePath: /assets/manual/b_about.png
@@ -27,6 +27,7 @@
         source: "(manual, supplement, or other)"
         style: "(full, ordinary, abbreviated, or other)"
     notes: 'Any notes appear here.'
+#region Manual: Briefs
 -   plaintext: about
     orthic:
     -   imagePath: /assets/manual/b_about.png
@@ -475,3 +476,104 @@
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
+#endregion
+#region Manual: Endings
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/D.png
+    notation: d
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ed
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_fl.png
+    notation: fl
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ful
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_hd.png
+    notation: hd
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -hood
+- notes: 'This form is used only for the inflection _-ing._ So "singing" is `singY`. Use the curved form after any of `d m n t v`, otherwise the straight form.'
+  orthic:
+  - imagePath: /assets/manual/ending_t.png
+    notation: "Y"
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ing
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_t.png
+    notation: t
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ight
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_un.png
+    notation: un
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ion
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_y.png
+    notation: "^y"
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ity
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_ls.png
+    notation: ls
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -less
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_y.png
+    notation: _y
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ly
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_mt.png
+    notation: mt
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ment
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_ns.png
+    notation: ns
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ness
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_o.png
+    notation: o
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ough
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_hr.png
+    notation: hr
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ther
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ending_ard.png
+    notation: ard
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: -ward
+#endregion
