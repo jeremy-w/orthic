@@ -576,4 +576,214 @@
     source: Manual, "Abbreviate common endings"
     style: ordinary
   plaintext: -ward
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/night.png
+    notation: n_t
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: night
+- notes: 'In Ordinary, the `i` is included so that the direction can show it is an `l` and not an `r`.'
+  orthic:
+  - imagePath: /assets/manual/light.png
+    notation: li_t
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: light
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/action.png
+    notation: actun
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: action
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ab(il)ities.png
+    notation: ab^ys
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: abilities
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/pec(uliar)ity.png
+    notation: pec^y
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: peculiarity
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/thankless.png
+    notation: ^ankls
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: thankless
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/fearlessness.png
+    notation: fear lsns
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: fearlessness
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/nearly.png
+    notation: near_y
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: nearly
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/easily.png
+    notation: easy_y
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: easily
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/dailies.png
+    notation: day_ys
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: dailies
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/comment.png
+    notation: comt
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: comment
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/arrangement.png
+    notation: arngemt
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: arrangement
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/happyness.png
+    notation: happyns
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: happiness
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/thoughtfulness.png
+    notation: ^otfl ns
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: thoughtfulness
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ought.png
+    notation: ot
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: ought
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/brought.png
+    notation: brot
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: brought
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/others.png
+    notation: ohrs
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: others
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/towards.png
+    notation: tards
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: towards
+- notes: ''
+  orthic:
+  - imagePath: "/assets/manual/us\u2019d.png"
+    notation: usd
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: "us\u2019d"
+- notes: ''
+  orthic:
+  - imagePath: "/assets/manual/kiss\u2019d.png"
+    notation: kisd
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: "kiss\u2019d"
+- notes: ''
+  orthic:
+  - imagePath: "/assets/manual/stirr\u2019d.png"
+    notation: stird
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: "stirr\u2019d"
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/useful.png
+    notation: usefl
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: useful
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/beautyfully.png
+    notation: beautyfly
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: beautifully
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/manhood.png
+    notation: man hd
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: manhood
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/using.png
+    notation: usY
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: using
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/saying.png
+    notation: sayY
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: saying
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/seeming.png
+    notation: seemY
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: seeming
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/king.png
+    notation: king
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: king
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sing.png
+    notation: sing
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: sing
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/singing.png
+    notation: singY
+    source: Manual, "Abbreviate common endings"
+    style: ordinary
+  plaintext: singing
 #endregion
