@@ -25,13 +25,22 @@ Signs:
     - `Y` for the _-ing_ stroke.
 - A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in `fi:asco`, where an `i` then an `a` is written rather than an `ai` join.
 
+<style>
+p img, li img, td img {
+  max-height: 3ex;
+}
+p img.tall, li img.tall, td img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
+</style>
 
 ## Example Entry
 
 {% assign example = site.data.dictionary | where: "plaintext", "example entry" %}
 {% for entry in example  %}
 - **{{entry.plaintext}}** {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
-    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}) `{{ ex.notation }}` (source: {{ ex.source }})
+    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
 
@@ -42,6 +51,6 @@ Signs:
 {% for entry in entries  %}
 {% if entry.plaintext == 'example entry' %}{% continue %}{% endif %}
 - **{{entry.plaintext}}** {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
-    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}) `{{ ex.notation }}` (source: {{ ex.source }})
+    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}

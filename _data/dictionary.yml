@@ -26,6 +26,7 @@
         notation: (notation - see top of page)
         source: "(manual, supplement, or other)"
         style: "(full, ordinary, abbreviated, or other)"
+        tall: yes
     notes: 'Any notes appear here.'
 #region Manual: Briefs
 -   plaintext: about
@@ -286,6 +287,7 @@
         notation: nY
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
+        tall: true
     notes: 'The `n` is on the line, not above it. Cp. "evening."'
 -   plaintext: of
     orthic:
@@ -659,13 +661,15 @@
     notation: arngemt
     source: Manual, "Abbreviate common endings"
     style: ordinary
+    tall: true
   plaintext: arrangement
 - notes: ''
   orthic:
   - imagePath: /assets/manual/happyness.png
-    notation: happyns
+    notation: hapyns
     source: Manual, "Abbreviate common endings"
     style: ordinary
+    tall: true
   plaintext: happiness
 - notes: ''
   orthic:
@@ -771,6 +775,7 @@
     notation: king
     source: Manual, "Abbreviate common endings"
     style: ordinary
+    tall: true
   plaintext: king
 - notes: ''
   orthic:
