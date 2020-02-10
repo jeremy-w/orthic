@@ -31,447 +31,447 @@
     orthic:
     -   imagePath: /assets/manual/b_about.png
         notation: abt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: always
     orthic:
     -   imagePath: /assets/manual/b_always.png
         notation: als
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: am
     orthic:
     -   imagePath: /assets/manual/b_am.png
         notation: m
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: "I\u2019m"
     orthic:
     -   imagePath: "/assets/manual/b_I\u2019m.png"
         notation: "I\u2019m"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: amount
     orthic:
     -   imagePath: /assets/manual/b_amount.png
         notation: amt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: an or a
     orthic:
     -   imagePath: /assets/manual/b_an.png
         notation: an
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: and
     orthic:
     -   imagePath: /assets/manual/b_and.png
         notation: and
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: any
     orthic:
     -   imagePath: /assets/manual/b_any.png
         notation: ay
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: are
     orthic:
     -   imagePath: /assets/manual/b_are.png
         notation: ar
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: were
     orthic:
     -   imagePath: /assets/manual/b_were.png
         notation: wer
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: be
     orthic:
     -   imagePath: /assets/manual/b_be.png
         notation: b
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: been
     orthic:
     -   imagePath: /assets/manual/b_been.png
         notation: bn
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: because
     orthic:
     -   imagePath: /assets/manual/b_because.png
         notation: bec
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: between
     orthic:
     -   imagePath: /assets/manual/b_between.png
         notation: betw
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: but
     orthic:
     -   imagePath: /assets/manual/b_but.png
         notation: bt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: can
     orthic:
     -   imagePath: /assets/manual/b_can.png
         notation: ca
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: can-be
     orthic:
     -   imagePath: /assets/manual/b_can-be.png
         notation: cab
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: child
     orthic:
     -   imagePath: /assets/manual/b_child.png
         notation: chd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: could
     orthic:
     -   imagePath: /assets/manual/b_could.png
         notation: cd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: do
     orthic:
     -   imagePath: /assets/manual/b_do.png
         notation: d
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: does
     orthic:
     -   imagePath: /assets/manual/b_does.png
         notation: ds
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: down
     orthic:
     -   imagePath: /assets/manual/b_down.png
         notation: dn
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: ever
     orthic:
     -   imagePath: /assets/manual/b_ever.png
         notation: ^r
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: for
     orthic:
     -   imagePath: /assets/manual/b_for.png
         notation: f
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: form
     orthic:
     -   imagePath: /assets/manual/b_form.png
         notation: fm
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: friend
     orthic:
     -   imagePath: /assets/manual/b_friend.png
         notation: fd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: good
     orthic:
     -   imagePath: /assets/manual/b_good.png
         notation: gd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: great
     orthic:
     -   imagePath: /assets/manual/b_great.png
         notation: grt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: have
     orthic:
     -   imagePath: /assets/manual/b_have.png
         notation: ha
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: had
     orthic:
     -   imagePath: /assets/manual/b_had.png
         notation: hd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: made
     orthic:
     -   imagePath: /assets/manual/b_made.png
         notation: mde
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: might
     orthic:
     -   imagePath: /assets/manual/b_might.png
         notation: mt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: more
     orthic:
     -   imagePath: /assets/manual/b_more.png
         notation: mo
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: most
     orthic:
     -   imagePath: /assets/manual/b_most.png
         notation: mst
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: not
     orthic:
     -   imagePath: /assets/manual/b_not.png
         notation: nt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: "can\u2019t"
     orthic:
     -   imagePath: "/assets/manual/b_can\u2019t.png"
         notation: "cn\u2019t"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: nothing
     orthic:
     -   imagePath: /assets/manual/b_nothing.png
         notation: nY
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: of
     orthic:
     -   imagePath: /assets/manual/b_of.png
         notation: o
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: of-the
     orthic:
     -   imagePath: /assets/manual/b_of-the.png
         notation: oe
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: 'on'
     orthic:
     -   imagePath: /assets/manual/b_on.png
         notation: "n"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: only
     orthic:
     -   imagePath: /assets/manual/b_only.png
         notation: n_y
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: one
     orthic:
     -   imagePath: /assets/manual/b_one.png
         notation: ne
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: once
     orthic:
     -   imagePath: /assets/manual/b_once.png
         notation: nce
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: perhaps
     orthic:
     -   imagePath: /assets/manual/b_perhaps.png
         notation: ph
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: "This isn't the usual `ph` join. Instead, the `h` circles around the `p`."
 -   plaintext: right
     orthic:
     -   imagePath: /assets/manual/b_right.png
         notation: rt
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: round
     orthic:
     -   imagePath: /assets/manual/b_round.png
         notation: rou
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: "This is an example of a general principle, that -ound can be written as just `ou`."
 -   plaintext: self
     orthic:
     -   imagePath: /assets/manual/b_self.png
         notation: sef
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: selves
     orthic:
     -   imagePath: /assets/manual/b_selves.png
         notation: sves
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: shall
     orthic:
     -   imagePath: /assets/manual/b_shall.png
         notation: sha
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: she
     orthic:
     -   imagePath: /assets/manual/b_she.png
         notation: sh
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: should
     orthic:
     -   imagePath: /assets/manual/b_should.png
         notation: shd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: themselves
     orthic:
     -   imagePath: /assets/manual/b_themselves.png
         notation: ^emsves
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: therefore
     orthic:
     -   imagePath: /assets/manual/b_therefore.png
         notation: ^erf
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: thing
     orthic:
     -   imagePath: /assets/manual/b_thing.png
         notation: "Y"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: '**Distinguishing outline:** The curved -ing always means "thing". The raised straight -ing means "being" instead.'
 -   plaintext: "thro\u2019out"
     orthic:
     -   imagePath: "/assets/manual/b_thro\u2019out.png"
         notation: "^roout"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: to
     orthic:
     -   imagePath: /assets/manual/b_to.png
         notation: t
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: into
     orthic:
     -   imagePath: /assets/manual/b_into.png
         notation: int
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: under
     orthic:
     -   imagePath: /assets/manual/b_under.png
         notation: u
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: week
     orthic:
     -   imagePath: /assets/manual/b_week.png
         notation: wk
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: would
     orthic:
     -   imagePath: /assets/manual/b_would.png
         notation: wd
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: which
     orthic:
     -   imagePath: /assets/manual/b_which.png
         notation: ch
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: with
     orthic:
     -   imagePath: /assets/manual/b_with.png
         notation: th
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: you
     orthic:
     -   imagePath: /assets/manual/b_you.png
         notation: "y"
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
 -   plaintext: yours
     orthic:
     -   imagePath: /assets/manual/b_yours.png
         notation: yrs
-        source: manual
+        source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
