@@ -47,10 +47,15 @@ p img.tall, li img.tall, td img.tall {
 
 ## Dictionary
 
+{% assign headword = '' %}
 {% assign entries = site.data.dictionary | sort_natural: "plaintext" %}
 {% for entry in entries  %}
 {% if entry.plaintext == 'example entry' %}{% continue %}{% endif %}
-- **{{entry.plaintext}}** {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
+{% assign maybe_headword = entry.plaintext | slice: 0, 1 | upcase %}
+{% if headword != maybe_headword %}
+{% assign headword = maybe_headword %}
+### {{headword}}
+{% endif %}
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
