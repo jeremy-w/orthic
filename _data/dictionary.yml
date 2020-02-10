@@ -393,6 +393,7 @@
         notation: ^emsves
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
+        tall: true
     notes: ''
 -   plaintext: therefore
     orthic:
@@ -1164,4 +1165,569 @@
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: size
+#endregion
+#region Manual: How to Write and Join the Characters
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/days.png
+    notation: days
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: days
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/says.png
+    notation: says
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: says
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/suckle.png
+    notation: suckle
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: suckle
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/close.png
+    notation: close
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: close
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/crutch.png
+    notation: crutch
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: crutch
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/act.png
+    notation: act
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: act
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/rob'd.png
+    notation: rob'd
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: rob'd
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/object.png
+    notation: object
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: object
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/able.png
+    notation: able
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: able
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/bray.png
+    notation: bray
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: bray
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/absurd.png
+    notation: absurd
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: absurd
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/subtract.png
+    notation: subtract
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: subtract
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/subvent.png
+    notation: subvent
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: subvent
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/seat.png
+    notation: seat
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: seat
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/steep.png
+    notation: steep
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: steep
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/new.png
+    notation: new
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: new
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/judge.png
+    notation: judge
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: judge
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/fiddle.png
+    notation: fiddle
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: fiddle
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/dread.png
+    notation: dread
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: dread
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/dwell.png
+    notation: dwell
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: dwell
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/high.png
+    notation: high
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: high
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/glory.png
+    notation: glory
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: glory
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/agree.png
+    notation: agree
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: agree
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sign.png
+    notation: sign
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: sign
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/soft.png
+    notation: soft
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: soft
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/puff'd.png
+    notation: puff'd
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: puff'd
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/rifle.png
+    notation: rifle
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: rifle
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/afraid.png
+    notation: afraid
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: afraid
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/skiffs.png
+    notation: skiffs
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: skiffs
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/imply.png
+    notation: imply
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: imply
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/limb.png
+    notation: limb
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: limb
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/half.png
+    notation: half
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: half
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/walk.png
+    notation: walk
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: walk
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/help.png
+    notation: help
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: help
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/wilt.png
+    notation: wilt
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: wilt
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/salve.png
+    notation: salve
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: salve
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/toil.png
+    notation: toil
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: toil
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/out.png
+    notation: out
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: out
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/boys.png
+    notation: boys
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: boys
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/since.png
+    notation: since
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: since
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/inches.png
+    notation: inches
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: inches
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/India.png
+    notation: India
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: India
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/infer.png
+    notation: infer
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: infer
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/injury.png
+    notation: injury
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: injury
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/unless.png
+    notation: unless
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: unless
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sense.png
+    notation: sense
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: sense
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sent.png
+    notation: sent
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: sent
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sink.png
+    notation: sink
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: sink
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/inquest.png
+    notation: inquest
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: inquest
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/invent.png
+    notation: invent
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: invent
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/spear.png
+    notation: spear
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: spear
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/cusps.png
+    notation: cusps
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: cusps
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/phrase.png
+    notation: phrase
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: phrase
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/phlegm.png
+    notation: phlegm
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: phlegm
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/place.png
+    notation: place
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: place
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/present.png
+    notation: present
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: present
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/depth.png
+    notation: depth
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: depth
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/scent.png
+    notation: scent
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: scent
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/slew.png
+    notation: slew
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: slew
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sphere.png
+    notation: sphere
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: sphere
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/square.png
+    notation: square
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: square
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/still.png
+    notation: still
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: still
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/answer.png
+    notation: answer
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: answer
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/work.png
+    notation: work
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: work
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/learn.png
+    notation: learn
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: learn
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/guard.png
+    notation: guard
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: guard
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/suit.png
+    notation: suit
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: suit
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sketch.png
+    notation: sketch
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: sketch
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/turtle.png
+    notation: turtle
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: turtle
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/truth.png
+    notation: truth
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: truth
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/two.png
+    notation: two
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: two
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/hawk.png
+    notation: hawk
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: hawk
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/owls.png
+    notation: owls
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: owls
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/dawn.png
+    notation: dawn
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: dawn
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/exhort.png
+    notation: exhort
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: exhort
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/expense.png
+    notation: expense
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: expense
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/extent.png
+    notation: extent
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: extent
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/singer.png
+    notation: singer
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+  plaintext: singer
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/inspect.png
+    notation: inspect
+    source: Manual, "How to Write and Join the Characters"
+    style: full
+    tall: true
+  plaintext: inspect
 #endregion
