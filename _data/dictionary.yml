@@ -51,7 +51,7 @@
 -   plaintext: "I\u2019m"
     orthic:
     -   imagePath: "/assets/manual/b_I\u2019m.png"
-        notation: "I\u2019m"
+        notation: "im"
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -72,7 +72,7 @@
 -   plaintext: and
     orthic:
     -   imagePath: /assets/manual/b_and.png
-        notation: and
+        notation: '^a'
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -275,7 +275,7 @@
 -   plaintext: "can\u2019t"
     orthic:
     -   imagePath: "/assets/manual/b_can\u2019t.png"
-        notation: "cn\u2019t"
+        notation: "cnt"
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -285,7 +285,7 @@
         notation: nY
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
-    notes: ''
+    notes: 'The `n` is on the line, not above it. Cp. "evening."'
 -   plaintext: of
     orthic:
     -   imagePath: /assets/manual/b_of.png
