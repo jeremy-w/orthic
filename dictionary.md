@@ -16,8 +16,13 @@ Signs:
 - A caret `^` signals raising, as in `^e` for "the". This is a half-step (the height of a `c`, `s`, or `e`) up from the letter just written.
 - An underscore `_` signals lowering, as in `_t` for the "-ight" ending. This is a half-step down.
 - A `*` signals a dot, as on `*plex` for "complex".
-- An uppercase letter signals a double-sized version of that letter, as in the `aD` "adv-" prefix. (`ee` is written as such, though, being treated as a vowel combo rather than a double-sized `e`.)
-    - A `Y` is used for the -ing stroke.
+- An uppercase letter often signals a double-sized version of that letter, as in the `aV` "adv-" prefix. (`ee` is written as such, though, being treated as a vowel combo rather than a double-sized `e`.)
+    - `B` for the "falling" vertical `b`
+    - `D` for the double-wide `td`/`dt`/`dd` blend
+    - `M` for the `mb` blend
+    - `N` for the double-wide `nm`/`mn`/`mm` blend
+    - `V` for the `dv` blend (a `v` that is as wide as a `d`)
+    - `Y` for the _-ing_ stroke.
 - A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in `fi:asco`, where an `i` then an `a` is written rather than an `ai` join.
 
 ## Dictionary
