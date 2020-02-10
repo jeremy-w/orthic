@@ -39,10 +39,13 @@ p img.tall, li img.tall, td img.tall {
 
 {% assign example = site.data.dictionary | where: "plaintext", "example entry" %}
 {% for entry in example  %}
-- **{{entry.plaintext}}** {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a> {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
+
+Every entry links to itself.
+This lets you directly link to an entry from anywhere on the Internet.
 
 
 ## Dictionary
@@ -56,6 +59,7 @@ p img.tall, li img.tall, td img.tall {
 {% assign headword = maybe_headword %}
 ### {{headword}}
 {% endif %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a> {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
