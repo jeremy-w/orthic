@@ -405,7 +405,7 @@
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: '**Distinguishing outline:** The curved -ing always means "thing". The raised straight -ing means "being" instead.'
--   plaintext: "thro\u2019out"
+-   plaintext: "throughout"
     orthic:
     -   imagePath: "/assets/manual/b_thro\u2019out.png"
         notation: "^roout"
