@@ -792,3 +792,376 @@
     style: ordinary
   plaintext: singing
 #endregion
+#region Manual: Alphabet
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/A.png
+    notation: A
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: A
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/ab.png
+    notation: ab
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: ab
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/act.png
+    notation: act
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: act
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/B.png
+    notation: B
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: B
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/bad.png
+    notation: bad
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: bad
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/C.png
+    notation: C
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: C
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/cabby.png
+    notation: cabby
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: cabby
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/D.png
+    notation: D
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: D
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/adder.png
+    notation: adder
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: adder
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/E.png
+    notation: E
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: E
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/fed.png
+    notation: fed
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: fed
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/F.png
+    notation: F
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: F
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/left.png
+    notation: left
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: left
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/G.png
+    notation: G
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: G
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/get.png
+    notation: get
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: get
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/H.png
+    notation: H
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: H
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/hit.png
+    notation: hit
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: hit
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/I.png
+    notation: I
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: I
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/city.png
+    notation: city
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: city
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/J.png
+    notation: J
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: J
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/jug.png
+    notation: jug
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: jug
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/K.png
+    notation: K
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: K
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/luck.png
+    notation: luck
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: luck
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/L.png
+    notation: L
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: L
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/like.png
+    notation: like
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: like
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/M.png
+    notation: M
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: M
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/melt.png
+    notation: melt
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: melt
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/N.png
+    notation: N
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: N
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/know.png
+    notation: know
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: know
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/O.png
+    notation: O
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: O
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/proof.png
+    notation: proof
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: proof
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/P.png
+    notation: P
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: P
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/plate.png
+    notation: plate
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: plate
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/Qu.png
+    notation: Qu
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: Qu
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/query.png
+    notation: query
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: query
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/R.png
+    notation: R
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: R
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/roller.png
+    notation: roller
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: roller
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/S.png
+    notation: S
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: S
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/sort.png
+    notation: sort
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: sort
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/T.png
+    notation: T
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: T
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/trust.png
+    notation: trust
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: trust
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/U.png
+    notation: U
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: U
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/upper.png
+    notation: upper
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: upper
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/V.png
+    notation: V
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: V
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/wavy.png
+    notation: wavy
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: wavy
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/W.png
+    notation: W
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: W
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/wow.png
+    notation: wow
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: wow
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/X.png
+    notation: X
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: X
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/exit.png
+    notation: exit
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: exit
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/Y.png
+    notation: Y
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: Y
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/eyes.png
+    notation: eyes
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: eyes
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/Z.png
+    notation: Z
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: Z
+- notes: ''
+  orthic:
+  - imagePath: /assets/manual/size.png
+    notation: size
+    source: Manual, "The Cursive Alphabet"
+    style: full
+  plaintext: size
+#endregion
