@@ -33,6 +33,10 @@ p img.tall, li img.tall, td img.tall {
   max-height: 5ex;
   vertical-align: middle;
 }
+
+.content > h3 + ul > li + li {
+    margin-top: 2em
+}
 </style>
 
 ## Example Entry
