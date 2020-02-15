@@ -1735,924 +1735,956 @@
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/able.png
-    notation: TODO
+    notation: ab
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: able
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/ably.png
-    notation: TODO
+    notation: aby
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: ably
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/above.png
-    notation: TODO
+    notation: abv
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: above
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/according.png
-    notation: TODO
+    notation: acY
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: according
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/acqu.png
-    notation: TODO
+    notation: aq
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: acqu
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/adj.png
-    notation: TODO
+    notation: aj
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: adj
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/advantage.png
-    notation: TODO
+    notation: aV_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: advantage
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/after.png
-    notation: TODO
+    notation: af
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: after
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/afternoon.png
-    notation: TODO
+    notation: afnn
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: afternoon
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/afraid.png
-    notation: TODO
+    notation: afd
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: afraid
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/ages.png
-    notation: TODO
+    notation: a_s
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: ages
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/agent.png
-    notation: TODO
+    notation: a_t
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: agent
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/also.png
-    notation: TODO
+    notation: aso
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: also
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/already.png
-    notation: TODO
+    notation: alry
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: already
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/announce.png
-    notation: TODO
+    notation: ance
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: announce
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/appropriate.png
-    notation: TODO
+    notation: a^pte
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: appropriate
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/apparent.png
-    notation: TODO
+    notation: ap.t
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: apparent
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/arrange.png
-    notation: TODO
+    notation: ar_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: arrange
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/arrive.png
-    notation: TODO
+    notation: ar^*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: arrive
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-ation.png
-    notation: TODO
+    notation: "n"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -ation
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-ational.png
-    notation: TODO
+    notation: nl
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -ational
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/baptist.png
-    notation: TODO
+    notation: bpt
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: baptist
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/be.png
-    notation: TODO
+    notation: ^*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: be
-- notes: ''
+- notes: 'This is always the straight -ing, to distinguish it from the raised curved -ing used for "thing".'
   orthic:
   - imagePath: /assets/supplement/being.png
-    notation: TODO
+    notation: ^Y
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: being
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/been.png
-    notation: TODO
+    notation: ^n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: been
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/before.png
-    notation: TODO
+    notation: ^f
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: before
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/believed.png
-    notation: TODO
+    notation: ^lee^d
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: believed
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/better.png
-    notation: TODO
+    notation: ^ter
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: better
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/best.png
-    notation: TODO
+    notation: ^st
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: best
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/bishop.png
-    notation: TODO
+    notation: bp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: bishop
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/body.png
-    notation: TODO
+    notation: bdy
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: body
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/both.png
-    notation: TODO
+    notation: bth
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: both
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/by.png
-    notation: TODO
+    notation: ^y
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: by
 - notes: ''
   orthic:
+  - imagePath: /assets/supplement/by.png
+    notation: ^y
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: thy
+- notes: ''
+  orthic:
   - imagePath: /assets/supplement/caught.png
-    notation: TODO
+    notation: caut
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: caught
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/changes.png
-    notation: TODO
+    notation: ch_s
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: changes
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/church.png
-    notation: TODO
+    notation: chch
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: church
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/circum-.png
-    notation: TODO
+    notation: cer
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: circum-
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/circumstance.png
-    notation: TODO
+    notation: cerce
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: circumstance
 - notes: ''
   orthic:
-  - imagePath: /assets/supplement/com-,.png
-    notation: TODO
+  - imagePath: /assets/supplement/com-.png
+    notation: "*"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
-  plaintext: com-,
-- notes: ''
+  plaintext: com-
+- notes: 'Note the common pattern of writing -ome as `m` and -ame as `me` between "come"/"came" and "some"/ "same".'
   orthic:
   - imagePath: /assets/supplement/come.png
-    notation: TODO
+    notation: cm
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: come
-- notes: ''
+- notes: 'Yes, Callendar wrote the `m` a little too short here.'
   orthic:
   - imagePath: /assets/supplement/came.png
-    notation: TODO
+    notation: cme
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: came
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/command.png
-    notation: TODO
+    notation: "*.nd"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: command
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/comment.png
-    notation: TODO
+    notation: "*.t"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: comment
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/common.png
-    notation: TODO
+    notation: "*.n"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: common
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/compound.png
-    notation: TODO
+    notation: "*.pou"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: compound
-- notes: ''
+- notes: 'FIXME: Right side of the `d` got trimmed off in the image.'
   orthic:
   - imagePath: /assets/supplement/comprehend.png
-    notation: TODO
+    notation: "*^hend"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: comprehend
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/concerning.png
-    notation: TODO
+    notation: "*.cY"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: concerning
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/conserve.png
-    notation: TODO
+    notation: "*.s^*"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: conserve
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/consideration.png
-    notation: TODO
+    notation: "*.sid.n"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: consideration
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/counter-.png
-    notation: TODO
+    notation: couer
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: counter-
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/country.png
-    notation: TODO
+    notation: coury
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: country
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/course.png
-    notation: TODO
+    notation: crs
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: course
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/court.png
-    notation: TODO
+    notation: crt
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: court
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/dear.png
-    notation: TODO
+    notation: dr
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: dear
 - notes: ''
   orthic:
-  - imagePath: /assets/supplement/different,.png
-    notation: TODO
+  - imagePath: /assets/supplement/different.png
+    notation: def
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
-  plaintext: different,
+  plaintext: different
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/different.png
+    notation: def
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: difference
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/difficult.png
-    notation: TODO
+    notation: deft
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: difficult
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/each.png
-    notation: TODO
+    notation: ea
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: each
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/editor.png
-    notation: TODO
+    notation: edor
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: editor
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/else.png
-    notation: TODO
+    notation: el
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: else
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/endeavour.png
-    notation: TODO
+    notation: end^r
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: endeavour
 - notes: ''
   orthic:
   - imagePath: !!python/unicode '/assets/supplement/even.png'
-    notation: TODO
+    notation: een
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: !!python/unicode 'even'
-- notes: ''
+- notes: 'Do not confuse with unraised `nY` for "nothing".'
   orthic:
   - imagePath: /assets/supplement/evening.png
-    notation: TODO
+    notation: ^nY
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: evening
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/event.png
-    notation: TODO
+    notation: ^nt
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: event
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/every.png
-    notation: TODO
+    notation: ^ry
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: every
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/evident.png
-    notation: TODO
+    notation: ^dent
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: evident
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/evil.png
-    notation: TODO
+    notation: ^el
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: evil
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/executor.png
-    notation: TODO
+    notation: xor
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: executor
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/except.png
-    notation: TODO
+    notation: x
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: except
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/exercise.png
-    notation: TODO
+    notation: xe
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: exercise
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/extraordinary.png
-    notation: TODO
+    notation: xtry
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: extraordinary
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/favour.png
-    notation: TODO
+    notation: fa^r
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: favour
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-fection.png
-    notation: TODO
+    notation: fun
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -fection
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-fication.png
-    notation: TODO
+    notation: f.n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -fication
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/foreign.png
-    notation: TODO
+    notation: f_n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: foreign
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/forgive.png
-    notation: TODO
+    notation: fg^*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: forgive
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/forth.png
-    notation: TODO
+    notation: fth
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: forth
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/forward.png
-    notation: TODO
+    notation: fard
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: forward
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/found.png
-    notation: TODO
+    notation: fou
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: found
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/from.png
-    notation: TODO
+    notation: fr
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: from
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-ge.png
-    notation: TODO
+    notation: _*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -ge
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/general.png
-    notation: TODO
+    notation: gen
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: general
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/gives.png
-    notation: TODO
+    notation: g^s
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: gives
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/given.png
-    notation: TODO
+    notation: g^n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: given
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-gn.png
-    notation: TODO
+    notation: _n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -gn
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-gram.png
-    notation: TODO
+    notation: _m
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -gram
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/half.png
-    notation: TODO
+    notation: haf
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: half
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/hand.png
-    notation: TODO
+    notation: nd
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: hand
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/head.png
-    notation: TODO
+    notation: hd
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: head
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/help.png
-    notation: TODO
+    notation: lp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: help
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/him.png
-    notation: TODO
+    notation: im
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: him
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/his.png
-    notation: TODO
+    notation: is
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: his
 - notes: ''
   orthic:
-  - imagePath: /assets/supplement/important,.png
-    notation: TODO
+  - imagePath: /assets/supplement/important.png
+    notation: imp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
-  plaintext: important,
+  plaintext: important
 - notes: ''
   orthic:
+  - imagePath: /assets/supplement/important.png
+    notation: imp
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: importance
+- notes: 'Note how the `ch` is tucked into the `n` in the abbreviated style.'
+  orthic:
   - imagePath: /assets/supplement/inch.png
-    notation: TODO
+    notation: inch
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: inch
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/individual.png
-    notation: TODO
+    notation: indual
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: individual
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/interest.png
-    notation: TODO
+    notation: int
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: interest
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/-ism.png
-    notation: TODO
+    notation: m
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -ism
 - notes: ''
   orthic:
+  - imagePath: /assets/supplement/-ism.png
+    notation: m
+    source: inferred from "kingdom" and "wisdom" in Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -dom
+- notes: ''
+  orthic:
   - imagePath: /assets/supplement/ive.png
-    notation: TODO
+    notation: ^*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: ive
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/judge.png
-    notation: TODO
+    notation: ju_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: judge
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/just.png
-    notation: TODO
+    notation: j
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: just
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/justice.png
-    notation: TODO
+    notation: jce
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: justice
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/king.png
-    notation: TODO
+    notation: k
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: king
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/kingdom.png
-    notation: TODO
+    notation: km
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: kingdom
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/know.png
-    notation: TODO
+    notation: kn
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: know
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/known.png
-    notation: TODO
+    notation: knn
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: known
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/knowledge.png
-    notation: TODO
+    notation: kn_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: knowledge
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/lady.png
-    notation: TODO
+    notation: ly
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: lady
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/language.png
-    notation: TODO
+    notation: la_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: language
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/large.png
-    notation: TODO
+    notation: la_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: large
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/largest.png
-    notation: TODO
+    notation: la_st
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: largest
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/letter.png
-    notation: TODO
+    notation: ler
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: letter
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/little.png
-    notation: TODO
+    notation: lele
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: little
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/lord.png
-    notation: TODO
+    notation: ld
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: lord
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/make.png
-    notation: TODO
+    notation: mk
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: make
-- notes: ''
+- notes: 'Note the "hook `s`" used here.'
   orthic:
   - imagePath: /assets/supplement/makes.png
-    notation: TODO
+    notation: mks
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: makes
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/magnify.png
-    notation: TODO
+    notation: m_fy
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: magnify
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/mb.png
-    notation: TODO
+    notation: M
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: mb
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/mp.png
-    notation: TODO
+    notation: mp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
+    tall: true
   plaintext: mp
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/member.png
-    notation: TODO
+    notation: Mr
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: member
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/mis-.png
-    notation: TODO
+    notation: ms
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: mis-
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/mistake.png
-    notation: TODO
+    notation: "mst_*"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
+    tall: true
   plaintext: mistake
-- notes: ''
+- notes: 'Note how the `ch` is tucked into the `m` in the abbreviated style.'
   orthic:
   - imagePath: /assets/supplement/much.png
-    notation: TODO
+    notation: mch
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: much
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/much-more.png
-    notation: TODO
+    notation: mchmo
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: much-more
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/month.png
-    notation: TODO
+    notation: mth
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: month
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/must.png
-    notation: TODO
+    notation: mst
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
+    tall: true
   plaintext: must
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/morning.png
-    notation: TODO
+    notation: mY
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
+    tall: true
   plaintext: morning
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/mortgage.png
-    notation: TODO
+    notation: mt_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: mortgage
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/nation.png
-    notation: TODO
+    notation: n.n
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: nation
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/nearest.png
-    notation: TODO
+    notation: nrst
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: nearest
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/necessary.png
-    notation: TODO
+    notation: necy
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: necessary
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/neighbour.png
-    notation: TODO
+    notation: nebr
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: neighbour
-- notes: ''
+- notes: 'Note how abbreviated style uses `es` to free up `ns` for "-ations".'
   orthic:
   - imagePath: /assets/supplement/-ness.png
-    notation: TODO
+    notation: es
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: -ness
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/goodness.png
-    notation: TODO
+    notation: gd.es
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: goodness
@@ -3057,7 +3089,7 @@
   plaintext: strength
 - notes: ''
   orthic:
-  - imagePath: /assets/supplement/strong.png
+  - imagePath: /assets/supplement/strength.png
     notation: TODO
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
