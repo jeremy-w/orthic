@@ -1731,3 +1731,1454 @@
     tall: true
   plaintext: inspect
 #endregion
+#region Supplement: Examples of Abbrevation
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/able.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: able
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/ably.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: ably
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/above.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: above
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/according.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: according
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/acqu.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: acqu
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/adj.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: adj
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/advantage.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: advantage
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/after.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: after
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/afternoon.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: afternoon
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/afraid.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: afraid
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/ages.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: ages
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/agent.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: agent
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/also.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: also
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/already.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: already
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/announce.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: announce
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/appropriate.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: appropriate
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/apparent.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: apparent
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/arrange.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: arrange
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/arrive.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: arrive
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ation.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ation
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ational.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ational
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/baptist.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: baptist
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/be.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: be
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/being.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: being
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/been.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: been
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/before.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: before
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/believed.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: believed
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/better.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: better
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/best.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: best
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/bishop.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: bishop
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/body.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: body
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/both.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: both
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/by.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: by
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/caught.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: caught
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/changes.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: changes
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/church.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: church
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/circum-.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: circum-
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/circumstance.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: circumstance
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/com-,.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: com-,
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/come.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: come
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/came.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: came
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/command.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: command
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/comment.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: comment
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/common.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: common
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/compound.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: compound
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/comprehend.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: comprehend
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/concerning.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: concerning
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/conserve.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: conserve
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/consideration.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: consideration
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/counter-.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: counter-
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/country.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: country
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/course.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: course
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/court.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: court
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/dear.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: dear
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/different,.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: different,
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/difficult.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: difficult
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/each.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: each
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/editor.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: editor
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/else.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: else
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/endeavour.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: endeavour
+- notes: ''
+  orthic:
+  - imagePath: !!python/unicode '/assets/supplement/even.png'
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: !!python/unicode 'even'
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/evening.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: evening
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/event.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: event
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/every.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: every
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/evident.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: evident
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/evil.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: evil
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/executor.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: executor
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/except.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: except
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/exercise.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: exercise
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/extraordinary.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: extraordinary
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/favour.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: favour
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-fection.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -fection
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-fication.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -fication
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/foreign.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: foreign
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/forgive.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: forgive
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/forth.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: forth
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/forward.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: forward
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/found.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: found
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/from.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: from
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ge.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ge
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/general.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: general
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/gives.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: gives
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/given.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: given
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-gn.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -gn
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-gram.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -gram
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/half.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: half
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/hand.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: hand
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/head.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: head
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/help.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: help
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/him.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: him
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/his.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: his
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/important,.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: important,
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/inch.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: inch
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/individual.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: individual
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/interest.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: interest
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ism.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ism
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/ive.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: ive
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/judge.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: judge
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/just.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: just
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/justice.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: justice
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/king.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: king
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/kingdom.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: kingdom
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/know.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: know
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/known.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: known
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/knowledge.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: knowledge
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/lady.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: lady
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/language.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: language
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/large.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: large
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/largest.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: largest
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/letter.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: letter
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/little.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: little
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/lord.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: lord
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/make.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: make
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/makes.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: makes
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/magnify.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: magnify
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/mb.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: mb
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/mp.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: mp
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/member.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: member
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/mis-.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: mis-
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/mistake.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: mistake
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/much.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: much
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/much-more.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: much-more
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/month.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: month
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/must.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: must
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/morning.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: morning
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/mortgage.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: mortgage
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/nation.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: nation
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/nearest.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: nearest
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/necessary.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: necessary
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/neighbour.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: neighbour
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ness.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ness
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/goodness.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: goodness
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/nevertheless.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: nevertheless
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/next.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: next
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/notwithstanding.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: notwithstanding
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/number.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: number
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/obedient.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: obedient
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/opportunity.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: opportunity
+- notes: ''
+  orthic:
+  - imagePath: !!python/unicode '/assets/supplement/over.png'
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: !!python/unicode 'over'
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/page.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: page
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/pages.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: pages
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/paper.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: paper
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/part.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: part
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/party.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: party
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/particular.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: particular
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/peculiar.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: peculiar
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/people.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: people
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/perceives.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: perceives
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/person.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: person
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/philo-.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: philo-
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/philosophy.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: philosophy
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/plaintiff.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: plaintiff
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/point.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: point
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/practice.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: practice
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/preconceived.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: preconceived
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/present.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: present
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/private.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: private
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/promise.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: promise
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/property.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: property
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/public.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: public
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/quite.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: quite
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/religion.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: religion
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/report.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: report
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/respectively.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: respectively
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/satisfy.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: satisfy
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/satisfactory.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: satisfactory
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/saviour.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: saviour
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/scarcely.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: scarcely
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/school.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: school
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/scribe.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: scribe
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/script.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: script
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/selves.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: selves
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/servant.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: servant
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/several.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: several
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/sir.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: sir
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/sirs.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: sirs
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-ship.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -ship
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/worship.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: worship
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/short.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: short
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/shorthand.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: shorthand
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/sign.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: sign
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/signify.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: signify
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/solicitor.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: solicitor
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/some.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: some
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/sometimes.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: sometimes
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/source.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: source
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/special.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: special
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/state.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: state
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/strength.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: strength
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/strong.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: strong
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/such.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: such
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/such-as.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: such-as
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/super.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: super
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/superior.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: superior
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/take.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: take
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/taken.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: taken
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/transact.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: transact
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/trustee.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: trustee
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/very.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: very
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/verify.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: verify
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/-wise.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: -wise
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/otherwise.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: otherwise
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/wisdom.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: wisdom
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/word.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: word
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/work.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: work
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/world.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: world
+- notes: ''
+  orthic:
+  - imagePath: /assets/supplement/young.png
+    notation: TODO
+    source: Supplement, "Examples of Abbreviations"
+    style: abbreviated
+  plaintext: young
+#endregion
