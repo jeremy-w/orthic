@@ -14,6 +14,7 @@ Hopefully this enables searching by Orthic, rather than just by longhand.
 Signs:
 
 - A caret `^` signals raising, as in `^e` for "the". This is a half-step (the height of a `c`, `s`, or `e`) up from the letter just written.
+- A dot `.` signals a disjoin or butting up of two outlines for mode 2. This should be written markedly smaller than a word space.
 - An underscore `_` signals lowering, as in `_t` for the "-ight" ending. This is a half-step down.
 - A `*` signals a dot, as on `*plex` for "complex".
 - An uppercase letter often signals a double-sized version of that letter, as in the `aV` "adv-" prefix. (`ee` is written as such, though, being treated as a vowel combo rather than a double-sized `e`.)
