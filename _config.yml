@@ -28,6 +28,8 @@ url: "https://jeremy-w.github.io" # the base hostname & protocol for your site, 
 twitter_username: jeremywsherman
 github_username:  jeremy-w
 permalink: "/:title"
+timezone: "America/New_York"
+encoding: "utf-8"
 
 # Build settings
 # Theme info:
