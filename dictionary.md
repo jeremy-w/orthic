@@ -52,7 +52,12 @@ p img.tall, li img.tall, td img.tall {
 Every entry links to itself.
 This lets you directly link to an entry from anywhere on the Internet.
 
+{% assign mode = 'sorted' %}
+{% case mode %}
+{% when 'merged' %}
+TODO: merge entries and notes!
 
+{% when 'sorted' %}
 ## Dictionary
 
 {% assign headword = '' %}
@@ -68,3 +73,15 @@ This lets you directly link to an entry from anywhere on the Internet.
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
+
+{% when 'raw' %}
+## Raw Dictionary
+**NOT SORTED! For debug only.**
+
+{% assign entries = site.data.dictionary %}
+{% for entry in entries  %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a> {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
+    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
+{% endfor -%}
+{% endfor %}
+{% endcase %}
