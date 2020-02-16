@@ -69,7 +69,10 @@ TODO: merge entries and notes!
 {% assign headword = maybe_headword %}
 ### {{headword}}
 {% endif %}
-- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a> {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a>
+{% if entry.notes != '' %}
+    - _**Note:** {{entry.notes}}_
+{% endif %}{% for ex in entry.orthic %}
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
@@ -80,7 +83,10 @@ TODO: merge entries and notes!
 
 {% assign entries = site.data.dictionary %}
 {% for entry in entries  %}
-- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a> {% if entry.notes.length > 0 %}*{{entry.notes}}*{% endif %} {% for ex in entry.orthic %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a>
+{% if entry.notes != '' %}
+    - _**Note:** {{entry.notes}}_
+{% endif %}{% for ex in entry.orthic %}
     - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}

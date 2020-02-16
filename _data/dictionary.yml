@@ -2397,7 +2397,7 @@
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: importance
-- notes: 'Note how the `ch` is tucked into the `n` in the abbreviated style.'
+- notes: 'The abbreviated style tucks the `ch` into the curve of the `n`.'
   orthic:
   - imagePath: /assets/supplement/inch.png
     notation: inch
@@ -2602,7 +2602,7 @@
     style: abbreviated
     tall: true
   plaintext: mistake
-- notes: 'Note how the `ch` is tucked into the `m` in the abbreviated style.'
+- notes: 'The abbreviated style tucks the `ch` into the curve of the `m`.'
   orthic:
   - imagePath: /assets/supplement/much.png
     notation: mch
@@ -2674,7 +2674,7 @@
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: neighbour
-- notes: 'Note how abbreviated style uses `es` to free up `ns` for "-ations".'
+- notes: 'The abbreviated style uses `es` to free up `ns` for "-ations".'
   orthic:
   - imagePath: /assets/supplement/-ness.png
     notation: es
@@ -2944,7 +2944,7 @@
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: scarcely
-- notes: 'Note how the abbreviated style smoothly joins the `ch` to the `s`.'
+- notes: 'The abbreviated style smoothly joins the `ch` to the `s`.'
   orthic:
   - imagePath: /assets/supplement/school.png
     notation: schol
@@ -3100,7 +3100,7 @@
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: strong
-- notes: 'Note how the abbreviated style introduces a smooth ligature of `s` and `ch`, where the `s` runs in from the left side rather than the top.'
+- notes: 'The abbreviated style introduces a smooth ligature of `s` and `ch`, where the `s` runs in from the left side rather than the top.'
   orthic:
   - imagePath: /assets/supplement/such.png
     notation: sch
