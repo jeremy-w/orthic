@@ -173,7 +173,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 
 - <a id="F-join" />**F**&nbsp;![]({{ assets }}/F.png)
   - F is joined without an angle after vowels; thus, ![]({{ assets }}/if.png)&nbsp;**if** (not ![]({{ assets }}/if_angled.png)).
-  - It is joined to following characters like the longhand letter _s_; thus, 
+  - It is joined to following characters like the longhand letter _s_; thus,
 {% for it in site.data.manual.compounds.f %}
     - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
@@ -528,6 +528,32 @@ Owing to the peculiar character of the vowel system and the facility with which 
 
 <p lang="de">Der Erste, welcher die Anziehung des geriebenen Bernsteins von der des Magnetsteins mit Bestimmtheit unterschied, und sie mit dem von der griechischen Benennung des Bernsteins (<em lang="grc">ἤλεκτρον</em>) entlehnten Namen bezeichnete, war W. Gilbert (um 1600). Er fand, dass Edelsteine, Glas, Harz, Schwefel, u.&#8239;s.&#8239;w., nach dem Reiben…</p>
 
+### Danish
+_This Danish adaptation is [thanks to Jacob Moen](https://www.reddit.com/r/orthic/comments/f3fl34/danish_orthic/fhienrf). It is new as of 2020 and was not included in the original 1891 text._
+
+#### Adaptations
+- _å_ is an _a_ with a floating apostrophe over the middle.
+- _ø_ is a crossed _o._
+- _æ_ is a crossed _a_.
+- Raising is used for the _j_ in _jeg:_
+  - `^eg` for _jeg_
+- Raising is used for the _de-_ prefix, analogously to its use for _th_ in the English _the,_ thus:
+  - `^n` for _den_
+  - `^r` for _der_
+  - `^t` for _det_
+
+#### Specimen
+<figure>
+ <img src="{{ assets }}/DanishSpecimen.jpg" />
+ <figcaption>Specimen of Danish</figcaption>
+</figure>
+
+#### Key
+<p lang="dk">Allerede i min barndom, omkring 8-9 års alderen, kunne jeg tegne nogenlunde hæderligt. Jeg tror, jeg hørte til den lille gruppe af børn, som helt tilfældigt lærer at se på den måde, der sætter en i stand til at tegne. Jeg kan stadigvæk huske, at jeg sagde til mig selv, også som ganske lille, at hvis jeg ville tegne noget, måtte jeg først gøre "det".</p>
+
+From the Danish translation of Betty Edwards' _Drawing on the Right Side of the Brain._
+Note that _a_ and _o_ could have been omitted before _n_ and _m_ much more often than they were in this specimen.
+
 ### Italian
 #### Adaptations
 - Final _o_ is omitted after consonants.
@@ -591,12 +617,12 @@ _Jeremy: This section is an original addition of this work. The images have a do
 _The original text provided no key for these hints. If you wanted to learn the reporting style from the manual, you needed to learn to read ordinary style first._
 
 The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
- 
+
 Words are abbreviated as in longhand by the application (3) of the general principle given in §10.
 This method is so simple that with a little (4) practice any reporter can easily extemporise suitable abbreviations for himself, according to the (5) context of the subject upon which he is engaged. In order however to secure the greatest possible (6) uniformity of style among writers of-the system, it’s intended shortly to publish (7) a standard list of abbreviations for common words in the form of a vocabulary.
 
-(8) It’s impossible to treat the subject of reporting 
-adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10) 
+(8) It’s impossible to treat the subject of reporting
+adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10)
 
 1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and inflexions which are evidently required (12) by the context may be omitted.
    Mere initials may be largely used for repeated names (13) and titles.
@@ -627,17 +653,17 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    - chas = which has,
    - shtnd = shorthand,
    - chil = which will.
- 
+
 2. (1) <a id="slurring" />SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
-   In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word. 
+   In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word.
    Examples of common slurs are:
- 
+
    - (5) double-width D = DD or TD,
    - deep double-width D = DV,
    - UUN = USION or UTION. (6)
 
    The larger and more characteristic signs should be retained, but the smaller signs such as L R (7) may be slurred; examples
- 
+
    - expeec = experience,
    - beev = believe,
    - aso = also,
@@ -662,10 +688,10 @@ adequately in the present publication, (9) but we will proceed to give a few hin
      - wa<sub>s</sub> = wages
 
    - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
-  
+
      - dif-ce = difference,
      - a-plish = accomplish.
-    
+
      (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
 
      - (19) un-n = uncommon,
