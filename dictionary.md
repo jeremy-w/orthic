@@ -25,6 +25,7 @@ Signs:
     - `V` for the `dv` blend (a `v` that is as wide as a `d`)
     - `Y` for the _-ing_ stroke.
 - A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in `fi:asco`, where an `i` then an `a` is written rather than an `ai` join.
+- `i` is strictly reserved for dotted `i`. When the dot is omitted, the letter is notated as `e`.
 
 <style>
 p img, li img, td img {

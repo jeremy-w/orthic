@@ -53,7 +53,7 @@
 -   plaintext: "I\u2019m"
     orthic:
     -   imagePath: "/assets/manual/b_I\u2019m.png"
-        notation: "im"
+        notation: "em"
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -426,7 +426,7 @@
 -   plaintext: into
     orthic:
     -   imagePath: /assets/manual/b_into.png
-        notation: int
+        notation: ent
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -586,10 +586,10 @@
     source: Manual, "Abbreviate common endings"
     style: ordinary
   plaintext: night
-- notes: 'In Ordinary, the `i` is included so that the direction can show it is an `l` and not an `r`.'
+- notes: 'In Ordinary, the `e` is included so that the direction can show it is an `l` and not an `r`.'
   orthic:
   - imagePath: /assets/manual/light.png
-    notation: li_t
+    notation: le_t
     source: Manual, "Abbreviate common endings"
     style: ordinary
   plaintext: light
@@ -1511,7 +1511,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/inquest.png
-    notation: inquest
+    notation: inqest
     source: Manual, "How to Write and Join the Characters"
     style: full
     tall: true
@@ -1598,7 +1598,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/square.png
-    notation: square
+    notation: sqare
     source: Manual, "How to Write and Join the Characters"
     style: full
   plaintext: square
@@ -2078,7 +2078,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/consideration.png
-    notation: "*.sid.n"
+    notation: "*.sed.n"
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: consideration
@@ -2372,49 +2372,49 @@
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/him.png
-    notation: im
+    notation: em
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: him
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/his.png
-    notation: is
+    notation: es
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: his
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/important.png
-    notation: imp
+    notation: emp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: important
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/important.png
-    notation: imp
+    notation: emp
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: importance
 - notes: 'The abbreviated style tucks the `ch` into the curve of the `n`.'
   orthic:
   - imagePath: /assets/supplement/inch.png
-    notation: inch
+    notation: ench
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: inch
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/individual.png
-    notation: indual
+    notation: endual
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: individual
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/interest.png
-    notation: int
+    notation: ent
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: interest
