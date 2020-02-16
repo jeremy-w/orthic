@@ -797,7 +797,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/A.png
-    notation: A
+    notation: a
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: A
@@ -818,7 +818,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/B.png
-    notation: B
+    notation: b
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: B
@@ -832,7 +832,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/C.png
-    notation: C
+    notation: c
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: C
@@ -846,7 +846,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/D.png
-    notation: D
+    notation: d
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: D
@@ -860,7 +860,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/E.png
-    notation: E
+    notation: e
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: E
@@ -874,7 +874,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/F.png
-    notation: F
+    notation: f
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: F
@@ -888,7 +888,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/G.png
-    notation: G
+    notation: g
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: G
@@ -902,7 +902,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/H.png
-    notation: H
+    notation: h
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: H
@@ -916,7 +916,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/I.png
-    notation: I
+    notation: i
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: I
@@ -930,7 +930,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/J.png
-    notation: J
+    notation: j
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: J
@@ -944,7 +944,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/K.png
-    notation: K
+    notation: k
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: K
@@ -958,7 +958,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/L.png
-    notation: L
+    notation: l
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: L
@@ -972,7 +972,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/M.png
-    notation: M
+    notation: m
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: M
@@ -986,7 +986,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/N.png
-    notation: N
+    notation: n
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: N
@@ -1000,7 +1000,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/O.png
-    notation: O
+    notation: o
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: O
@@ -1014,7 +1014,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/P.png
-    notation: P
+    notation: p
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: P
@@ -1028,21 +1028,21 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/Qu.png
-    notation: Qu
+    notation: q
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: Qu
 - notes: ''
   orthic:
   - imagePath: /assets/manual/query.png
-    notation: query
+    notation: qery
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: query
 - notes: ''
   orthic:
   - imagePath: /assets/manual/R.png
-    notation: R
+    notation: r
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: R
@@ -1056,7 +1056,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/S.png
-    notation: S
+    notation: s
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: S
@@ -1070,7 +1070,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/T.png
-    notation: T
+    notation: t
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: T
@@ -1084,7 +1084,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/U.png
-    notation: U
+    notation: u
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: U
@@ -1098,7 +1098,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/V.png
-    notation: V
+    notation: v
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: V
@@ -1112,7 +1112,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/W.png
-    notation: W
+    notation: w
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: W
@@ -1126,7 +1126,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/X.png
-    notation: X
+    notation: x
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: X
@@ -1140,7 +1140,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/Y.png
-    notation: Y
+    notation: y
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: Y
@@ -1154,7 +1154,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/Z.png
-    notation: Z
+    notation: z
     source: Manual, "The Cursive Alphabet"
     style: full
   plaintext: Z
