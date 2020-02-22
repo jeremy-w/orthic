@@ -53,10 +53,33 @@ p img.tall, li img.tall, td img.tall {
 Every entry links to itself.
 This lets you directly link to an entry from anywhere on the Internet.
 
-{% assign mode = 'sorted' %}
+{% assign mode = 'merged' %}
 {% case mode %}
 {% when 'merged' %}
-TODO: merge entries and notes!
+## Dictionary
+
+{% assign headword = '' %}
+{% assign entries = site.data.dictionary | sort_natural: "plaintext" %}
+{% for entry in entries  %}
+{% if entry.plaintext == 'example entry' %}{% continue %}{% endif %}
+{% assign maybe_headword = entry.plaintext | slice: 0, 1 | upcase %}
+{% if headword != maybe_headword %}
+{% assign headword = maybe_headword %}
+### {{headword}}
+{% endif %}
+
+{%- if entry.plaintext != current_plaintext %}
+{% assign current_plaintext = entry.plaintext %}
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a>
+{% if entry.notes != '' %}
+    - _**Note:** {{entry.notes}}_
+{% endif %}
+{%- endif -%}
+
+{% for ex in entry.orthic %}
+    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
+{% endfor -%}
+{% endfor %}
 
 {% when 'sorted' %}
 ## Dictionary
