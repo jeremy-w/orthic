@@ -502,7 +502,7 @@
     source: Manual, "Abbreviate common endings"
     style: ordinary
   plaintext: -hood
-- notes: 'This form is used only for the inflection _-ing._ So "singing" is `singY`. Use the curved form after any of `d m n t v`, otherwise the straight form.'
+- notes: 'This form is used only for the inflection -ing. So "singing" is `singY`. Use the curved form after any of `d m n t v`, otherwise the straight form.'
   orthic:
   - imagePath: /assets/manual/ending_t.png
     notation: "Y"
