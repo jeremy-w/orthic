@@ -3222,110 +3222,107 @@
 #endregion
 #region Manual: Leftovers
 - notes: ''
-  plaintext: '30_degrees'
-  orthic:
-  - imagePath: /assets/manual/30_degrees.png
-    notation: TODO
-    source: Manual
-    style: TODO
-- notes: ''
-  plaintext: 'ACKnowledge'
+  plaintext: 'acknowledge'
   orthic:
   - imagePath: /assets/manual/ACKnowledge.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: ack
+    source: Manual, "The General Method"
+    style: ordinary
 - notes: ''
-  plaintext: 'CIRcumstanCE'
+  plaintext: 'circumstance'
   orthic:
   - imagePath: /assets/manual/CIRcumstanCE.png
-    notation: TODO
-    source: Manual
-    style: TODO
-- notes: ''
+    notation: circe
+    source: Manual, "The General Method"
+    style: ordinary
+- notes: 'The combination "ch" is written and joined exactly like the longhand letter "o".'
   plaintext: 'Ch'
   orthic:
   - imagePath: /assets/manual/Ch.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: ch
+    source: Manual, "How to Join", C
+    style: all
 - notes: ''
   plaintext: 'Christ'
   orthic:
   - imagePath: /assets/manual/Christ.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: christ
+    source: Manual, "How to Join", C
+    style: full
+    tall: true
 - notes: ''
   plaintext: 'Clay'
   orthic:
   - imagePath: /assets/manual/Clay.png
     notation: TODO
-    source: Manual
-    style: TODO
+    source: Manual, "Initial Capitals"
+    style: full
+    tall: true
 - notes: ''
-  plaintext: 'DIFferenCE'
+  plaintext: 'difference'
   orthic:
   - imagePath: /assets/manual/DIFferenCE.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: difce
+    source: Manual, "The General Method"
+    style: ordinary
 - notes: ''
-  plaintext: 'DIFferenT'
+  plaintext: 'different'
   orthic:
   - imagePath: /assets/manual/DIFferenT.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: dift
+    source: Manual, "The General Method"
+    style: ordinary
 - notes: ''
-  plaintext: 'Dash'
+  plaintext: 'Punctuation: Dash'
   orthic:
   - imagePath: /assets/manual/Dash.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: "—"
+    source: Manual, "Punctuation"
+    style: all
 - notes: ''
   plaintext: 'Deä'
   orthic:
   - imagePath: /assets/manual/Deä.png
-    notation: TODO
-    source: Manual
-    style: TODO
-- notes: ''
-  plaintext: 'EE_arrow'
+    notation: de:a
+    source: Manual, "Diphthongs"
+    style: full
+- notes: 'The diphthong `ee` is the exception to the "write doubled letters once, optionally with a dot beneath" rule. It is markedly steeper than `u`. `u` should stay about 30 degrees from the horizontal.'
+  plaintext: 'EE'
   orthic:
   - imagePath: /assets/manual/EE_arrow.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: ee
+    source: Manual, "Doubled Letters"
+    style: all
+    tall: true
 - notes: ''
-  plaintext: 'ESPeciallY'
+  plaintext: 'especially'
   orthic:
   - imagePath: /assets/manual/ESPeciallY.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: esp_y
+    source: Manual, "The General Method"
+    style: ordinary
+    tall: true
 - notes: ''
-  plaintext: 'EXTRaordinarY'
+  plaintext: 'extraordinary'
   orthic:
   - imagePath: /assets/manual/EXTRaordinarY.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: xtry
+    source: Manual, "The General Method"
+    style: ordinary
 - notes: ''
   plaintext: 'Fitz'
   orthic:
   - imagePath: /assets/manual/Fitz.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: fitz
+    source: Manual, "How to Join", Z
+    style: full
 - notes: ''
-  plaintext: 'Hyphen'
+  plaintext: 'Punctuation: Hyphen'
   orthic:
   - imagePath: /assets/manual/Hyphen.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: "-"
+    source: Manual, "Punctuation"
+    style: all
 - notes: ''
   plaintext: 'I am not'
   orthic:
@@ -3393,9 +3390,9 @@
   plaintext: 'Leo'
   orthic:
   - imagePath: /assets/manual/Leo.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: le:o
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'Minver'
   orthic:
@@ -3407,9 +3404,9 @@
   plaintext: 'Oölite'
   orthic:
   - imagePath: /assets/manual/Oölite.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: o.olite
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'P_noarrow'
   orthic:
@@ -3715,9 +3712,9 @@
   plaintext: 'create'
   orthic:
   - imagePath: /assets/manual/create.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: cre:ate
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'crow'
   orthic:
@@ -3918,9 +3915,9 @@
   plaintext: 'fiasco'
   orthic:
   - imagePath: /assets/manual/fiasco.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: fi:asco
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'fierce'
   orthic:
@@ -3974,9 +3971,9 @@
   plaintext: 'fuel'
   orthic:
   - imagePath: /assets/manual/fuel.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: fu:el
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'gh'
   orthic:
@@ -4457,9 +4454,9 @@
   plaintext: 'poem'
   orthic:
   - imagePath: /assets/manual/poem.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: po:em
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'pr'
   orthic:
@@ -4520,9 +4517,9 @@
   plaintext: 're-enter'
   orthic:
   - imagePath: /assets/manual/re-enter.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: re.enter
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'real'
   orthic:
@@ -4618,9 +4615,9 @@
   plaintext: 'serious'
   orthic:
   - imagePath: /assets/manual/serious.png
-    notation: TODO
-    source: Manual
-    style: TODO
+    notation: seri:ous
+    source: Manual, "Diphthongs"
+    style: full
 - notes: ''
   plaintext: 'sews'
   orthic:
