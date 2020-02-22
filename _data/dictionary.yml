@@ -3220,3 +3220,1888 @@
     style: abbreviated
   plaintext: young
 #endregion
+#region Manual: Leftovers
+- notes: ''
+  plaintext: '30_degrees'
+  orthic:
+  - imagePath: /assets/manual/30_degrees.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ACKnowledge'
+  orthic:
+  - imagePath: /assets/manual/ACKnowledge.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'CIRcumstanCE'
+  orthic:
+  - imagePath: /assets/manual/CIRcumstanCE.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Ch'
+  orthic:
+  - imagePath: /assets/manual/Ch.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Christ'
+  orthic:
+  - imagePath: /assets/manual/Christ.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Clay'
+  orthic:
+  - imagePath: /assets/manual/Clay.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'DIFferenCE'
+  orthic:
+  - imagePath: /assets/manual/DIFferenCE.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'DIFferenT'
+  orthic:
+  - imagePath: /assets/manual/DIFferenT.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Dash'
+  orthic:
+  - imagePath: /assets/manual/Dash.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Deä'
+  orthic:
+  - imagePath: /assets/manual/Deä.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'EE_arrow'
+  orthic:
+  - imagePath: /assets/manual/EE_arrow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ESPeciallY'
+  orthic:
+  - imagePath: /assets/manual/ESPeciallY.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'EXTRaordinarY'
+  orthic:
+  - imagePath: /assets/manual/EXTRaordinarY.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Fitz'
+  orthic:
+  - imagePath: /assets/manual/Fitz.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Hyphen'
+  orthic:
+  - imagePath: /assets/manual/Hyphen.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'I am not'
+  orthic:
+  - imagePath: /assets/manual/I am not.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'I have had'
+  orthic:
+  - imagePath: /assets/manual/I have had.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'I shall be very'
+  orthic:
+  - imagePath: /assets/manual/I shall be very.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'InitialCapitalsMark'
+  orthic:
+  - imagePath: /assets/manual/InitialCapitalsMark.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Israël'
+  orthic:
+  - imagePath: /assets/manual/Israël.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Jack'
+  orthic:
+  - imagePath: /assets/manual/Jack.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'L.S.W.R.'
+  orthic:
+  - imagePath: /assets/manual/L.S.W.R..png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'L_initial'
+  orthic:
+  - imagePath: /assets/manual/L_initial.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'L_initial_arrow'
+  orthic:
+  - imagePath: /assets/manual/L_initial_arrow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Leo'
+  orthic:
+  - imagePath: /assets/manual/Leo.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Minver'
+  orthic:
+  - imagePath: /assets/manual/Minver.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Oölite'
+  orthic:
+  - imagePath: /assets/manual/Oölite.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'P_noarrow'
+  orthic:
+  - imagePath: /assets/manual/P_noarrow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'REPresentatiVE'
+  orthic:
+  - imagePath: /assets/manual/REPresentatiVE.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'S.E.'
+  orthic:
+  - imagePath: /assets/manual/S.E..png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'S_longhand'
+  orthic:
+  - imagePath: /assets/manual/S_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'S_noarrow'
+  orthic:
+  - imagePath: /assets/manual/S_noarrow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Tisri'
+  orthic:
+  - imagePath: /assets/manual/Tisri.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'Woolwich'
+  orthic:
+  - imagePath: /assets/manual/Woolwich.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'a_raised'
+  orthic:
+  - imagePath: /assets/manual/a_raised.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'able to do'
+  orthic:
+  - imagePath: /assets/manual/able to do.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ache'
+  orthic:
+  - imagePath: /assets/manual/ache.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'addle'
+  orthic:
+  - imagePath: /assets/manual/addle.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ahead'
+  orthic:
+  - imagePath: /assets/manual/ahead.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ai'
+  orthic:
+  - imagePath: /assets/manual/ai.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ai_angled'
+  orthic:
+  - imagePath: /assets/manual/ai_angled.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'al(o)ne'
+  orthic:
+  - imagePath: /assets/manual/al(o)ne.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'already'
+  orthic:
+  - imagePath: /assets/manual/already.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'applied'
+  orthic:
+  - imagePath: /assets/manual/applyd.png
+    notation: applyd
+    source: Manual, "Let -Y stand unaltered"
+    style: ordinary
+- notes: ''
+  plaintext: 'as it is'
+  orthic:
+  - imagePath: /assets/manual/as it is.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'au'
+  orthic:
+  - imagePath: /assets/manual/au.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ay_both'
+  orthic:
+  - imagePath: /assets/manual/ay_both.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ay_over'
+  orthic:
+  - imagePath: /assets/manual/ay_over.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ay_under'
+  orthic:
+  - imagePath: /assets/manual/ay_under.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'band'
+  orthic:
+  - imagePath: /assets/manual/band.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bd'
+  orthic:
+  - imagePath: /assets/manual/bd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bj'
+  orthic:
+  - imagePath: /assets/manual/bj.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bl'
+  orthic:
+  - imagePath: /assets/manual/bl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'black'
+  orthic:
+  - imagePath: /assets/manual/black.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bond'
+  orthic:
+  - imagePath: /assets/manual/bond.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'both'
+  orthic:
+  - imagePath: /assets/manual/both.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'br'
+  orthic:
+  - imagePath: /assets/manual/br.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bread'
+  orthic:
+  - imagePath: /assets/manual/bread.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bs'
+  orthic:
+  - imagePath: /assets/manual/bs.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bt'
+  orthic:
+  - imagePath: /assets/manual/bt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'bv'
+  orthic:
+  - imagePath: /assets/manual/bv.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'can or con'
+  orthic:
+  - imagePath: /assets/manual/can or con.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'chair'
+  orthic:
+  - imagePath: /assets/manual/chair.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'chat'
+  orthic:
+  - imagePath: /assets/manual/chat.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'chief'
+  orthic:
+  - imagePath: /assets/manual/chief.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ck'
+  orthic:
+  - imagePath: /assets/manual/ck.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'cl'
+  orthic:
+  - imagePath: /assets/manual/cl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'clay_lowercase'
+  orthic:
+  - imagePath: /assets/manual/clay_lowercase.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'cows'
+  orthic:
+  - imagePath: /assets/manual/cows.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'cr'
+  orthic:
+  - imagePath: /assets/manual/cr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'create'
+  orthic:
+  - imagePath: /assets/manual/create.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'crow'
+  orthic:
+  - imagePath: /assets/manual/crow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ct'
+  orthic:
+  - imagePath: /assets/manual/ct.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'd_longhand'
+  orthic:
+  - imagePath: /assets/manual/d_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'daze'
+  orthic:
+  - imagePath: /assets/manual/daze.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dge'
+  orthic:
+  - imagePath: /assets/manual/dge.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dj'
+  orthic:
+  - imagePath: /assets/manual/dj.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dle'
+  orthic:
+  - imagePath: /assets/manual/dle.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dr'
+  orthic:
+  - imagePath: /assets/manual/dr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dry'
+  orthic:
+  - imagePath: /assets/manual/dry.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dv'
+  orthic:
+  - imagePath: /assets/manual/dv.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'dw'
+  orthic:
+  - imagePath: /assets/manual/dw.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'e_initial_longhand'
+  orthic:
+  - imagePath: /assets/manual/e_initial_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'e_longhand'
+  orthic:
+  - imagePath: /assets/manual/e_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ea_both'
+  orthic:
+  - imagePath: /assets/manual/ea_both.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ea_over'
+  orthic:
+  - imagePath: /assets/manual/ea_over.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ea_under'
+  orthic:
+  - imagePath: /assets/manual/ea_under.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'easiest'
+  orthic:
+  - imagePath: /assets/manual/easyst.png
+    notation: easyst
+    source: Manual, "Let -Y stand unaltered"
+    style: ordinary
+- notes: ''
+  plaintext: 'eat'
+  orthic:
+  - imagePath: /assets/manual/eat.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'eau'
+  orthic:
+  - imagePath: /assets/manual/eau.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'eau_angled'
+  orthic:
+  - imagePath: /assets/manual/eau_angled.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ee'
+  orthic:
+  - imagePath: /assets/manual/ee.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ei'
+  orthic:
+  - imagePath: /assets/manual/ei.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'end_longhand'
+  orthic:
+  - imagePath: /assets/manual/end_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'esquire'
+  orthic:
+  - imagePath: /assets/manual/esquire.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'eu'
+  orthic:
+  - imagePath: /assets/manual/eu.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ew'
+  orthic:
+  - imagePath: /assets/manual/ew.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'f_longhand'
+  orthic:
+  - imagePath: /assets/manual/f_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fd'
+  orthic:
+  - imagePath: /assets/manual/fd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fiasco'
+  orthic:
+  - imagePath: /assets/manual/fiasco.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fierce'
+  orthic:
+  - imagePath: /assets/manual/fierce.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fl'
+  orthic:
+  - imagePath: /assets/manual/fl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'flow'
+  orthic:
+  - imagePath: /assets/manual/flow.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fr'
+  orthic:
+  - imagePath: /assets/manual/fr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fro'
+  orthic:
+  - imagePath: /assets/manual/fro.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fs'
+  orthic:
+  - imagePath: /assets/manual/fs.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ft'
+  orthic:
+  - imagePath: /assets/manual/ft.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'fuel'
+  orthic:
+  - imagePath: /assets/manual/fuel.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'gh'
+  orthic:
+  - imagePath: /assets/manual/gh.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'gl'
+  orthic:
+  - imagePath: /assets/manual/gl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'glad'
+  orthic:
+  - imagePath: /assets/manual/glad.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'gn'
+  orthic:
+  - imagePath: /assets/manual/gn.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'gr'
+  orthic:
+  - imagePath: /assets/manual/gr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'grade'
+  orthic:
+  - imagePath: /assets/manual/grade.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ha'
+  orthic:
+  - imagePath: /assets/manual/ha.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'happier'
+  orthic:
+  - imagePath: /assets/manual/happyr.png
+    notation: happyr
+    source: Manual, "Let -Y stand unaltered"
+    style: ordinary
+- notes: ''
+  plaintext: 'hat'
+  orthic:
+  - imagePath: /assets/manual/hat.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'hay'
+  orthic:
+  - imagePath: /assets/manual/hay.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'held'
+  orthic:
+  - imagePath: /assets/manual/held.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'herd'
+  orthic:
+  - imagePath: /assets/manual/herd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ia_both'
+  orthic:
+  - imagePath: /assets/manual/ia_both.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ie'
+  orthic:
+  - imagePath: /assets/manual/ie.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'if'
+  orthic:
+  - imagePath: /assets/manual/if.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'if_angled'
+  orthic:
+  - imagePath: /assets/manual/if_angled.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ing_both'
+  orthic:
+  - imagePath: /assets/manual/ing_both.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ing_curved'
+  orthic:
+  - imagePath: /assets/manual/ing_curved.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ing_straight'
+  orthic:
+  - imagePath: /assets/manual/ing_straight.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'kiss’d'
+  orthic:
+  - imagePath: /assets/manual/kiss’d.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'laws'
+  orthic:
+  - imagePath: /assets/manual/laws.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lawsuit'
+  orthic:
+  - imagePath: /assets/manual/lawsuit.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lf'
+  orthic:
+  - imagePath: /assets/manual/lf.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'litre'
+  orthic:
+  - imagePath: /assets/manual/litre.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'little'
+  orthic:
+  - imagePath: /assets/manual/little.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lk'
+  orthic:
+  - imagePath: /assets/manual/lk.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'longhand_E'
+  orthic:
+  - imagePath: /assets/manual/longhand_E.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'longhand_L'
+  orthic:
+  - imagePath: /assets/manual/longhand_L.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'longhand_b'
+  orthic:
+  - imagePath: /assets/manual/longhand_b.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lp'
+  orthic:
+  - imagePath: /assets/manual/lp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lt'
+  orthic:
+  - imagePath: /assets/manual/lt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'lv'
+  orthic:
+  - imagePath: /assets/manual/lv.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'mb'
+  orthic:
+  - imagePath: /assets/manual/mb.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'minster'
+  orthic:
+  - imagePath: /assets/manual/minster.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'mp'
+  orthic:
+  - imagePath: /assets/manual/mp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ms'
+  orthic:
+  - imagePath: /assets/manual/ms.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nc'
+  orthic:
+  - imagePath: /assets/manual/nc.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nch'
+  orthic:
+  - imagePath: /assets/manual/nch.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nd'
+  orthic:
+  - imagePath: /assets/manual/nd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nf'
+  orthic:
+  - imagePath: /assets/manual/nf.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ng'
+  orthic:
+  - imagePath: /assets/manual/ng.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nj'
+  orthic:
+  - imagePath: /assets/manual/nj.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nk'
+  orthic:
+  - imagePath: /assets/manual/nk.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nl'
+  orthic:
+  - imagePath: /assets/manual/nl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nqu'
+  orthic:
+  - imagePath: /assets/manual/nqu.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ns'
+  orthic:
+  - imagePath: /assets/manual/ns.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nsp'
+  orthic:
+  - imagePath: /assets/manual/nsp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nt'
+  orthic:
+  - imagePath: /assets/manual/nt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'nv'
+  orthic:
+  - imagePath: /assets/manual/nv.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oak'
+  orthic:
+  - imagePath: /assets/manual/oak.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oar'
+  orthic:
+  - imagePath: /assets/manual/oar.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'odd'
+  orthic:
+  - imagePath: /assets/manual/odd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oi'
+  orthic:
+  - imagePath: /assets/manual/oi.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'optician'
+  orthic:
+  - imagePath: /assets/manual/optician.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'or'
+  orthic:
+  - imagePath: /assets/manual/or.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ou'
+  orthic:
+  - imagePath: /assets/manual/ou.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ou2'
+  orthic:
+  - imagePath: /assets/manual/ou2.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ou_angled'
+  orthic:
+  - imagePath: /assets/manual/ou_angled.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ought to have been'
+  orthic:
+  - imagePath: /assets/manual/ought to have been.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oy'
+  orthic:
+  - imagePath: /assets/manual/oy.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oy2'
+  orthic:
+  - imagePath: /assets/manual/oy2.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'oy_angled'
+  orthic:
+  - imagePath: /assets/manual/oy_angled.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'p_longhand'
+  orthic:
+  - imagePath: /assets/manual/p_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'pearl'
+  orthic:
+  - imagePath: /assets/manual/pearl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ph'
+  orthic:
+  - imagePath: /assets/manual/ph.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'phth'
+  orthic:
+  - imagePath: /assets/manual/phth.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'pl'
+  orthic:
+  - imagePath: /assets/manual/pl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'play'
+  orthic:
+  - imagePath: /assets/manual/play.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'poem'
+  orthic:
+  - imagePath: /assets/manual/poem.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'pr'
+  orthic:
+  - imagePath: /assets/manual/pr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'pray'
+  orthic:
+  - imagePath: /assets/manual/pray.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ps'
+  orthic:
+  - imagePath: /assets/manual/ps.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'pt'
+  orthic:
+  - imagePath: /assets/manual/pt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'puzzle'
+  orthic:
+  - imagePath: /assets/manual/puzzle.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'quay'
+  orthic:
+  - imagePath: /assets/manual/quay.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rce'
+  orthic:
+  - imagePath: /assets/manual/rce.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rd'
+  orthic:
+  - imagePath: /assets/manual/rd.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 're-enter'
+  orthic:
+  - imagePath: /assets/manual/re-enter.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'real'
+  orthic:
+  - imagePath: /assets/manual/real.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rf'
+  orthic:
+  - imagePath: /assets/manual/rf.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rk'
+  orthic:
+  - imagePath: /assets/manual/rk.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rn'
+  orthic:
+  - imagePath: /assets/manual/rn.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rp'
+  orthic:
+  - imagePath: /assets/manual/rp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rs'
+  orthic:
+  - imagePath: /assets/manual/rs.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rt'
+  orthic:
+  - imagePath: /assets/manual/rt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'rv'
+  orthic:
+  - imagePath: /assets/manual/rv.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 's_straight'
+  orthic:
+  - imagePath: /assets/manual/s_straight.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sc'
+  orthic:
+  - imagePath: /assets/manual/sc.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'school'
+  orthic:
+  - imagePath: /assets/manual/school.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'seas'
+  orthic:
+  - imagePath: /assets/manual/seas.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'seen'
+  orthic:
+  - imagePath: /assets/manual/seen.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'serious'
+  orthic:
+  - imagePath: /assets/manual/serious.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sews'
+  orthic:
+  - imagePath: /assets/manual/sews.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sh'
+  orthic:
+  - imagePath: /assets/manual/sh.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sha'
+  orthic:
+  - imagePath: /assets/manual/sha.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'shed'
+  orthic:
+  - imagePath: /assets/manual/shed.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'shred'
+  orthic:
+  - imagePath: /assets/manual/shred.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sk'
+  orthic:
+  - imagePath: /assets/manual/sk.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sl'
+  orthic:
+  - imagePath: /assets/manual/sl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'slay'
+  orthic:
+  - imagePath: /assets/manual/slay.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sleep'
+  orthic:
+  - imagePath: /assets/manual/sleep.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sm'
+  orthic:
+  - imagePath: /assets/manual/sm.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sn'
+  orthic:
+  - imagePath: /assets/manual/sn.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'social'
+  orthic:
+  - imagePath: /assets/manual/social.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sp'
+  orthic:
+  - imagePath: /assets/manual/sp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sp2'
+  orthic:
+  - imagePath: /assets/manual/sp2.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'squ'
+  orthic:
+  - imagePath: /assets/manual/squ.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sra'
+  orthic:
+  - imagePath: /assets/manual/sra.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'st'
+  orthic:
+  - imagePath: /assets/manual/st.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ste'
+  orthic:
+  - imagePath: /assets/manual/ste.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'stew'
+  orthic:
+  - imagePath: /assets/manual/stew.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'stirr’d'
+  orthic:
+  - imagePath: /assets/manual/stirr’d.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'stupid'
+  orthic:
+  - imagePath: /assets/manual/stupid.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sun'
+  orthic:
+  - imagePath: /assets/manual/sun.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sup'
+  orthic:
+  - imagePath: /assets/manual/sup.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'sw'
+  orthic:
+  - imagePath: /assets/manual/sw.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 't_longhand'
+  orthic:
+  - imagePath: /assets/manual/t_longhand.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'tch'
+  orthic:
+  - imagePath: /assets/manual/tch.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'th'
+  orthic:
+  - imagePath: /assets/manual/th.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'that'
+  orthic:
+  - imagePath: /assets/manual/that.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'the'
+  orthic:
+  - imagePath: /assets/manual/the.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'them'
+  orthic:
+  - imagePath: /assets/manual/them.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'they'
+  orthic:
+  - imagePath: /assets/manual/they.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'this'
+  orthic:
+  - imagePath: /assets/manual/this.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'tho’'
+  orthic:
+  - imagePath: /assets/manual/tho’.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'tle'
+  orthic:
+  - imagePath: /assets/manual/tle.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'to be'
+  orthic:
+  - imagePath: /assets/manual/to be.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'too'
+  orthic:
+  - imagePath: /assets/manual/too.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'tr'
+  orthic:
+  - imagePath: /assets/manual/tr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'tries'
+  orthic:
+  - imagePath: /assets/manual/trys.png
+    notation: trys
+    source: Manual, "Let -Y stand unaltered"
+    style: ordinary
+- notes: ''
+  plaintext: 'tw'
+  orthic:
+  - imagePath: /assets/manual/tw.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ua'
+  orthic:
+  - imagePath: /assets/manual/ua.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ui'
+  orthic:
+  - imagePath: /assets/manual/ui.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'us’d'
+  orthic:
+  - imagePath: /assets/manual/us’d.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'view'
+  orthic:
+  - imagePath: /assets/manual/view.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'virgin'
+  orthic:
+  - imagePath: /assets/manual/virgin.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'w(o)m(a)n'
+  orthic:
+  - imagePath: /assets/manual/w(o)m(a)n.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'way'
+  orthic:
+  - imagePath: /assets/manual/way.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wet'
+  orthic:
+  - imagePath: /assets/manual/wet.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wh'
+  orthic:
+  - imagePath: /assets/manual/wh.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'what'
+  orthic:
+  - imagePath: /assets/manual/what.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'which'
+  orthic:
+  - imagePath: /assets/manual/which.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'who'
+  orthic:
+  - imagePath: /assets/manual/who.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'with a view to'
+  orthic:
+  - imagePath: /assets/manual/with a view to.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'with'
+  orthic:
+  - imagePath: /assets/manual/with.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wk'
+  orthic:
+  - imagePath: /assets/manual/wk.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wl'
+  orthic:
+  - imagePath: /assets/manual/wl.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wn'
+  orthic:
+  - imagePath: /assets/manual/wn.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'woe'
+  orthic:
+  - imagePath: /assets/manual/woe.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'world'
+  orthic:
+  - imagePath: /assets/manual/world.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'wr'
+  orthic:
+  - imagePath: /assets/manual/wr.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'write'
+  orthic:
+  - imagePath: /assets/manual/write.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'ws'
+  orthic:
+  - imagePath: /assets/manual/ws.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'xh'
+  orthic:
+  - imagePath: /assets/manual/xh.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'xp'
+  orthic:
+  - imagePath: /assets/manual/xp.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'xt'
+  orthic:
+  - imagePath: /assets/manual/xt.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'yacht'
+  orthic:
+  - imagePath: /assets/manual/yacht.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'years'
+  orthic:
+  - imagePath: /assets/manual/years.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'yet'
+  orthic:
+  - imagePath: /assets/manual/yet.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'yore'
+  orthic:
+  - imagePath: /assets/manual/yore.png
+    notation: TODO
+    source: Manual
+    style: TODO
+- notes: ''
+  plaintext: 'yule'
+  orthic:
+  - imagePath: /assets/manual/yule.png
+    notation: TODO
+    source: Manual
+    style: TODO
+#endregion
