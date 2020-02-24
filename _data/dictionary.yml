@@ -3429,6 +3429,7 @@
     notation: 'sleep'
     source: 'Manual, "Doubled Letters"'
     style: 'all'
+    tall: true
 - notes: ''
   plaintext: 'sup'
   orthic:
@@ -3498,51 +3499,54 @@
   plaintext: 'lawsuit'
   orthic:
   - imagePath: '/assets/manual/lawsuit.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: 'law.suit'
+    source: 'Manual, "Dividing a Word"'
+    style: 'full'
 - notes: ''
   plaintext: 'Woolwich'
   orthic:
   - imagePath: '/assets/manual/Woolwich.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: 'wol.wich'
+    source: 'Manual, "Dividing a Word"'
+    style: 'full'
 - notes: ''
   plaintext: 'virgin'
   orthic:
   - imagePath: '/assets/manual/virgin.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
-- notes: ''
-  plaintext: 'InitialCapitalsMark'
+    notation: 'vir.gin'
+    source: 'Manual, "Dividing a Word"'
+    style: 'full'
+    tall: true
+# General Rules: Initial Capitals
+- notes: 'Initial capitals, as in proper names or some abbreviations, are marked by a diagonal line under the start of the outline. This line might cut through descenders.'
+  plaintext: 'Punctuation: Initial Capitals Mark'
   orthic:
   - imagePath: '/assets/manual/InitialCapitalsMark.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: '[none provided]'
+    source: 'Manual, "Initial Capitals"'
+    style: 'all'
 - notes: ''
   plaintext: 'Jack'
   orthic:
   - imagePath: '/assets/manual/Jack.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: 'jack'
+    source: 'Manual, "Initial Capitals"'
+    style: 'all'
 - notes: ''
   plaintext: 'S.E.'
   orthic:
   - imagePath: '/assets/manual/S.E..png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: 's.e'
+    source: 'Manual, "Initial Capitals"'
+    style: 'all'
 - notes: ''
   plaintext: 'L.S.W.R.'
   orthic:
   - imagePath: '/assets/manual/L.S.W.R..png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    notation: 'l.s.w.r'
+    source: 'Manual, "Initial Capitals"'
+    style: 'all'
+# How to Join: A
 - notes: ''
   plaintext: 'ai'
   orthic:
@@ -3592,6 +3596,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: B
 - notes: ''
   plaintext: 'longhand_b'
   orthic:
@@ -3648,6 +3653,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: C
 - notes: ''
   plaintext: 'chair'
   orthic:
@@ -3697,6 +3703,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: D
 - notes: ''
   plaintext: 'dge'
   orthic:
@@ -3739,6 +3746,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: E
 - notes: ''
   plaintext: 's_straight'
   orthic:
@@ -3865,6 +3873,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: F
 - notes: ''
   plaintext: 'if'
   orthic:
@@ -3914,6 +3923,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: G
 - notes: ''
   plaintext: 'gh'
   orthic:
@@ -3942,6 +3952,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: H
 - notes: ''
   plaintext: 'hat'
   orthic:
@@ -3970,6 +3981,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: I
 - notes: ''
   plaintext: 'ia_both'
   orthic:
@@ -3998,6 +4010,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: L
 - notes: ''
   plaintext: 'L_initial_arrow'
   orthic:
@@ -4187,6 +4200,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: M
 - notes: ''
   plaintext: 'mp'
   orthic:
@@ -4208,6 +4222,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: N
 - notes: ''
   plaintext: 'ng'
   orthic:
@@ -4299,6 +4314,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: O
 - notes: ''
   plaintext: 'oar'
   orthic:
@@ -4341,6 +4357,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: P
 - notes: ''
   plaintext: 'p_longhand'
   orthic:
@@ -4397,6 +4414,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: Q
 - notes: ''
   plaintext: 'f_longhand'
   orthic:
@@ -4418,6 +4436,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: R
 - notes: ''
   plaintext: 'rce'
   orthic:
@@ -4495,6 +4514,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: S
 - notes: ''
   plaintext: 'S_longhand'
   orthic:
@@ -4628,6 +4648,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: T
 - notes: ''
   plaintext: 't_longhand'
   orthic:
@@ -4698,6 +4719,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: U
 - notes: ''
   plaintext: 'ee'
   orthic:
@@ -4740,6 +4762,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: V (and STE)
 - notes: ''
   plaintext: 'minster'
   orthic:
@@ -4768,6 +4791,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: W
 - notes: ''
   plaintext: 'way'
   orthic:
@@ -4880,6 +4904,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: X
 - notes: ''
   plaintext: 'xh'
   orthic:
@@ -4901,6 +4926,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: Y
 - notes: ''
   plaintext: 'yacht'
   orthic:
@@ -4929,6 +4955,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# How to Join: Z
 - notes: ''
   plaintext: 'daze'
   orthic:
@@ -4943,6 +4970,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# "Ordinary Style", Abbreviations, A and O drop
 - notes: ''
   plaintext: 'can or con'
   orthic:
@@ -4978,6 +5006,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# "Ordinary Style", Abbreviations, Raising for Initial TH-
 - notes: ''
   plaintext: 'the'
   orthic:
@@ -5027,6 +5056,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# "Ordinary Style", Abbreviations, Let Final -Y Alone
 - notes: ''
   plaintext: 'applyd'
   orthic:
@@ -5055,6 +5085,7 @@
     notation: 'TODO'
     source: 'Manual'
     style: 'TODO'
+# "Ordinary Style", Common Endings
 - notes: ''
   plaintext: 'us’d'
   orthic:
