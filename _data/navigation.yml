@@ -7,6 +7,8 @@
   dropdown:
     - name: Dictionary
       link: /dictionary
+    - name: Reading Material
+      link: /reading
     - name: Anki Deck
       link: /anki-deck-available
     - name: Ruled Paper
