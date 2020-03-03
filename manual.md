@@ -180,7 +180,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
   {%- endfor -%}
 {% endfor %}
 
-- <a id="G-join" />**G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds:
+- <a id="G-join" />**G**&nbsp;![]({{ assets }}/G.png) is like the left-hand half of a capital _G._ It forms the compounds: <a id="gh-join" />
 {% for it in site.data.manual.compounds.g %}
   - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
   {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
@@ -272,7 +272,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 
 - <a id="S-join" />**S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
   - <a id="standalone-s-versus-e-join" />When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
-  - <a id="sh-and-sr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
+  - <a id="sh-sr-and-shr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
   {% assign words = "shed Tisri shred school" | split: " " %}{% for word in words -%}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {%- endfor %}
