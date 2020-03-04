@@ -12,8 +12,11 @@ Texts in the fully-written style are hard to come by.
 Most writing is done in a more abbreviated style.
 But there are some!
 
+#### From the Manual
 - ["Specimen of Fully-Written Style"]({{site.baseurl}}/assets/manual/FullyWrittenStyleSpecimen.png) from the Manual, written by Callendar around 1891 (1 page)
   - Key: [Manual Section]({{site.baseurl}}/manual#specimen-of-fully-written-style)
+
+#### Modern Publications
 - [_The Cask of Amontillado_]({{site.baseurl}}/assets/reading/Cask of Amontillado 2020 Sherman.pdf) by Edgar Allan Poe, written by Jeremy W. Sherman in early 2020 (14 pages)
   - Key: [Wikisource](https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe/Volume_1/The_Cask_of_Amontillado)
 
@@ -67,8 +70,10 @@ There are numerous specimens between the Manual and Supplement, as well as sever
     - Key: [Supplement section]({{site.baseurl}}/supplement#key-lord-salisbury-at-the-mansion-house)
 
 #### Other Cambridge Shorthand Society Publications
-- Aesop's Fables: link forthcoming
-- The New Testament: link forthcoming
+- [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_]({{site.baseurl}}/assets/reading/Aesop's Fables in Orthic.pdf)
+    - Key: The fables appear to be substantially similar to the text given in [Samuel Croxall's 1835 _Fables of Æsop and Others_](https://play.google.com/store/books/details?id=LsMqAAAAYAAJ)
+- [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)
+    - Key: Any authorized version of the KJV will do. You'll also find this write-up of [Stevens' abbreviating principles](https://redd.it/ag2pq0) helpful, as he uses some tricks covered in neither Manual nor Supplement.
 
 #### Modern Publications
 Watch this space. :)
