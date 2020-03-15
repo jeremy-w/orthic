@@ -512,7 +512,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/manual/ending_t.png
-    notation: t
+    notation: _t
     source: Manual, "Abbreviate common endings"
     style: ordinary
   plaintext: -ight
