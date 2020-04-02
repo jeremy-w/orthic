@@ -3248,7 +3248,7 @@
   - imagePath: /assets/manual/Ch.png
     notation: ch
     source: Manual, "How to Join", C
-    style: all
+    style: 'every'
 - notes: ''
   plaintext: 'Christ'
   orthic:
@@ -3285,7 +3285,7 @@
   - imagePath: /assets/manual/Dash.png
     notation: "—"
     source: Manual, "Punctuation"
-    style: all
+    style: 'every'
 - notes: ''
   plaintext: 'Leo'
   orthic:
@@ -3376,7 +3376,7 @@
   - imagePath: /assets/manual/EE_arrow.png
     notation: ee
     source: Manual, "Doubled Letters"
-    style: all
+    style: 'every'
     tall: true
 - notes: ''
   plaintext: 'especially'
@@ -3406,7 +3406,7 @@
   - imagePath: /assets/manual/Hyphen.png
     notation: "-"
     source: Manual, "Punctuation"
-    style: all
+    style: 'every'
 # Cursive Alphabet: Doubled Letters
 - notes: ''
   plaintext: 'odd'
@@ -3428,7 +3428,7 @@
   - imagePath: '/assets/manual/sleep.png'
     notation: 'sleep'
     source: 'Manual, "Doubled Letters"'
-    style: 'all'
+    style: 'every'
     tall: true
 - notes: ''
   plaintext: 'sup'
@@ -3436,7 +3436,7 @@
   - imagePath: '/assets/manual/sup.png'
     notation: 'sup'
     source: 'Manual, "Doubled Letters"'
-    style: 'all'
+    style: 'every'
 # General Rules: Diphthongs
 - notes: ''
   plaintext: 'ai'
@@ -3444,56 +3444,56 @@
   - imagePath: '/assets/manual/ai_angled.png'
     notation: 'a:i'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'ai'
   orthic:
   - imagePath: '/assets/manual/ai.png'
     notation: 'TODO'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'oy'
   orthic:
   - imagePath: '/assets/manual/oy_angled.png'
     notation: 'o:y'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'oy'
   orthic:
   - imagePath: '/assets/manual/oy.png'
     notation: 'oy'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'ou'
   orthic:
   - imagePath: '/assets/manual/ou_angled.png'
     notation: 'o:u'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'ou'
   orthic:
   - imagePath: '/assets/manual/ou.png'
     notation: 'ou'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'eau'
   orthic:
   - imagePath: '/assets/manual/eau_angled.png'
     notation: 'e:a:u'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'eau'
   orthic:
   - imagePath: '/assets/manual/eau.png'
     notation: 'eau'
     source: 'Manual, "Dipththongs"'
-    style: 'all'
+    style: 'every'
 # General Rules: Dividing a Word
 - notes: ''
   plaintext: 'lawsuit'
@@ -3524,28 +3524,28 @@
   - imagePath: '/assets/manual/InitialCapitalsMark.png'
     notation: '[none provided]'
     source: 'Manual, "Initial Capitals"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'Jack'
   orthic:
   - imagePath: '/assets/manual/Jack.png'
     notation: 'jack'
     source: 'Manual, "Initial Capitals"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'S.E.'
   orthic:
   - imagePath: '/assets/manual/S.E..png'
     notation: 's.e'
     source: 'Manual, "Initial Capitals"'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'L.S.W.R.'
   orthic:
   - imagePath: '/assets/manual/L.S.W.R..png'
     notation: 'l.s.w.r'
     source: 'Manual, "Initial Capitals"'
-    style: 'all'
+    style: 'every'
 # How to Join: A
 - notes: 'The dotted version is most common in full style. The flavor of curve follows the rules for ae/ea thanks to the usual i/e punning.'
   plaintext: 'ai'
@@ -3560,42 +3560,42 @@
   - imagePath: '/assets/manual/au.png'
     notation: 'au'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 - notes: 'There are two flavors of `ay`, corresponding to smoothing out `a:y` and `y:a`. The flavor used is the one that gives the best join to the preceding character. This means the `a:y` version is used except after `td nm jqv`. In those letters, continuing with an `a` would create an obtuse join, so instead the `y` is preferred.'
   plaintext: 'ay'
   orthic:
   - imagePath: '/assets/manual/ay_both.png'
     notation: 'ay'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'ay'
   orthic:
   - imagePath: '/assets/manual/ay_under.png'
     notation: 'ay'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'ay'
   orthic:
   - imagePath: '/assets/manual/ay_over.png'
     notation: 'ay'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 - notes: 'This demonstrates using the "under-curve" version of `ay` after `q`.'
   plaintext: 'quay'
   orthic:
   - imagePath: '/assets/manual/quay.png'
     notation: 'qay'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 - notes: 'This demonstrates the default, "over-curve" version of `ay`.'
   plaintext: 'hay'
   orthic:
   - imagePath: '/assets/manual/hay.png'
     notation: 'hay'
     source: 'Manual, "How to Join", A'
-    style: 'all'
+    style: 'every'
 # How to Join: B
 - notes: ''
   plaintext: 'bd'
@@ -3603,14 +3603,14 @@
   - imagePath: '/assets/manual/bd.png'
     notation: 'bd'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'bj'
   orthic:
   - imagePath: '/assets/manual/bj.png'
     notation: 'bj'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
     tall: true
 - notes: ''
   plaintext: 'bl'
@@ -3618,35 +3618,35 @@
   - imagePath: '/assets/manual/bl.png'
     notation: 'bl'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'br'
   orthic:
   - imagePath: '/assets/manual/br.png'
     notation: 'br'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'bs'
   orthic:
   - imagePath: '/assets/manual/bs.png'
     notation: 'bs'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'bt'
   orthic:
   - imagePath: '/assets/manual/bt.png'
     notation: 'bt'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
 - notes: ''
   plaintext: 'bv'
   orthic:
   - imagePath: '/assets/manual/bv.png'
     notation: 'bv'
     source: 'Manual, "How to Join", B'
-    style: 'all'
+    style: 'every'
     tall: true
 # How to Join: C
 - notes: ''
