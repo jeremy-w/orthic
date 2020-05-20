@@ -2505,7 +2505,7 @@
 - notes: ''
   orthic:
   - imagePath: /assets/supplement/language.png
-    notation: la_*
+    notation: ln_*
     source: Supplement, "Examples of Abbreviations"
     style: abbreviated
   plaintext: language
