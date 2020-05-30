@@ -23,7 +23,7 @@ tagline: Light letters, simple shortcuts
 email: me@jeremywsherman.com
 description: >- # this means to ignore newlines until "baseurl:"
   Double your handwriting speed with this no-nonsense shorthand system.
-baseurl: "/orthic" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://orthic.shorthand.fun" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeremywsherman
 github_username:  jeremy-w
