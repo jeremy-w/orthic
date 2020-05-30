@@ -3,7 +3,7 @@ layout: post
 title:  "New: Reading Material"
 date:   "2020-03-04 16:55:35 -0500"
 author: Jeremy
-image: "assets/notes/reading-toc-2020-03.jpg"
+image: "/assets/notes/reading-toc-2020-03.jpg"
 categories:
 - news
 - "study aids"

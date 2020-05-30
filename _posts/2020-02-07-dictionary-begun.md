@@ -3,7 +3,7 @@ layout: post
 title:  "An Orthic dictionary takes shape"
 date:   "2020-02-07 21:55:35 -0500"
 author: Jeremy
-image: "assets/notes/dictionary - example entry.png"
+image: "/assets/notes/dictionary - example entry.png"
 categories:
 - news
 - "study aids"
