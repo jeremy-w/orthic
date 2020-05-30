@@ -71,7 +71,7 @@ There are numerous specimens between the Manual and Supplement, as well as sever
 
 #### Other Cambridge Shorthand Society Publications
 - [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_]({{site.baseurl}}/assets/reading/Aesop's Fables in Orthic.pdf)
-    - Key: The fables appear to be substantially similar to the text given in [Samuel Croxall's 1835 _Fables of Æsop and Others_](https://play.google.com/store/books/details?id=LsMqAAAAYAAJ)
+    - Key: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match.
 - [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)
     - Key: Any authorized version of the KJV will do. You'll also find this write-up of [Stevens' abbreviating principles](https://redd.it/ag2pq0) helpful, as he uses some tricks covered in neither Manual nor Supplement.
 
