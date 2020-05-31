@@ -5,6 +5,8 @@
 - name: Resources
   link: /#
   dropdown:
+    - name: Cheatsheet
+      link: "/assets/Orthic System Survey Cheatsheet D2 2020-02-19.pdf"
     - name: Dictionary
       link: /dictionary
     - name: Reading Material
