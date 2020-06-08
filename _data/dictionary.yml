@@ -504,7 +504,7 @@
   plaintext: -hood
 - notes: 'This form is used only for the inflection -ing. So "singing" is `singY`. Use the curved form after any of `d m n t v`, otherwise the straight form.'
   orthic:
-  - imagePath: /assets/manual/ending_t.png
+  - imagePath: /assets/manual/ing_both.png
     notation: "Y"
     source: Manual, "Abbreviate common endings"
     style: ordinary
