@@ -7,6 +7,8 @@
 #
 #         # could be missing both imagePath and notation if entry is a stub!
 #         imagePath?: string,
+#         tall?: yes | no   # if image needs more space than normal
+#                           # linespacing provides
 #         notation?: string,
 #         source: string,
 #
@@ -799,7 +801,7 @@
   - imagePath: /assets/manual/A.png
     notation: a
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: A
 - notes: ''
   orthic:
@@ -813,7 +815,7 @@
   - imagePath: /assets/manual/act.png
     notation: act
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: act
 - notes: ''
   orthic:
@@ -834,7 +836,7 @@
   - imagePath: /assets/manual/C.png
     notation: c
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: C
 - notes: ''
   orthic:
@@ -848,21 +850,21 @@
   - imagePath: /assets/manual/D.png
     notation: d
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: D
 - notes: ''
   orthic:
   - imagePath: /assets/manual/adder.png
     notation: adder
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: adder
 - notes: ''
   orthic:
   - imagePath: /assets/manual/E.png
     notation: e
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: E
 - notes: ''
   orthic:
@@ -876,7 +878,7 @@
   - imagePath: /assets/manual/F.png
     notation: f
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: F
 - notes: ''
   orthic:
@@ -890,7 +892,7 @@
   - imagePath: /assets/manual/G.png
     notation: g
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: G
 - notes: ''
   orthic:
@@ -904,7 +906,7 @@
   - imagePath: /assets/manual/H.png
     notation: h
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: H
 - notes: ''
   orthic:
@@ -918,7 +920,7 @@
   - imagePath: /assets/manual/I.png
     notation: i
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: I
 - notes: ''
   orthic:
@@ -932,7 +934,7 @@
   - imagePath: /assets/manual/J.png
     notation: j
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: J
 - notes: ''
   orthic:
@@ -946,7 +948,7 @@
   - imagePath: /assets/manual/K.png
     notation: k
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: K
 - notes: ''
   orthic:
@@ -974,7 +976,7 @@
   - imagePath: /assets/manual/M.png
     notation: m
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: M
 - notes: ''
   orthic:
@@ -988,7 +990,7 @@
   - imagePath: /assets/manual/N.png
     notation: n
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: N
 - notes: ''
   orthic:
@@ -1002,7 +1004,7 @@
   - imagePath: /assets/manual/O.png
     notation: o
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: O
 - notes: ''
   orthic:
@@ -1016,7 +1018,7 @@
   - imagePath: /assets/manual/P.png
     notation: p
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: P
 - notes: ''
   orthic:
@@ -1030,7 +1032,7 @@
   - imagePath: /assets/manual/Qu.png
     notation: q
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: Qu
 - notes: ''
   orthic:
@@ -1044,7 +1046,7 @@
   - imagePath: /assets/manual/R.png
     notation: r
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: R
 - notes: ''
   orthic:
@@ -1058,7 +1060,7 @@
   - imagePath: /assets/manual/S.png
     notation: s
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: S
 - notes: ''
   orthic:
@@ -1072,7 +1074,7 @@
   - imagePath: /assets/manual/T.png
     notation: t
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: T
 - notes: ''
   orthic:
@@ -1086,7 +1088,7 @@
   - imagePath: /assets/manual/U.png
     notation: u
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: U
 - notes: ''
   orthic:
@@ -1100,7 +1102,7 @@
   - imagePath: /assets/manual/V.png
     notation: v
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: V
 - notes: ''
   orthic:
@@ -1114,7 +1116,7 @@
   - imagePath: /assets/manual/W.png
     notation: w
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: W
 - notes: ''
   orthic:
@@ -1128,7 +1130,7 @@
   - imagePath: /assets/manual/X.png
     notation: x
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: X
 - notes: ''
   orthic:
@@ -1142,7 +1144,7 @@
   - imagePath: /assets/manual/Y.png
     notation: y
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: Y
 - notes: ''
   orthic:
@@ -1156,7 +1158,7 @@
   - imagePath: /assets/manual/Z.png
     notation: z
     source: Manual, "The Cursive Alphabet"
-    style: full
+    style: every
   plaintext: Z
 - notes: ''
   orthic:
@@ -3705,148 +3707,148 @@
   - imagePath: '/assets/manual/dge.png'
     notation: 'TODO'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'dj'
   orthic:
   - imagePath: '/assets/manual/dj.png'
-    notation: 'TODO'
+    notation: 'dj'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'dle'
   orthic:
   - imagePath: '/assets/manual/dle.png'
-    notation: 'TODO'
+    notation: 'dle'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'dr'
   orthic:
   - imagePath: '/assets/manual/dr.png'
-    notation: 'TODO'
+    notation: 'dr'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'dv'
   orthic:
   - imagePath: '/assets/manual/dv.png'
-    notation: 'TODO'
+    notation: 'dv'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'dw'
   orthic:
   - imagePath: '/assets/manual/dw.png'
-    notation: 'TODO'
+    notation: 'dw'
     source: 'Manual, "How to Join", D'
-    style: 'TODO'
+    style: 'every'
 # How to Join: E
 - notes: ''
   plaintext: 's_straight'
   orthic:
   - imagePath: '/assets/manual/s_straight.png'
-    notation: 'TODO'
+    notation: 's'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ea_both'
   orthic:
   - imagePath: '/assets/manual/ea_both.png'
-    notation: 'TODO'
+    notation: 'ea ae'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ea_under'
   orthic:
   - imagePath: '/assets/manual/ea_under.png'
-    notation: 'TODO'
+    notation: 'ae'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'P_noarrow'
   orthic:
   - imagePath: '/assets/manual/P_noarrow.png'
-    notation: 'TODO'
+    notation: 'p'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'S_noarrow'
   orthic:
   - imagePath: '/assets/manual/S_noarrow.png'
-    notation: 'TODO'
+    notation: 's'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ea_over'
   orthic:
   - imagePath: '/assets/manual/ea_over.png'
-    notation: 'TODO'
+    notation: 'ea'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'S_noarrow'
   orthic:
   - imagePath: '/assets/manual/S_noarrow.png'
-    notation: 'TODO'
+    notation: 's'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'seas'
   orthic:
   - imagePath: '/assets/manual/seas.png'
-    notation: 'TODO'
+    notation: 'seas'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'eat'
   orthic:
   - imagePath: '/assets/manual/eat.png'
-    notation: 'TODO'
+    notation: 'aet'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'real'
   orthic:
   - imagePath: '/assets/manual/real.png'
-    notation: 'TODO'
+    notation: 'rael'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'pearl'
   orthic:
   - imagePath: '/assets/manual/pearl.png'
-    notation: 'TODO'
+    notation: 'pearl'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'years'
   orthic:
   - imagePath: '/assets/manual/years.png'
-    notation: 'TODO'
+    notation: 'years'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'ee'
   orthic:
   - imagePath: '/assets/manual/ee.png'
-    notation: 'TODO'
+    notation: 'ee'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ei'
   orthic:
   - imagePath: '/assets/manual/ei.png'
-    notation: 'TODO'
+    notation: 'ei'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'ie'
   orthic:
   - imagePath: '/assets/manual/ie.png'
-    notation: 'TODO'
+    notation: 'ie'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'stupid'
   orthic:
@@ -3858,457 +3860,457 @@
   plaintext: 'eu'
   orthic:
   - imagePath: '/assets/manual/eu.png'
-    notation: 'TODO'
+    notation: 'eu'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ew'
   orthic:
   - imagePath: '/assets/manual/ew.png'
-    notation: 'TODO'
+    notation: 'ew'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: F
 - notes: ''
   plaintext: 'if'
   orthic:
   - imagePath: '/assets/manual/if.png'
-    notation: 'TODO'
+    notation: 'if'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'if_angled'
   orthic:
   - imagePath: '/assets/manual/if_angled.png'
-    notation: 'TODO'
+    notation: 'ef'
     source: 'Manual'
-    style: 'TODO'
+    style: 'ordinary'
 - notes: ''
   plaintext: 'ft'
   orthic:
   - imagePath: '/assets/manual/ft.png'
-    notation: 'TODO'
+    notation: 'ft'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'fd'
   orthic:
   - imagePath: '/assets/manual/fd.png'
-    notation: 'TODO'
+    notation: 'fd'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'fl'
   orthic:
   - imagePath: '/assets/manual/fl.png'
-    notation: 'TODO'
+    notation: 'fl'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'fr'
   orthic:
   - imagePath: '/assets/manual/fr.png'
-    notation: 'TODO'
+    notation: 'fr'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'fs'
   orthic:
   - imagePath: '/assets/manual/fs.png'
-    notation: 'TODO'
+    notation: 'fs'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: G
 - notes: ''
   plaintext: 'gh'
   orthic:
   - imagePath: '/assets/manual/gh.png'
-    notation: 'TODO'
+    notation: 'gh'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'gl'
   orthic:
   - imagePath: '/assets/manual/gl.png'
-    notation: 'TODO'
+    notation: 'gl'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'gr'
   orthic:
   - imagePath: '/assets/manual/gr.png'
-    notation: 'TODO'
+    notation: 'gr'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'gn'
   orthic:
   - imagePath: '/assets/manual/gn.png'
-    notation: 'TODO'
+    notation: 'gn'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: H
 - notes: ''
   plaintext: 'hat'
   orthic:
   - imagePath: '/assets/manual/hat.png'
-    notation: 'TODO'
+    notation: 'hat'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'chat'
   orthic:
   - imagePath: '/assets/manual/chat.png'
-    notation: 'TODO'
+    notation: 'chat'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'what'
   orthic:
   - imagePath: '/assets/manual/what.png'
-    notation: 'TODO'
+    notation: 'what'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'which'
   orthic:
   - imagePath: '/assets/manual/which.png'
-    notation: 'TODO'
+    notation: 'which'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 # How to Join: I
 - notes: ''
   plaintext: 'ia_both'
   orthic:
   - imagePath: '/assets/manual/ia_both.png'
-    notation: 'TODO'
+    notation: 'ia ai'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'social'
   orthic:
   - imagePath: '/assets/manual/social.png'
-    notation: 'TODO'
+    notation: 'social'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'optician'
   orthic:
   - imagePath: '/assets/manual/optician.png'
-    notation: 'TODO'
+    notation: 'optician'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'chief'
   orthic:
   - imagePath: '/assets/manual/chief.png'
-    notation: 'TODO'
+    notation: 'chief'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 # How to Join: L
 - notes: ''
   plaintext: 'L_initial_arrow'
   orthic:
   - imagePath: '/assets/manual/L_initial_arrow.png'
-    notation: 'TODO'
+    notation: 'l'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'L_initial'
   orthic:
   - imagePath: '/assets/manual/L_initial.png'
-    notation: 'TODO'
+    notation: 'full'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'black'
   orthic:
   - imagePath: '/assets/manual/black.png'
-    notation: 'TODO'
+    notation: 'black'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'bread'
   orthic:
   - imagePath: '/assets/manual/bread.png'
-    notation: 'TODO'
+    notation: 'braed'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'clay_lowercase'
   orthic:
   - imagePath: '/assets/manual/clay_lowercase.png'
-    notation: 'TODO'
+    notation: 'clay'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'crow'
   orthic:
   - imagePath: '/assets/manual/crow.png'
-    notation: 'TODO'
+    notation: 'crow'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'addle'
   orthic:
   - imagePath: '/assets/manual/addle.png'
-    notation: 'TODO'
+    notation: 'addle'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'dry'
   orthic:
   - imagePath: '/assets/manual/dry.png'
-    notation: 'TODO'
+    notation: 'dry'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'flow'
   orthic:
   - imagePath: '/assets/manual/flow.png'
-    notation: 'TODO'
+    notation: 'flow'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'fro'
   orthic:
   - imagePath: '/assets/manual/fro.png'
-    notation: 'TODO'
+    notation: 'fro'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'glad'
   orthic:
   - imagePath: '/assets/manual/glad.png'
-    notation: 'TODO'
+    notation: 'glad'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'grade'
   orthic:
   - imagePath: '/assets/manual/grade.png'
-    notation: 'TODO'
+    notation: 'grade'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'play'
   orthic:
   - imagePath: '/assets/manual/play.png'
-    notation: 'TODO'
+    notation: 'play'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'pray'
   orthic:
   - imagePath: '/assets/manual/pray.png'
-    notation: 'TODO'
+    notation: 'pray'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'little'
   orthic:
   - imagePath: '/assets/manual/little.png'
-    notation: 'TODO'
+    notation: 'little'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'litre'
   orthic:
   - imagePath: '/assets/manual/litre.png'
-    notation: 'TODO'
+    notation: 'litre'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'slay'
   orthic:
   - imagePath: '/assets/manual/slay.png'
-    notation: 'TODO'
+    notation: 'slay'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'Israël'
   orthic:
   - imagePath: '/assets/manual/Israël.png'
-    notation: 'TODO'
+    notation: 'isra:el'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'held'
   orthic:
   - imagePath: '/assets/manual/held.png'
-    notation: 'TODO'
+    notation: 'held'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'herd'
   orthic:
   - imagePath: '/assets/manual/herd.png'
-    notation: 'TODO'
+    notation: 'herd'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'world'
   orthic:
   - imagePath: '/assets/manual/world.png'
-    notation: 'TODO'
+    notation: 'world'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'already'
   orthic:
   - imagePath: '/assets/manual/already.png'
-    notation: 'TODO'
+    notation: 'alraedy'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'lf'
   orthic:
   - imagePath: '/assets/manual/lf.png'
-    notation: 'TODO'
+    notation: 'lf'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'lk'
   orthic:
   - imagePath: '/assets/manual/lk.png'
-    notation: 'TODO'
+    notation: 'lk'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'lp'
   orthic:
   - imagePath: '/assets/manual/lp.png'
-    notation: 'TODO'
+    notation: 'lp'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'lt'
   orthic:
   - imagePath: '/assets/manual/lt.png'
-    notation: 'TODO'
+    notation: 'lt'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'lv'
   orthic:
   - imagePath: '/assets/manual/lv.png'
-    notation: 'TODO'
+    notation: 'lv'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: M
 - notes: ''
   plaintext: 'mp'
   orthic:
   - imagePath: '/assets/manual/mp.png'
-    notation: 'TODO'
+    notation: 'mp'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'mb'
   orthic:
   - imagePath: '/assets/manual/mb.png'
-    notation: 'TODO'
+    notation: 'mb'
     source: 'Manual'
-    style: 'TODO'
+    style: 'full'
 - notes: ''
   plaintext: 'ms'
   orthic:
   - imagePath: '/assets/manual/ms.png'
-    notation: 'TODO'
+    notation: 'ms'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: N
 - notes: ''
   plaintext: 'ng'
   orthic:
   - imagePath: '/assets/manual/ng.png'
-    notation: 'TODO'
+    notation: 'ng'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nsp'
   orthic:
   - imagePath: '/assets/manual/nsp.png'
-    notation: 'TODO'
+    notation: 'nsp'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nc'
   orthic:
   - imagePath: '/assets/manual/nc.png'
-    notation: 'TODO'
+    notation: 'nc'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nch'
   orthic:
   - imagePath: '/assets/manual/nch.png'
-    notation: 'TODO'
+    notation: 'nch'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nd'
   orthic:
   - imagePath: '/assets/manual/nd.png'
-    notation: 'TODO'
+    notation: 'nd'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nf'
   orthic:
   - imagePath: '/assets/manual/nf.png'
-    notation: 'TODO'
+    notation: 'nf'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nj'
   orthic:
   - imagePath: '/assets/manual/nj.png'
-    notation: 'TODO'
+    notation: 'nj'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nl'
   orthic:
   - imagePath: '/assets/manual/nl.png'
-    notation: 'TODO'
+    notation: 'nl'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'ns'
   orthic:
   - imagePath: '/assets/manual/ns.png'
-    notation: 'TODO'
+    notation: 'ns'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nt'
   orthic:
   - imagePath: '/assets/manual/nt.png'
-    notation: 'TODO'
+    notation: 'nt'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nk'
   orthic:
   - imagePath: '/assets/manual/nk.png'
-    notation: 'TODO'
+    notation: 'nk'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nqu'
   orthic:
   - imagePath: '/assets/manual/nqu.png'
-    notation: 'TODO'
+    notation: 'nq'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 - notes: ''
   plaintext: 'nv'
   orthic:
   - imagePath: '/assets/manual/nv.png'
-    notation: 'TODO'
+    notation: 'nv'
     source: 'Manual'
-    style: 'TODO'
+    style: 'every'
 # How to Join: O
 - notes: ''
   plaintext: 'oar'
@@ -5173,4 +5175,2313 @@
     notation: 'TODO'
     source: 'Manual, "Ordinary Style", Phrases'
     style: 'ordinary'
+#endregion
+#region Specimen of Fully-Written Style
+- plaintext: 'abbreviation'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_abbreviation.png'
+    notation: 'abbreviation'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'ability'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_ability.png'
+    notation: 'ability'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'and'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_and.png'
+    notation: 'and'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'any'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_any.png'
+    notation: 'any'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'a'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_a.png'
+    notation: 'a'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'are'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_are.png'
+    notation: 'are'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'as'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_as.png'
+    notation: 'as'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'at'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_at.png'
+    notation: 'at'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'be'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_be.png'
+    notation: 'be'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'brackets'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_brackets.png'
+    notation: 'brackets'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'brevity'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_brevity.png'
+    notation: 'brevity'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'brief'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_brief.png'
+    notation: 'brief'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'by'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_by.png'
+    notation: 'by'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'clearness'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_clearness.png'
+    notation: 'clearness'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'constitute'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_constitute.png'
+    notation: 'constitute'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'contrasted'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_contrasted.png'
+    notation: 'contrasted'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'correct'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_correct.png'
+    notation: 'correct'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'Cursive'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_Cursive.png'
+    notation: 'Cursive'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'difficulty'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_difficulty.png'
+    notation: 'difficulty'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'each'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_each.png'
+    notation: 'each'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'effected'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_effected.png'
+    notation: 'effected'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'employment'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_employment.png'
+    notation: 'employment'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'enable'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_enable.png'
+    notation: 'enable'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'ends'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_ends.png'
+    notation: 'ends'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'English'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_English.png'
+    notation: 'English'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'especially'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_especially.png'
+    notation: 'especially'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'etc'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_etc.png'
+    notation: 'etc'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'even'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_even.png'
+    notation: 'even'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'every'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_every.png'
+    notation: 'every'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'examples'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_examples.png'
+    notation: 'examples'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'few'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_few.png'
+    notation: 'few'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'figure'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_figure.png'
+    notation: 'figure'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'finding'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_finding.png'
+    notation: 'finding'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'follow'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_follow.png'
+    notation: 'follow'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'foreign'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_foreign.png'
+    notation: 'foreign'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'for'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_for.png'
+    notation: 'for'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'full'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_full.png'
+    notation: 'full'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'fully'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_fully.png'
+    notation: 'fully'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'further'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_further.png'
+    notation: 'further'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'given'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_given.png'
+    notation: 'given'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'greatest'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_greatest.png'
+    notation: 'greatest'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'happen'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_happen.png'
+    notation: 'happen'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'have'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_have.png'
+    notation: 'have'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'he'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_he.png'
+    notation: 'he'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'here'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_here.png'
+    notation: 'here'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'his'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_his.png'
+    notation: 'his'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'if'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_if.png'
+    notation: 'if'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'illustrated'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_illustrated.png'
+    notation: 'illustrated'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'impossible'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_impossible.png'
+    notation: 'impossible'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'increase'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_increase.png'
+    notation: 'increase'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'in'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_in.png'
+    notation: 'in'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'is'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_is.png'
+    notation: 'is'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'it'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_it.png'
+    notation: 'it'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'just'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_just.png'
+    notation: 'just'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'key'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_key.png'
+    notation: 'key'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'left'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_left.png'
+    notation: 'left'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'letter'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_letter.png'
+    notation: 'letter'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'line'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_line.png'
+    notation: 'line'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'loss'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_loss.png'
+    notation: 'loss'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'makes'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_makes.png'
+    notation: 'makes'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'matter'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_matter.png'
+    notation: 'matter'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'may'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_may.png'
+    notation: 'may'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'methods'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_methods.png'
+    notation: 'methods'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'names'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_names.png'
+    notation: 'names'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'nothing'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_nothing.png'
+    notation: 'nothing'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'occur'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_occur.png'
+    notation: 'occur'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'of'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_of.png'
+    notation: 'of'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'often'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_often.png'
+    notation: 'often'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'one'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_one.png'
+    notation: 'one'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'on'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_on.png'
+    notation: 'on'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'opposite'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_opposite.png'
+    notation: 'opposite'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'ordinary'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_ordinary.png'
+    notation: 'ordinary'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'other'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_other.png'
+    notation: 'other'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'outlines'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_outlines.png'
+    notation: 'outlines'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'out'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_out.png'
+    notation: 'out'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'page'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_page.png'
+    notation: 'page'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'phonetic'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_phonetic.png'
+    notation: 'phonetic'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'place'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_place.png'
+    notation: 'place'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'practical'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_practical.png'
+    notation: 'practical'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'preceding'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_preceding.png'
+    notation: 'preceding'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'proper'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_proper.png'
+    notation: 'proper'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'quite'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_quite.png'
+    notation: 'quite'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'read'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_read.png'
+    notation: 'read'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'rules'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_rules.png'
+    notation: 'rules'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'sacrifice'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_sacrifice.png'
+    notation: 'sacrifice'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'sections'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_sections.png'
+    notation: 'sections'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'serious'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_serious.png'
+    notation: 'serious'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'shorter'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_shorter.png'
+    notation: 'shorter'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'shorthand'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_shorthand.png'
+    notation: 'shorthand'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'show'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_show.png'
+    notation: 'show'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'simple'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_simple.png'
+    notation: 'simple'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'small'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_small.png'
+    notation: 'small'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'so'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_so.png'
+    notation: 'so'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'spelling'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_spelling.png'
+    notation: 'spelling'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'spelt'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_spelt.png'
+    notation: 'spelt'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'still'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_still.png'
+    notation: 'still'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'student'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_student.png'
+    notation: 'student'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'style'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_style.png'
+    notation: 'style'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'such'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_such.png'
+    notation: 'such'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'system'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_system.png'
+    notation: 'system'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'that'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_that.png'
+    notation: 'that'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'the'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_the.png'
+    notation: 'the'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'this'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_this.png'
+    notation: 'this'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'thus'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_thus.png'
+    notation: 'thus'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'to'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_to.png'
+    notation: 'to'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'Unbenannt'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_Unbenannt.png'
+    notation: 'Unbenannt'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'use'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_use.png'
+    notation: 'use'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'value'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_value.png'
+    notation: 'value'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'when'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_when.png'
+    notation: 'when'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'where'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_where.png'
+    notation: 'where'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'which'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_which.png'
+    notation: 'which'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'will'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_will.png'
+    notation: 'will'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'without'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_without.png'
+    notation: 'without'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'with'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_with.png'
+    notation: 'with'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'word'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_word.png'
+    notation: 'word'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'words'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_words.png'
+    notation: 'words'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'write'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_write.png'
+    notation: 'write'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'writing'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_writing.png'
+    notation: 'writing'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+- plaintext: 'written'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_written.png'
+    notation: 'written'
+    source: "Manual, \"Specimen of Fully-Written Style\""
+    style: 'full'
+  notes: ''
+#endregion
+#region Specimen of the Ordinary Style
+- plaintext: 'able'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_able.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'adaption'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_adaption.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'adopted'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_adopted.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'advantage'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_advantage.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'alphabet'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_alphabet.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'already'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_already.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'alternative'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_alternative.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'always'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_always.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'analysing'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_analysing.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'and'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_and.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'any'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_any.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'apply'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_apply.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'are'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_are.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'as'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_as.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'at'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_at.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'attempt'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_attempt.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'awkward'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_awkward.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'back'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_back.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'backslope'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_backslope.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'bare'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_bare.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'become'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_become.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'been'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_been.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'before'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_before.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'beginners'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_beginners.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'believe'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_believe.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'be'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_be.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'between'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_between.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'beyond'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_beyond.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'by'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_by.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'can-be'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_can-be.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'change'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_change.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'character'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_character.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'characters'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_characters.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'comes'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_comes.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'common'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_common.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'comparatively'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_comparatively.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'consequently'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_consequently.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'consonants'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_consonants.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'convinced'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_convinced.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'correctly'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_correctly.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'Cursive'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_Cursive.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'definite'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_definite.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'details'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_details.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'difficulties'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_difficulties.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'discussed'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_discussed.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'distinction'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_distinction.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'distinctions'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_distinctions.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'distract'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_distract.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'doubling'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_doubling.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'early'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_early.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'easy'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_easy.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'education'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_education.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'eliminated'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_eliminated.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'employed'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_employed.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'even'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_even.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'every'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_every.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'example'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_example.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'exception'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_exception.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'experience'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_experience.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'explained'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_explained.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'fact'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_fact.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'familiar'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_familiar.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'few'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_few.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'find'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_find.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'flowing'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_flowing.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'following'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_following.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'forms'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_forms.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'for'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_for.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'found'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_found.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'from'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_from.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'TODO'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_full.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'fundumental'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_fundumental.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'general'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_general.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'greater'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_greater.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'great'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_great.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'guide'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_guide.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'had'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_had.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'half'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_half.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'halving'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_halving.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'hand'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_hand.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'harmless'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_harmless.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'has'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_has.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'have'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_have.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'he'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_he.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'hooks'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_hooks.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'immagined'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_immagined.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'in'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_in.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'instead'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_instead.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'introduce'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_introduce.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'introduction'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_introduction.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'introductory'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_introductory.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'I'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_I.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'is'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_is.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'it'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_it.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'its'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_its.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'joined'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_joined.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'joining'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_joining.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'learning'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_learning.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'learn'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_learn.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'letter'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_letter.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'lineal'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_lineal.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'little'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_little.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'longhand'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_longhand.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'long'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_long.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'loops'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_loops.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'made'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_made.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'majority'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_majority.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'manual'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_manual.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'many'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_many.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'matters'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_matters.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'me'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_me.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'method'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_method.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'more'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_more.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'most'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_most.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'much'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_much.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'natural'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_natural.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'necessary'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_necessary.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'needless'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_needless.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'niceties'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_niceties.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'of'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_of.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'of-the'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_of-the.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'only'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_only.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'on'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_on.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'order'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_order.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'ordinary'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_ordinary.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'or'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_or.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'orthographic'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_orthographic.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+    tall: yes
+  notes: ''
+- plaintext: 'orthography'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_orthography.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+    tall: yes
+  notes: ''
+- plaintext: 'other'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_other.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'page'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_page.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'pages'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_pages.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'part'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_part.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'penmanship'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_penmanship.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'phonetic'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_phonetic.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'present'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_present.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'previously'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_previously.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'principle'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_principle.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'principles'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_principles.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'puzzle'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_puzzle.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'reaches'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_reaches.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'read'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_read.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'rearrangement'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_rearrangement.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'rearrange'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_rearrange.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'reason'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_reason.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'remarks'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_remarks.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'repeat'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_repeat.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'represented'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_represented.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'requires'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_requires.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'restricted'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_restricted.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'rules'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_rules.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'several'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_several.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'Shorthand'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_Shorthand.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'should'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_should.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'signs'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_signs.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'simple'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_simple.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'sizes'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_sizes.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'slope'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_slope.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'sound'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_sound.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'specimen'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_specimen.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'spelling'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_spelling.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'spell'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_spell.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'spelt'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_spelt.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'stage'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_stage.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'straight'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_straight.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'strictly'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_strictly.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'strokes'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_strokes.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'student'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_student.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'style'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_style.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'succeded'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_succeded.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'such'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_such.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'suggested'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_suggested.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'system'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_system.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'systems'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_systems.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'taken'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_taken.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'teachers'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_teachers.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'teaching'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_teaching.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'terminations'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_terminations.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'than'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_than.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'that'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_that.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'their'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_their.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'them'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_them.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'then'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_then.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'the'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_the.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'there'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_there.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'these'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_these.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'thick'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_thick.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'thin'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_thin.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'through'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_through.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'thus'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_thus.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'time'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_time.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'together'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_together.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'to'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_to.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'two'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_two.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'ŧhoroughly'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_ŧhoroughly.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'unadvisable'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_unadvisable.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'use'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_use.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'very'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_very.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'vogue'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_vogue.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'vowel'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_vowel.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'way'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_way.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'where'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_where.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'which'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_which.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'will'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_will.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'with'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_with.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'word'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_word.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'work'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_work.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'write'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_write.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'writing'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_writing.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'written'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_written.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
+- plaintext: 'years'
+  orthic:
+  - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_years.png'
+    notation: 'TODO'
+    source: "Manual, \"Specimen of the Ordinary Style\""
+    style: 'TODO'
+  notes: ''
 #endregion
