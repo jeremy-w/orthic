@@ -69,7 +69,7 @@
 -   plaintext: an or a
     orthic:
     -   imagePath: /assets/manual/b_an.png
-        notation: an
+        notation: a
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -414,7 +414,7 @@
 -   plaintext: "throughout"
     orthic:
     -   imagePath: "/assets/manual/b_thro\u2019out.png"
-        notation: "^roout"
+        notation: "^rout"
         source: "Manual, \"Abbreviations for Common Words\""
         style: ordinary
     notes: ''
@@ -4989,18 +4989,32 @@
     notation: 'wmn'
     source: 'Manual'
     style: 'ordinary'
+- notes: 'If the short form causes ambiguities that are not solved by the context, an o might be written abover '
+  plaintext: 'band'
+  orthic:
+  - imagePath: '/assets/manual/ordinary_bnd.png'
+    notation: 'bnd'
+    source: 'Manual'
+    style: 'ordinary'
 - notes: ''
   plaintext: 'band'
   orthic:
   - imagePath: '/assets/manual/band.png'
-    notation: 'TODO'
+    notation: 'b(^a)nd'
+    source: 'Manual'
+    style: 'ordinary'
+- notes: 'If the short form causes ambiguities that are not solved by the context, an o might be written abover '
+  plaintext: 'bond'
+  orthic:
+  - imagePath: '/assets/manual/ordinary_bnd.png'
+    notation: 'b(^o)nd'
     source: 'Manual'
     style: 'ordinary'
 - notes: ''
   plaintext: 'bond'
   orthic:
   - imagePath: '/assets/manual/bond.png'
-    notation: 'TODO'
+    notation: 'bnd'
     source: 'Manual'
     style: 'ordinary'
 # "Ordinary Style", Abbreviations, Raising for Initial TH-
@@ -5055,33 +5069,12 @@
     style: 'example'
 # "Ordinary Style", Abbreviations, Let Final -Y Alone
 - notes: ''
-  plaintext: 'applyd'
-  orthic:
-  - imagePath: '/assets/manual/applyd.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
-- notes: ''
-  plaintext: 'trys'
+  plaintext: 'tries'
   orthic:
   - imagePath: '/assets/manual/trys.png'
-    notation: 'TODO'
+    notation: 'trys'
     source: 'Manual'
-    style: 'TODO'
-- notes: ''
-  plaintext: 'easyst'
-  orthic:
-  - imagePath: '/assets/manual/easyst.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
-- notes: ''
-  plaintext: 'happyr'
-  orthic:
-  - imagePath: '/assets/manual/happyr.png'
-    notation: 'TODO'
-    source: 'Manual'
-    style: 'TODO'
+    style: 'ordinary'
 # "Ordinary Style", Common Endings
 - notes: ''
   plaintext: 'us’d'
@@ -6910,7 +6903,7 @@
 - plaintext: 'other'
   orthic:
   - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_other.png'
-    notation: 'othr'
+    notation: 'ohr'
     source: "Manual, \"Specimen of the Ordinary Style\""
     style: 'ordinary'
   notes: ''
@@ -7474,5 +7467,2334 @@
     notation: 'years'
     source: "Manual, \"Specimen of the Ordinary Style\""
     style: 'full'
+  notes: ''
+#endregion
+#region From Macaulay's History
+- plaintext: 'agricultural'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_agricultural.png'
+    notation: 'agricultural'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'agriculture'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_agriculture.png'
+    notation: 'agriculture'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'also'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_also.png'
+    notation: 'also'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'average'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_average.png'
+    notation: 'average'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'barley'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_barley.png'
+    notation: 'barley'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'beer'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_beer.png'
+    notation: 'beer'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'body'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_body.png'
+    notation: 'body'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'bread'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_bread.png'
+    notation: 'braed'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'century'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_century.png'
+    notation: 'century'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'cheaper'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_cheaper.png'
+    notation: 'chaeper'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'class'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_class.png'
+    notation: 'clas'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'clear'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_clear.png'
+    notation: 'claer'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'coals'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_coals.png'
+    notation: 'coals'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'coats'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_coats.png'
+    notation: 'coats'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'cost'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_cost.png'
+    notation: 'cost'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'courts'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_courts.png'
+    notation: 'courts'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'criterion'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_criterion.png'
+    notation: 'criterien'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'dear'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_dear.png'
+    notation: 'daer'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'dearer'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_dearer.png'
+    notation: 'daerer'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'demagogues'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_demagogues.png'
+    notation: 'demagogues'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'even'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_even.png'
+    notation: 'even'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'fabrics'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_fabrics.png'
+    notation: 'fabrics'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'forth'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_forth.png'
+    notation: 'forth'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'found'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_found.png'
+    notation: 'found'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'generaly'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_generaly.png'
+    notation: 'generaly'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'has'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_has.png'
+    notation: 'has'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'house'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_house.png'
+    notation: 'house'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'hundreds'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_hundreds.png'
+    notation: 'hundreds'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'hut'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_hut.png'
+    notation: 'hut'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'keeper'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_keeper.png'
+    notation: 'keeper'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'knew'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_knew.png'
+    notation: 'knew'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'labour'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_labour.png'
+    notation: 'labour'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'last'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_last.png'
+    notation: 'last'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'lucrative'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_lucrative.png'
+    notation: 'lucrative'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'meagre'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_meagre.png'
+    notation: 'meagre'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'meat'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_meat.png'
+    notation: 'meat'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'modern'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_modern.png'
+    notation: 'modern'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'much'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_much.png'
+    notation: 'much'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'nor'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_nor.png'
+    notation: 'nor'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'Norwich'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_Norwich.png'
+    notation: 'nor.wich'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'now'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_now.png'
+    notation: 'now'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'oats'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_oats.png'
+    notation: 'oats'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'often'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_often.png'
+    notation: 'often'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'old'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_old.png'
+    notation: 'old'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'our'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_our.png'
+    notation: 'our'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'oxen'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_oxen.png'
+    notation: 'oxen'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'pay'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_pay.png'
+    notation: 'pay'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'people'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_people.png'
+    notation: 'people'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'philanthropics'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_philanthropics.png'
+    notation: 'philanthopics'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'price'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_price.png'
+    notation: 'price'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'produce'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_produce.png'
+    notation: 'produce'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'purpose'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_purpose.png'
+    notation: 'purpose'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'quarter'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_quarter.png'
+    notation: 'qarter'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'regard'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_regard.png'
+    notation: 'regard'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'reign'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_reign.png'
+    notation: 'reign'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'rye'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_rye.png'
+    notation: 'rye'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'said'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_said.png'
+    notation: 'said'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'salt'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_salt.png'
+    notation: 'salt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'seems'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_seems.png'
+    notation: 'seems'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'seen'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_seen.png'
+    notation: 'seen'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'sends'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_sends.png'
+    notation: 'sends'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'serviceable'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_serviceable.png'
+    notation: 'serviceable'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'shoes'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_shoes.png'
+    notation: 'shoes'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'shop'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_shop.png'
+    notation: 'shop'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'soap'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_soap.png'
+    notation: 'soap'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'spare'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_spare.png'
+    notation: 'spare'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'St. Pauls'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_St Pauls.png'
+    notation: 'st pauls'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'sugar'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_sugar.png'
+    notation: 'sugar'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'talk'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_talk.png'
+    notation: 'talk'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'taste'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_taste.png'
+    notation: 'taste'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'trade'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_trade.png'
+    notation: 'trade'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'trencher'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_trencher.png'
+    notation: 'trencher'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'tropical'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_tropical.png'
+    notation: 'tropical'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'untouched'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_untouched.png'
+    notation: 'untouched'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+    tall: yes
+  notes: ''
+- plaintext: 'very'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_very.png'
+    notation: 'very'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'wages'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_wages.png'
+    notation: 'wages'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'we'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_we.png'
+    notation: 'we'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'wheat'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_wheat.png'
+    notation: 'whaet'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'who'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_who.png'
+    notation: 'who'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'workhouse'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_full_workhouse.png'
+    notation: 'work.house'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'full'
+  notes: ''
+- plaintext: 'about'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_about.png'
+    notation: 'abt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'added'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_added.png'
+    notation: 'ad:d'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'all'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_all.png'
+    notation: 'al'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'almost'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_almost.png'
+    notation: 'almst'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'among'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_among.png'
+    notation: 'amng'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'amount'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_amount.png'
+    notation: 'amt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'arriving'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_arriving.png'
+    notation: 'arivY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'articles'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_articles.png'
+    notation: 'artecles'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'ascertain'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_ascertain.png'
+    notation: 'ascertaen'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'be'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_be.png'
+    notation: 'b'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'bedding'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_bedding.png'
+    notation: 'bedY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'been'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_been.png'
+    notation: 'bn'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'blankets'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_blankets.png'
+    notation: 'blnkets'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'camps'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_camps.png'
+    notation: 'cmps'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'can'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_can.png'
+    notation: 'ca'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'candles'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_candles.png'
+    notation: 'cndles'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'change'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_change.png'
+    notation: 'chnge'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'clothing'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_clothing.png'
+    notation: 'clothY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'commodities'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_commodities.png'
+    notation: 'cmodetys'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'common'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_common.png'
+    notation: 'cmn'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'complaint'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_complaint.png'
+    notation: 'cmplaent'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'conclusions'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_conclusions.png'
+    notation: 'cnclusuns'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'condition'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_condition.png'
+    notation: 'cndetun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'costly'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_costly.png'
+    notation: 'cost_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'countries'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_countries.png'
+    notation: 'countrys'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'did'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_did.png'
+    notation: 'd:d'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'discussion'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_discussion.png'
+    notation: 'descusun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'distress'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_distress.png'
+    notation: 'destres'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'during'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_during.png'
+    notation: 'durY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'duty'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_duty.png'
+    notation: 'duty'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'elapsed'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_elapsed.png'
+    notation: 'elapsd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'employed'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_employed.png'
+    notation: 'employd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'England'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_England.png'
+    notation: 'englnd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'entirely'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_entirely.png'
+    notation: 'entre_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'error'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_error.png'
+    notation: 'eror'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'especially'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_especially.png'
+    notation: 'especealy'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'estimated'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_estimated.png'
+    notation: 'estimatd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'exact'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_exact.png'
+    notation: 'xact'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'families'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_families.png'
+    notation: 'fmilys'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'fifty'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_fifty.png'
+    notation: 'fefty'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'for'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_for.png'
+    notation: 'f'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'from'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_from.png'
+    notation: 'fr'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'garret'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_garret.png'
+    notation: 'garet'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'greater'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_greater.png'
+    notation: 'grter'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'great'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_great.png'
+    notation: 'grt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'had'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_had.png'
+    notation: 'hd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'higher'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_higher.png'
+    notation: 'he_r'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: 'According to the manual, standalone r should be just a circle.'
+- plaintext: 'highest'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_highest.png'
+    notation: 'hi_st'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'history'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_history.png'
+    notation: 'hestory'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'important'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_important.png'
+    notation: 'emportnt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'increase'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_increase.png'
+    notation: 'encraese'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'industry'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_industry.png'
+    notation: 'endustry'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'infer'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_infer.png'
+    notation: 'enfer'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'information'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_information.png'
+    notation: 'enfmatun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'inmates'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_inmates.png'
+    notation: 'enmates'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'less'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_less.png'
+    notation: 'les'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'line'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_line.png'
+    notation: 'lene'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'lived'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_lived.png'
+    notation: 'levd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'looms'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_looms.png'
+    notation: 'loms'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'machinery'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_machinery.png'
+    notation: 'machenery'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'majority'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_majority.png'
+    notation: 'major^y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'man'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_man.png'
+    notation: 'mn'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'mechanic'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_mechanic.png'
+    notation: 'mechnec'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'mines'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_mines.png'
+    notation: 'menes'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'misery'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_misery.png'
+    notation: 'mesery'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'moment'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_moment.png'
+    notation: 'm:mt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'money'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_money.png'
+    notation: 'mney'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'more'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_more.png'
+    notation: 'mo'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'most'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_most.png'
+    notation: 'mst'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'nation'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_nation.png'
+    notation: 'natun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'nothing'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_nothing.png'
+    notation: 'nY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'not'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_not.png'
+    notation: 'nt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'numerous'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_numerous.png'
+    notation: 'numerous'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'occupied'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_occupied.png'
+    notation: 'ocupd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'peasant'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_peasant.png'
+    notation: 'peasnt'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'Portland'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_Portland.png'
+    notation: 'portlnd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'positively'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_positively.png'
+    notation: 'posetev_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'posterity'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_posterity.png'
+    notation: 'poster^y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'precisely'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_precisely.png'
+    notation: 'precise_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'press'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_press.png'
+    notation: 'pres'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'published'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_published.png'
+    notation: 'publeshd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'quantitiy'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_quantitiy.png'
+    notation: 'qnt^y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'remains'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_remains.png'
+    notation: 'remeans'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'respecting'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_respecting.png'
+    notation: 'respectY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'restoration'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_restoration.png'
+    notation: 'restoratun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'revolution'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_revolution.png'
+    notation: 'revolutun'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'sacred'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_sacred.png'
+    notation: 'sacrd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'said'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_said.png'
+    notation: 'saed'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'scarcely'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_scarcely.png'
+    notation: 'scarce_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'seldom'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_seldom.png'
+    notation: 'seldm'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'shillings'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_shillings.png'
+    notation: 'shelYs'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'stockings'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_stockings.png'
+    notation: 'stockYs'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'squared'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_squared.png'
+    notation: 'sqard'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'state'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_state.png'
+    notation: 'stte'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'still'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_still.png'
+    notation: 'stel'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'stone'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_stone.png'
+    notation: 'stne'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'sufficiently'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_sufficiently.png'
+    notation: 'sufeceent_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'tended'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_tended.png'
+    notation: 'tend:d'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'those'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_those.png'
+    notation: 'those'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'thousands'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_thousands.png'
+    notation: '^ousnds'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'toiled'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_toiled.png'
+    notation: 'toild'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'undoubtd_y'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_undoubtedly.png'
+    notation: 'undoubtd_y'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'working'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_working.png'
+    notation: 'workY'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+    tall: yes
+  notes: ''
+- plaintext: 'would'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_would.png'
+    notation: 'wd'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+- plaintext: 'yeoman'
+  orthic:
+  - imagePath: '/assets/manual/From_Macaulays_History_ordinary_yeoman.png'
+    notation: 'yeomn'
+    source: "Manual, \"From Macaulay's History\""
+    style: 'ordinary'
+  notes: ''
+#endregion
+#region St John
+- plaintext: after
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_after.png'
+    notation: 'after'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: bare
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_bare.png'
+    notation: 'bare'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: bear
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_bear.png'
+    notation: 'bear'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: body
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_body.png'
+    notation: 'body'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: both
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_both.png'
+    notation: 'both'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: brethren
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_brethren.png'
+    notation: 'brethren'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: bride
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_bride.png'
+    notation: 'bride'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: bridegroom
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_bridegroom.png'
+    notation: 'bridegroom'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: brim
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_brim.png'
+    notation: 'brim'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: Cana
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Cana.png'
+    notation: 'cana'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: cords
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_cords.png'
+    notation: 'cords'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: dead
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_dead.png'
+    notation: 'daed'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: destroy
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_destroy.png'
+    notation: 'destroy'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: doves
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_doves.png'
+    notation: 'doves'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: draw
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_draw.png'
+    notation: 'draw'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: drew
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_drew.png'
+    notation: 'drew'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: drove
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_drove.png'
+    notation: 'drove'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: drunk
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_drunk.png'
+    notation: 'drunk'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: eaten
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_eaten.png'
+    notation: 'aeten'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: feast
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_feast.png'
+    notation: 'faest'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: firkins
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_firkins.png'
+    notation: 'firkins'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: forth
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_forth.png'
+    notation: 'forth'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: forty
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_forty.png'
+    notation: 'forty'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: found
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_found.png'
+    notation: 'found'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: glory
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_glory.png'
+    notation: 'glory'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: governor
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_governor.png'
+    notation: 'governor'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: groom
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_groom.png'
+    notation: 'groom'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: hast
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_hast.png'
+    notation: 'hast'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: hath
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_hath.png'
+    notation: 'hath'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: hence
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_hence.png'
+    notation: 'hence'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: her
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_her.png'
+    notation: 'her'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: his
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_his.png'
+    notation: 'his'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: hour
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_hour.png'
+    notation: 'hour'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: house
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_house.png'
+    notation: 'house'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: Jerusalem
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Jerusalem.png'
+    notation: 'jerusalem'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: Jesus
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Jesus.png'
+    notation: 'jesus'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: Jews
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_jews.png'
+    notation: 'jews'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: Kapernaum
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Kapernaum.png'
+    notation: 'kapernaum'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: kept
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_kept.png'
+    notation: 'kept'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: knew
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_knew.png'
+    notation: 'knew'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: men
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_men.png'
+    notation: 'men'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: mine
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_mine.png'
+    notation: 'mine'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: now
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_now.png'
+    notation: 'now'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: over
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_over.png'
+    notation: 'over'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: oxen
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_oxen.png'
+    notation: 'oxen'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: pots
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_pots.png'
+    notation: 'pots'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: poured
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_poured.png'
+    notation: 'poured'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: rear
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_rear.png'
+    notation: 'raer'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: risen
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_risen.png'
+    notation: 'risen'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: rise
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_rise.png'
+    notation: 'rise'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: ruler
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_ruler.png'
+    notation: 'ruler'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: saw
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_saw.png'
+    notation: 'saw'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: scripture
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_scripture.png'
+    notation: 'scripture'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: scurge
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_scurge.png'
+    notation: 'scourge'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: seeing
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_seeing.png'
+    notation: 'seeY'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: set
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_set.png'
+    notation: 'set'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: sheep
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_sheep.png'
+    notation: 'sheep'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: shewest
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_shewest.png'
+    notation: 'shewest'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: sign
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_sign.png'
+    notation: 'sign'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: sold
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_sold.png'
+    notation: 'sold'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: spake
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_spake.png'
+    notation: 'spake'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: tables
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_tables.png'
+    notation: 'tables'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: take
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_take.png'
+    notation: 'take'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: temple
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_temple.png'
+    notation: 'temple'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: up
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_up.png'
+    notation: 'up'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: us
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_us.png'
+    notation: 'us'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: waterpots
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_waterpots.png'
+    notation: 'water.pots'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: water
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_water.png'
+    notation: 'water'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: went
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_went.png'
+    notation: 'went'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: whence
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_whence.png'
+    notation: 'whence'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: when
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_when.png'
+    notation: 'when'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: wine
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_wine.png'
+    notation: 'wine'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: worse
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_worse.png'
+    notation: 'worse'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: zeal
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_zeal.png'
+    notation: 'zeal'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: and-the
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_and-the.png'
+    notation: '^ae'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: answered
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_answered.png'
+    notation: 'answerd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: apiece
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_apiece.png'
+    notation: 'apeece'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: beginning
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_beginning.png'
+    notation: 'begenY'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: believed
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_believed.png'
+    notation: 'beleevd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: building
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_building.png'
+    notation: 'buildY'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: called
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_called.png'
+    notation: 'cald'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: changers
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_changers.png'
+    notation: 'chngers'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: commit
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_commit.png'
+    notation: 'cmmit'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: containing
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_containing.png'
+    notation: 'cntaenY'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: continued
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_continued.png'
+    notation: 'cntinud'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: diciples
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_diciples.png'
+    notation: 'disceples'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: did
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_did.png'
+    notation: 'd:d'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: do
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_do.png'
+    notation: 'd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: doth
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_doth.png'
+    notation: 'dth'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: down
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_down.png'
+    notation: 'dn'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: fathers
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_fathers.png'
+    notation: 'fahrs'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: filled
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_filled.png'
+    notation: 'feld'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: fill
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_fill.png'
+    notation: 'fil'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: Galilee
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_Galilee.png'
+    notation: 'galelee'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: good
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_good.png'
+    notation: 'gd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: him
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_him.png'
+    notation: 'hem'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: himself
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_himself.png'
+    notation: 'hemef'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: make
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_make.png'
+    notation: 'mke'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: manifested
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_manifested.png'
+    notation: 'mnifestd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: manner
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_manner.png'
+    notation: 'mner'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: many
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_many.png'
+    notation: 'mny'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: marriage
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_marriage.png'
+    notation: 'maraige'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: merchandise
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_merchandise.png'
+    notation: 'merchndise'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: miracles
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_miracles.png'
+    notation: 'meracles'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: money
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_money.png'
+    notation: 'mney'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: mother
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_mother.png'
+    notation: 'mohr'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: name
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_name.png'
+    notation: 'nme'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: overthrew
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_overthrew.png'
+    notation: 'over^rew'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: passover
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_passover.png'
+    notation: 'pasover'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: remembered
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_remembered.png'
+    notation: 'rememberd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: saith
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_saith.png'
+    notation: 'saeth'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: servants
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_servants.png'
+    notation: 'servnts'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: sitting
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_sitting.png'
+    notation: 'sitY'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: six
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_six.png'
+    notation: 'sex'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: small
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_small.png'
+    notation: 'smal'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: stone
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_stone.png'
+    notation: 'stne'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: tasted
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_tasted.png'
+    notation: 'tastd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: thee
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_thee.png'
+    notation: '^ee'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: them
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_them.png'
+    notation: '^em'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: thine
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_thine.png'
+    notation: '^ine'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: things
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_things.png'
+    notation: '^Ys'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: third
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_third.png'
+    notation: '^ird'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: thou
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_thou.png'
+    notation: '^ou'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: three
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_three.png'
+    notation: '^ree'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: threw
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_threw.png'
+    notation: '^rew'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: until
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_until.png'
+    notation: 'untel'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: unto
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_unto.png'
+    notation: 'unt'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: wanted
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_wanted.png'
+    notation: 'wntd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: whatsoever
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_whatsoever.png'
+    notation: 'whatso^r'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: which
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_which.png'
+    notation: 'ch'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: wilt
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_wilt.png'
+    notation: 'welt'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: woman
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_woman.png'
+    notation: 'wmn'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: you
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_you.png'
+    notation: 'y'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: means
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_means.png'
+    notation: 'means'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: Nicodemus
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Nicodemus.png'
+    notation: 'nicodemus'
+    style: 'full'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: Pharisees
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_Pharisees.png'
+    notation: 'pharisees'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: rabbi
+  orthic:
+  - imagePath: '/assets/manual/St_John_full_rabbi.png'
+    notation: 'rabbi'
+    style: 'full'
+    source: "Manual, \"St John\""
+    tall: yes
+  notes: ''
+- plaintext: man
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_man.png'
+    notation: 'mn'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: named
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_named.png'
+    notation: 'nmd'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: needed
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_needed.png'
+    notation: 'need:d'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: night
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_night.png'
+    notation: 'n_t'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
+  notes: ''
+- plaintext: testify
+  orthic:
+  - imagePath: '/assets/manual/St_John_ordinary_testify.png'
+    notation: 'testefy'
+    style: 'ordinary'
+    source: "Manual, \"St John\""
   notes: ''
 #endregion
