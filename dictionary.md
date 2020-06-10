@@ -53,7 +53,7 @@ p img.tall, li img.tall, td img.tall {
 Every entry links to itself.
 This lets you directly link to an entry from anywhere on the Internet.
 
-{% assign mode = 'raw' %}
+{% assign mode = 'merged' %}
 {% case mode %}
 {% when 'merged' %}
 ## Dictionary
