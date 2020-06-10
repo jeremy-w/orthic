@@ -5007,14 +5007,14 @@
   plaintext: 'bond'
   orthic:
   - imagePath: '/assets/manual/ordinary_bnd.png'
-    notation: 'b(^o)nd'
+    notation: 'bnd'
     source: 'Manual'
     style: 'ordinary'
 - notes: ''
   plaintext: 'bond'
   orthic:
   - imagePath: '/assets/manual/bond.png'
-    notation: 'bnd'
+    notation: 'b(^o)nd'
     source: 'Manual'
     style: 'ordinary'
 # "Ordinary Style", Abbreviations, Raising for Initial TH-
