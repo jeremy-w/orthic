@@ -5905,10 +5905,10 @@
     source: "Manual, \"Specimen of Fully-Written Style\""
     style: 'full'
   notes: ''
-- plaintext: 'Unbenannt'
+- plaintext: 'purposes'
   orthic:
-  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_Unbenannt.png'
-    notation: 'Unbenannt'
+  - imagePath: '/assets/manual/Specimen_of_Fully-Written_Style_Full_purposes.png'
+    notation: 'purposes'
     source: "Manual, \"Specimen of Fully-Written Style\""
     style: 'full'
   notes: ''
