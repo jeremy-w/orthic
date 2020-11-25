@@ -24,7 +24,8 @@ Signs:
     - `N` for the double-wide `nm`/`mn`/`mm` blend
     - `V` for the `dv` blend (a `v` that is as wide as a `d`)
     - `Y` for the _-ing_ stroke.
-- A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in `fi:asco`, where an `i` then an `a` is written rather than an `ai` join.
+- A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in _fiasko_ `fi:asco`, where an `i` then an `a` is written rather than an `ai` join. It signals double consonants thar are both written, as in ordinary style _moment_ `m:mt`
+- A double letter signals a dotted letter, as in _comment_ `comment`. `ee` signals the blended vowel combo ee.
 - `i` is strictly reserved for dotted `i`. When the dot is omitted, the letter is notated as `e`.
 
 <style>
@@ -35,7 +36,6 @@ p img.tall, li img.tall, td img.tall {
   max-height: 5ex;
   vertical-align: middle;
 }
-
 .content > h3 + ul > li + li {
     margin-top: 2em
 }
