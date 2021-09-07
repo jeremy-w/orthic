@@ -1,0 +1,2 @@
+#!/bin/bash
+bundle exec jekyll serve --incremental --livereload --ssl-cert localhost.pem  --ssl-key localhost-key.pem --host localhost --baseurl ''
