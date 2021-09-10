@@ -58,6 +58,8 @@ This lets you directly link to an entry from anywhere on the Internet.
 {% when 'merged' %}
 ## Dictionary
 
+{% include search-dictionary.html %}
+
 {% assign headword = '' %}
 {% assign entries = site.data.dictionary | sort_natural: "plaintext" %}
 {% for entry in entries  %}
@@ -68,8 +70,8 @@ This lets you directly link to an entry from anywhere on the Internet.
 ### {{headword}}
 {% endif %}
 
-{%- if entry.plaintext != current_plaintext %}
-{% assign current_plaintext = entry.plaintext %}
+{%- if entry.plaintext != current_plaintext -%}
+{%- assign current_plaintext = entry.plaintext -%}
 - <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}" data-plaintext="{{ entry.plaintext | replace: '"','\"' }}">**{{entry.plaintext}}**</a>
 {% if entry.notes != '' %}
     - _**Note:** {{entry.notes}}_

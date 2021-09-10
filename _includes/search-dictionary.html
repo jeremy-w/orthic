@@ -1,0 +1,192 @@
+<form name="search-dictionary" class="box is-hidden">
+  <label class="label">
+    Search for:
+    <input type="text" name="q" class="control input" />
+  </label>
+  <fieldset class="field">
+    <legend class="label">Search within:</legend>
+    <div class="control">
+      <label class="radio">
+        <input type="radio" name="in" value="text" checked />
+        Plaintext
+      </label>
+      <label class="radio">
+        <input type="radio" name="in" value="orthic" />
+        Orthic
+      </label>
+    </div>
+  </fieldset>
+  <button type="submit" class="button is-link">Search</button>
+  <button id="search-dictionary-clear" class="button is-outlined ml-6">
+    Clear
+  </button>
+  <div
+    id="search-dictionary-results"
+    role="status"
+    class="notification is-light mt-4 is-hidden"
+  ></div>
+</form>
+<script async>
+  /** The form fields, for keying into the FormData. */
+  const FormDataKey = {
+    query: 'q',
+    in: 'in',
+  }
+  /** Valid options for what to search within, for matching against formData[FormDataKey.in]. */
+  const In = {
+    plaintext: 'text',
+    orthic: 'orthic',
+  }
+
+  function onSubmitFormSearchDictionary(event) {
+    event.preventDefault()
+
+    const formData = new FormData(document.forms['search-dictionary'])
+    // TODO: NAV: push history to update query params
+    const query = formData.get(FormDataKey.query)
+    const within = formData.get(FormDataKey.in)
+    switch (within) {
+      default:
+        console.warn(
+          'unexpected value for form data key ' +
+            FormDataKey.in +
+            ': ' +
+            within +
+            '. Treating as plaintext.'
+        )
+      // FALLTHROUGH
+      case In.plaintext:
+        showAllExamplesOfEntriesWithPlaintextMatching(query)
+        break
+
+      case In.orthic:
+        showOnlyExamplesOfEntriesWithNotationMatching(query)
+        break
+    }
+  }
+
+  function showAllExamplesOfEntriesWithPlaintextMatching(query) {
+    const showAll = query === ''
+    const anchors = document.querySelectorAll('a[data-plaintext]')
+    let entryCount = 0
+    for (const anchor of anchors) {
+      const plaintext = anchor.dataset.plaintext.replaceAll('\\"', '"')
+      const isMatch = showAll || plaintext.includes(query)
+
+      const entry = anchor.closest('li')
+      if (isMatch) {
+        entryCount += 1
+        entry.classList.remove('is-hidden')
+        // Ensure every example for the entry is visible.
+        const codes = entry.querySelectorAll('code[data-orthic]')
+        for (const code of codes) {
+          const example = code.closest('li')
+          example.classList.remove('is-hidden')
+        }
+      } else {
+        entry.classList.add('is-hidden')
+      }
+    }
+
+    // Report results.
+    const statusBox = document.querySelector('#search-dictionary-results')
+    statusBox.classList.remove(
+      'is-info',
+      'is-success',
+      'is-warning',
+      'is-hidden'
+    )
+    if (showAll) {
+      statusBox.classList.add('is-info')
+      statusBox.textContent = 'Search cleared. All entries and examples shown.'
+    } else {
+      statusBox.classList.add(entryCount > 0 ? 'is-success' : 'is-warning')
+      statusBox.textContent =
+        'Found ' +
+        entryCount +
+        (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
+        ' whose plaintext contains ' +
+        ('“' + query + '”.')
+    }
+  }
+
+  function showOnlyExamplesOfEntriesWithNotationMatching(query) {
+    const showAll = query === ''
+    const anchors = document.querySelectorAll('a[data-plaintext]')
+    let entryCount = 0
+    let totalMatchCount = 0
+    for (const anchor of anchors) {
+      const entry = anchor.closest('li')
+
+      let matchCount = 0
+      const codes = entry.querySelectorAll('code[data-orthic]')
+      for (const code of codes) {
+        const orthic = code.dataset.orthic.replaceAll('\\"', '"')
+        const isMatch = showAll || orthic.includes(query)
+
+        const example = code.closest('li')
+        if (isMatch) {
+          matchCount += 1
+          example.classList.remove('is-hidden')
+        } else {
+          example.classList.add('is-hidden')
+        }
+      }
+
+      const shouldHideEntireEntry = matchCount === 0
+      entryCount += matchCount > 0 ? 1 : 0
+      if (shouldHideEntireEntry) {
+        entry.classList.add('is-hidden')
+      } else {
+        entry.classList.remove('is-hidden')
+      }
+      totalMatchCount += matchCount
+    }
+
+    // Report results.
+    const statusBox = document.querySelector('#search-dictionary-results')
+    statusBox.classList.remove(
+      'is-info',
+      'is-success',
+      'is-warning',
+      'is-hidden'
+    )
+    if (showAll) {
+      statusBox.classList.add('is-info')
+      statusBox.textContent = 'Search cleared. All entries and examples shown.'
+    } else {
+      statusBox.classList.add(entryCount > 0 ? 'is-success' : 'is-warning')
+      statusBox.textContent =
+        'Showing ' +
+        totalMatchCount +
+        (' example' + (totalMatchCount !== 1 ? 's' : '')) +
+        ' across ' +
+        entryCount +
+        (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
+        ' with Orthic notation containing ' +
+        ('“' + query + '”.')
+    }
+  }
+
+  function searchForNothing(event) {
+    event.preventDefault()
+
+    const form = event.target.form
+    const queryInput = form.elements[FormDataKey.query]
+    queryInput.value = ''
+    // Pretend we clicked "Submit".
+    onSubmitFormSearchDictionary(event)
+  }
+
+  function onLoad() {
+    // Enhance page by enabling to search for dictionary entries.
+    const form = document.forms['search-dictionary']
+    form.onsubmit = onSubmitFormSearchDictionary
+    form.querySelector('#search-dictionary-clear').onclick = searchForNothing
+    form.classList.remove('is-hidden')
+
+    // TODO: NAV: read query params and fill in as search terms and search
+  }
+
+  onLoad()
+</script>
