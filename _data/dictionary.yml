@@ -504,7 +504,7 @@
       source: Manual, "Abbreviate common endings"
       style: ordinary
   plaintext: -hood
-- notes: 'This form is used only for the inflection -ing. So "singing" is `singY`. Use the curved form after any of `d m n t v`, otherwise the straight form.'
+- notes: 'This form is used only for the inflection -ing. So "singing" is `singY`. Use the curved form after any of `d m n t v` (mnemonic: bend away from the consonants in "unmotivated"), otherwise the straight form.'
   orthic:
     - imagePath: /assets/manual/ing_both.png
       notation: 'Y'
@@ -3549,7 +3549,7 @@
       source: 'Manual, "Initial Capitals"'
       style: 'every'
 # How to Join: A
-- notes: 'The dotted version is most common in full style. The flavor of curve follows the rules for ae/ea thanks to the usual i/e punning.'
+- notes: 'The dotted version is most common in full style. The flavor of curve follows the rules for ae/ea thanks to the usual i/e punning: The `ai` version is used except after `nm spy b` (mnemonic: "up and over for before bynames"). An angle must always be made after `ia` before any one of `std`.'
   plaintext: 'ai'
   orthic:
     - imagePath: '/assets/manual/ai.png'
@@ -3751,7 +3751,7 @@
       notation: 's'
       source: 'Manual'
       style: 'every'
-- notes: ''
+- notes: 'The `ae` version is used except after `nm spy b` (mnemonic: "up and over for before bynames"). An angle must always be made after `ea` before any one of `std` (cf. ["seas"](#seas)).'
   plaintext: 'ea_both'
   orthic:
     - imagePath: '/assets/manual/ea_both.png'
@@ -3871,14 +3871,14 @@
       source: 'Manual'
       style: 'every'
 # How to Join: F
-- notes: ''
+- notes: 'This demonstrates how to join `f` after vowels: smoothly, without an angle.'
   plaintext: 'if'
   orthic:
     - imagePath: '/assets/manual/if.png'
       notation: 'if'
       source: 'Manual'
       style: 'full'
-- notes: ''
+- notes: 'This demonstrates how you should not join `f` after a vowel. You do not want that awkward corner; smooth it out!'
   plaintext: 'if_angled'
   orthic:
     - imagePath: '/assets/manual/if_angled.png'
