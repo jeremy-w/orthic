@@ -200,20 +200,26 @@
   }
 
   function runSearchPerUrl() {
-    populateFormFromQueryParams()
-    onSubmitFormSearchDictionary(new Event('fake-submit'))
+    const didFindQueryParams = populateFormFromQueryParams()
+    if (didFindQueryParams) {
+      onSubmitFormSearchDictionary(new Event('fake-submit'))
+    }
   }
 
   function populateFormFromQueryParams() {
     const url = new URL(document.URL)
     const params = url.searchParams
 
+    let paramCount = 0
     const form = document.forms['search-dictionary']
     for (const name of Object.values(FormDataKey)) {
       if (params.has(name)) {
+        paramCount += 1
         form.elements[name].value = params.get(name)
       }
     }
+
+    return paramCount > 0
   }
 
   onLoad()
