@@ -175,7 +175,7 @@
     const queryInput = form.elements[FormDataKey.query]
     queryInput.value = ''
     // Pretend we clicked "Submit".
-    onSubmitFormSearchDictionary(event)
+    onSubmitFormSearchDictionary(new Event('fake-submit'))
   }
 
   function onLoad() {
@@ -185,7 +185,22 @@
     form.querySelector('#search-dictionary-clear').onclick = searchForNothing
     form.classList.remove('is-hidden')
 
-    // TODO: NAV: read query params and fill in as search terms and search
+    window.addEventListener('DOMContentLoaded', (event) => {
+      populateFormFromQueryParams()
+      onSubmitFormSearchDictionary(new Event('fake-submit'))
+    })
+  }
+
+  function populateFormFromQueryParams() {
+    const url = new URL(document.URL)
+    const params = url.searchParams
+
+    const form = document.forms['search-dictionary']
+    for (const name of Object.values(FormDataKey)) {
+      if (params.has(name)) {
+        form.elements[name].value = params.get(name)
+      }
+    }
   }
 
   onLoad()
