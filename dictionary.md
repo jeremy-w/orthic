@@ -70,14 +70,14 @@ This lets you directly link to an entry from anywhere on the Internet.
 
 {%- if entry.plaintext != current_plaintext %}
 {% assign current_plaintext = entry.plaintext %}
-- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a>
+- <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}" data-plaintext="{{ entry.plaintext | replace: '"','\"' }}">**{{entry.plaintext}}**</a>
 {% if entry.notes != '' %}
     - _**Note:** {{entry.notes}}_
 {% endif %}
 {%- endif -%}
 
 {% for ex in entry.orthic %}
-    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}` (source: {{ ex.source }})
+    - {{ ex.style }} style: ![{{ex.title}}]({{ ex.imagePath | prepend: site.baseurl }}){% if ex.tall %}{: .tall }{% endif %} `{{ ex.notation }}`{: data-orthic="{{ ex.notation | replace: '"','\"' }}"} (source: {{ ex.source }})
 {% endfor -%}
 {% endfor %}
 
