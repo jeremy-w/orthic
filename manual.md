@@ -105,7 +105,7 @@ A word may always be divided if it happens to be convenient. The necessity for t
 Punctuation is effected in the usual way, except the Hyphen&nbsp;<img src="{{ assets }}/Hyphen.png" />, and the Dash&nbsp;<img src="{{ assets }}/Dash.png" />. [Jeremy: They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though").]
 
 ### Initial Capitals
-Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
+Initial capitals are marked thus <img src="{{ assets }}/InitialCapitalsMark.png" alt="using a long stroke falling from midline to baseline at 30 degrees from horizontal" title="initial capital stroke" />. {% assign words = 'Jack Clay S.E. L.S.W.R.' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
@@ -172,7 +172,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {%- endfor %} are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
 
 - <a id="F-join" />**F**&nbsp;![]({{ assets }}/F.png)
-  - F is joined without an angle after vowels; thus, ![]({{ assets }}/if.png)&nbsp;**if** (not ![]({{ assets }}/if_angled.png)).
+  - F is joined without an angle after vowels; thus, ![with i rounded out to flow straight into f]({{ assets }}/if.png)&nbsp;**if** (not ![stiff i, awkward corner, f]({{ assets }}/if_angled.png)).
   - It is joined to following characters like the longhand letter _s_; thus,
 {% for it in site.data.manual.compounds.f %}
     - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
@@ -271,8 +271,8 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {% endfor %}
 
 - <a id="S-join" />**S**&nbsp;![]({{ assets }}/S.png) is a short downstroke like the tick at the beginning or end of a capital ![S]({{ assets }}/S_longhand.png).
-  - <a id="standalone-s-versus-e-join" />When standing alone, as an initial, it is written straight down, thus ![]({{ assets }}/s_straight.png), to distinguish it clearly from ![]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
-  - <a id="sh-sr-and-shr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![]({{ assets }}/sra.png) by the way it is joined; thus; cp.
+  - <a id="standalone-s-versus-e-join" />When standing alone, as an initial, it is written straight down, thus ![a short, vertical stroke]({{ assets }}/s_straight.png), to distinguish it clearly from ![the short, forward-slanted stroke]({{ assets }}/E.png)&nbsp;**e**; cp. ![]({{ assets }}/S.E..png)&nbsp;**S.E.**
+  - <a id="sh-sr-and-shr-join" />In the compound **Sh**&nbsp;![]({{ assets }}/sh.png) the _h_ circle is made smaller for neatness; **sh**&nbsp;![as in sha, where she a leaves from the middle of the s - "touch and reverse" - ]({{ assets }}/sha.png) is distinguished from **sr**&nbsp;![as in sra, where the a leaves from the bottom of the s - "spin around and continue" -]({{ assets }}/sra.png) by the way it is joined; thus; cp.
   {% assign words = "shed Tisri shred school" | split: " " %}{% for word in words -%}
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {%- endfor %}
