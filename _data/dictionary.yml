@@ -4989,7 +4989,7 @@
       notation: 'wmn'
       source: 'Manual'
       style: 'ordinary'
-- notes: 'You can write in an omitted _a_ or _o_ above where it was left out, if you change your mind about omitting it later.'
+- notes: 'You can write in an omitted `a` or `o` above where it was left out, if you change your mind about omitting it later.'
   plaintext: 'band'
   orthic:
     - imagePath: '/assets/manual/ordinary_bnd.png'
