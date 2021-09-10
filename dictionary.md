@@ -4,6 +4,7 @@ title: "Orthic Dictionary"
 toc: true
 toc_hmax: 6
 ---
+<style>.content li p:not(:last-child) { margin-bottom: initial }</style>
 
 ## Notation
 
