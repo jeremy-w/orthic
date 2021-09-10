@@ -42,7 +42,6 @@
     event.preventDefault()
 
     const formData = new FormData(document.forms['search-dictionary'])
-    // TODO: NAV: push history to update query params
     const query = formData.get(FormDataKey.query)
     const within = formData.get(FormDataKey.in)
     switch (within) {
@@ -62,6 +61,17 @@
       case In.orthic:
         showOnlyExamplesOfEntriesWithNotationMatching(query)
         break
+    }
+
+    // Pretend we navigated to the URL that would reproduce this search.
+    // Gotcha: It's not actually navigating, so now we also need to handle popstate events.
+    const searchParams = new URLSearchParams(formData)
+    const search = searchParams.toString()
+    const url = new URL(document.URL)
+    // Another gotcha: url.search includes a leading question mark, but URLSearchParams.toString() does not.
+    if ('?' + search !== url.search) {
+      url.search = searchParams.toString()
+      history.pushState({}, '', url)
     }
   }
 
@@ -185,10 +195,13 @@
     form.querySelector('#search-dictionary-clear').onclick = searchForNothing
     form.classList.remove('is-hidden')
 
-    window.addEventListener('DOMContentLoaded', (event) => {
-      populateFormFromQueryParams()
-      onSubmitFormSearchDictionary(new Event('fake-submit'))
-    })
+    window.addEventListener('DOMContentLoaded', runSearchPerUrl)
+    window.addEventListener('popstate', runSearchPerUrl)
+  }
+
+  function runSearchPerUrl() {
+    populateFormFromQueryParams()
+    onSubmitFormSearchDictionary(new Event('fake-submit'))
   }
 
   function populateFormFromQueryParams() {
