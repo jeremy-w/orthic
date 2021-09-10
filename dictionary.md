@@ -63,7 +63,7 @@ This lets you directly link to an entry from anywhere on the Internet.
 
 {% assign headword = '' %}
 {% assign entries = site.data.dictionary | sort_natural: "plaintext" %}
-{% for entry in entries  %}
+{% for entry in entries %}
 {% if entry.plaintext == 'example entry' %}{% continue %}{% endif %}
 {% assign maybe_headword = entry.plaintext | slice: 0, 1 | upcase %}
 {% if headword != maybe_headword %}
@@ -89,7 +89,7 @@ This lets you directly link to an entry from anywhere on the Internet.
 
 {% assign headword = '' %}
 {% assign entries = site.data.dictionary | sort_natural: "plaintext" %}
-{% for entry in entries  %}
+{% for entry in entries %}
 {% if entry.plaintext == 'example entry' %}{% continue %}{% endif %}
 {% assign maybe_headword = entry.plaintext | slice: 0, 1 | upcase %}
 {% if headword != maybe_headword %}
@@ -109,7 +109,7 @@ This lets you directly link to an entry from anywhere on the Internet.
 **NOT SORTED! For debug only.**
 
 {% assign entries = site.data.dictionary %}
-{% for entry in entries  %}
+{% for entry in entries %}
 - <a id="{{ entry.plaintext | slugify }}" href="#{{ entry.plaintext | slugify }}">**{{entry.plaintext}}**</a>
 {% if entry.notes != '' %}
     - _**Note:** {{entry.notes}}_
