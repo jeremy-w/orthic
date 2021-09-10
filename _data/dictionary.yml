@@ -6012,13 +6012,13 @@
       source: 'Manual, "Specimen of the Ordinary Style"'
       style: 'full'
   notes: ''
-- plaintext: 'adaption'
+- plaintext: 'adaptation'
   orthic:
     - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_adaption.png'
-      notation: 'adaptun'
+      notation: 'adapt:tun'
       source: 'Manual, "Specimen of the Ordinary Style"'
       style: 'ordinary'
-  notes: 'Callendar wrote `adapt:tun`'
+  notes: ''
 - plaintext: 'adopted'
   orthic:
     - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_adopted.png'
