@@ -1,0 +1,3 @@
+# Markdown + Liquid is very sensitive to whitespace,
+# and we don't want Prettier messing that up.
+*.md
