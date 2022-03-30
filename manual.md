@@ -414,7 +414,7 @@ Some common terminations are abbreviated as shown in the following list:
     - It is better to curve the stroke, thus ![]({{ assets }}/ing_curved.png), after
 {%- assign words = "d m n t v" | split: " " %}{% for word in words %}
       *{{word}},*{%comment%}![]({{ assets }}/{{ word }}ing.png){%endcomment%}
-{%- endfor %} and vowels.
+{%- endfor %} and vowels [here including *y* as in “scrying”].
 {% for it in site.data.manual.endings %}
   - <a id="{{it.ending|slugify}}-ending" href="#{{it.ending|slugify}}-ending">**{{ it.ending }}**</a>&nbsp;![]({{ assets }}/ending_{{ it.orthic }}.png) **{{ it.orthic }}**
   {{- it.note | default:"" }}
