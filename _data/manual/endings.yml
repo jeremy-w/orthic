@@ -52,7 +52,7 @@
 -
   ending: Ness
   orthic: ns
-  note: " [J: **Don't use this.** Write _ness_ as detached **ess** instead per the general method of abbreviation. See ['ness' in the _Supplement._](/orthic/supplement#ness) Then per that method use **ns** for _ations._]"
+  note: " [J: **Don't use this.** Write _ness_ as detached **ess** instead per the general method of abbreviation. See ['ness' in the _Supplement._](/supplement#ness) Then per that method use **ns** for _ations._]"
   examples:
     - happyness
     - thoughtfulness
