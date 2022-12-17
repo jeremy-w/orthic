@@ -4,11 +4,18 @@
   link: /supplement
 - name: Dictionary
   link: /dictionary
+- name: Teaching
+  link: /#
+  dropdown:
+    - name: 'Part 1'
+      link: '/teaching-pt1'
+    - name: 'Part 2'
+      link: '/teaching-pt2'
 - name: Resources
   link: /#
   dropdown:
     - name: Cheatsheet
-      link: "/assets/Orthic System Survey Cheatsheet D2 2020-02-19.pdf"
+      link: '/assets/Orthic System Survey Cheatsheet D2 2020-02-19.pdf'
     - name: Reading Material
       link: /reading
     - name: Anki Deck
