@@ -69,44 +69,44 @@ shorthand character; this time at once impress it upon the memory; the
 thought of the well-known longhand character will necessarily carry with
 it its analogue, the shorthand symbol, thus
 
-![](img/fig1-1.png) ![](img/fig1-2.png)
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-1.png) ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-2.png)
 
-Add the two distinct forms ![](img/fig1-3.png), and ![](img/fig1-4.png)
+Add the two distinct forms ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-3.png), and ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-4.png)
 ing.
 
 ### The alphabet
 
 Now write the alphabet, between lines, on the board.
 
-![](img/fig1-5.png)
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-5.png)
 
 ### All vowels are straight-on written strokes
 
 Point out that all vowels are _straight-on written strokes_, and
 that, conversely, all straight-on written strokes are vowels, thus
-![](img/fig1-6.png) *A*, ![](img/fig1-7.png) *E*, ![](img/fig1-8.png)
-*I*, ![](img/fig1-9.png) *O*, ![](img/fig1-10.png) *U*
-(![](img/fig1-11.png) is written at an angle of 30 degrees with the
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-6.png) *A*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-7.png) *E*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-8.png)
+*I*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-9.png) *O*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-10.png) *U*
+(![]({{ site.baseurl }}/assets/teaching/pt1/fig1-11.png) is written at an angle of 30 degrees with the
 line.)
 
 ### The size and shape of the characters
 
 Very particularly differentiate between the sizes of the characters, the
 larger to be three times the size of the smaller. Show the geometric
-nature of analogous letter, as ![](img/fig1-12.png).
+nature of analogous letter, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-12.png).
 
 ### Analogous characters
 
 Give the following aids to memory: analogous characters
-![](img/fig1-13.png), as in longhand, small c, large C, adding loops =
-![](img/fig1-14.png). ![](img/fig1-15.png), *O* = long *A*. *T*, *D*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-13.png), as in longhand, small c, large C, adding loops =
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-14.png). ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-15.png), *O* = long *A*. *T*, *D*,
 analogous, analogous sounds and shapes; also *M*, *N*;
-![](img/fig1-16.png), *S*, down stroke, has its larger analogue in
-![](img/fig1-17.png) *P*; ![](img/fig1-18.png) *Y* in
-!_](img/fig1-19.png) ing. ![](img/fig1-20.png) [above_ line is *J*
-!_](img/fig1-21.png) [below_ line; ![](img/fig1-22.png) *F*,
-![](img/fig1-23.png) *K*; are analogous; ![](img/fig1-24.png) *Q*, and
-![](img/fig1-25.png) *V* also, the one top-joined, the other open.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-16.png), *S*, down stroke, has its larger analogue in
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-17.png) *P*; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-18.png) *Y* in
+!_]({{ site.baseurl }}/assets/teaching/pt1/fig1-19.png) ing. ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-20.png) [above_ line is *J*
+!_]({{ site.baseurl }}/assets/teaching/pt1/fig1-21.png) [below_ line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-22.png) *F*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-23.png) *K*; are analogous; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-24.png) *Q*, and
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-25.png) *V* also, the one top-joined, the other open.
 
 ### The circles
 
@@ -115,9 +115,9 @@ aids:
 
 \(a\) Analogy with the longhand *H*, *L*, *R*.
 
-\(b\) ![](img/fig1-26.png) *H* has its diminutive analogue in
-!_](img/fig1-27.png) *R*, both lie at the [top_ of a following
-line; ![](img/fig1-28.png) *ch* and ![](img/fig1-29.png) *L* are
+\(b\) ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-26.png) *H* has its diminutive analogue in
+!_]({{ site.baseurl }}/assets/teaching/pt1/fig1-27.png) *R*, both lie at the [top_ of a following
+line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-28.png) *ch* and ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-29.png) *L* are
 similar, and lie at the _bottom_ of a line.
 
 \(c\) *R* turns against the clock, from Right to Left; *L* turns with
@@ -145,49 +145,49 @@ difficulties.
 
 Combined vowels are *ai*, *ay*, *ea*, *ee*, etc. Note that characters,
 whether vowels or consonants, are duplicated by placing a dot under the
-letter, thus ![](img/fig2-1.png) = *aa* as ![](img/fig2-2.png) *Baal*;
-![](img/fig2-9.png) = *oo*, ![](img/fig2-3.png) *foot*. The distinction
+letter, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-1.png) = *aa* as ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-2.png) *Baal*;
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-9.png) = *oo*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-3.png) *foot*. The distinction
 between *E* and *I* is that, when necessary, the *I* is dotted as in
 long hand. Therefore, in doubling *E* or *I*, [do not dot, but
-lengthen]{.ul}, thus ![](img/fig2-4.png) *ee*, ![](img/fig2-5.png) *ei*,
-as ![](img/fig2-6.png) *reed*, ![](img/fig2-7.png) *reid*.
+lengthen]{.ul}, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-4.png) *ee*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-5.png) *ei*,
+as ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-6.png) *reed*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-7.png) *reid*.
 
 *Ae*, *ai*, *ea*, and *ia* are formed of the letters
-![](img/fig2-8.png); now in rapid writing it would be almost impossible
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-8.png); now in rapid writing it would be almost impossible
 to preserve the angle, hence we draw a rule, (the problem being to get
-from ![](img/fig2-10.png) as quickly and easily as possible), eliminate
+from ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-10.png) as quickly and easily as possible), eliminate
 the angle, and thus make an on-written oblique curve,
-![](img/fig2-11.png) *ai*, ![](img/fig2-12.png) *ae*, or *ea*. The
-curves may be written either way ![](img/fig2-13.png) as most
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-11.png) *ai*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-12.png) *ae*, or *ea*. The
+curves may be written either way ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-13.png) as most
 convenient, having regard to the preceding or following consonant;
 _except that_ the combined vowels *ai* must always be written in
-the order of the letters *a* *i*. Examples, ![](img/fig2-14.png) *dear*,
-this is better than writing ![](img/fig2-15.png), which in very rapid
-writing might become ![](img/fig2-16.png) *demr*. ![](img/fig2-17.png)
-*fear*, ![](img/fig2-18.png) *year*, ![](img/fig2-19.png) *Ealing*,
-![](img/fig2-20.png) *meal*. But *ai* must be written *a* *i*, as
-![](img/fig2-21.png) *mail*. For aid in reading it is better to dot the
+the order of the letters *a* *i*. Examples, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-14.png) *dear*,
+this is better than writing ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-15.png), which in very rapid
+writing might become ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-16.png) *demr*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-17.png)
+*fear*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-18.png) *year*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-19.png) *Ealing*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-20.png) *meal*. But *ai* must be written *a* *i*, as
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-21.png) *mail*. For aid in reading it is better to dot the
 *i*.
 
 ### ay
 
-The same reasoning applies to *ay*, ![](img/fig2-22.png), eliminate the
-angle, and make an on-written oblique curve, ![](img/fig2-23.png) or
-![](img/fig2-24.png). Observe particularly that *e* and *i* being
+The same reasoning applies to *ay*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-22.png), eliminate the
+angle, and make an on-written oblique curve, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-23.png) or
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-24.png). Observe particularly that *e* and *i* being
 _up]{.ul} strokes, the curve will [rise]{.ul}; *y* being a [down_
-stroke, the curve will _fall_. As ![](img/fig2-25.png) *day*, the
-![](img/fig2-26.png) curve is better than ![](img/fig2-27.png),
-![](img/fig2-28.png) which might become ![](img/fig2-29.png) *dm*, or
-*dmy*, ![](img/fig2-30.png) *may*. See Manual P. 6. A.
+stroke, the curve will _fall_. As ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-25.png) *day*, the
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-26.png) curve is better than ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-27.png),
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-28.png) which might become ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-29.png) *dm*, or
+*dmy*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-30.png) *may*. See Manual P. 6. A.
 
 ### Other combined vowels
 
 Other combined vowels are treated similarly, as *au*
-![](img/fig2-31.png), *ou* ![](img/fig2-32.png), a short line slur and a
-long line slur; ![](img/fig2-33.png) *ua*; ![](img/fig2-34.png) *eu*
-![](img/fig2-35.png) *eau*, etc. *Oa* and *ao* are shown by writing, if
-necessary, the *A* above the *O*, thus ![](img/fig2-36.png) *oar*,
-![](img/fig2-37.png) *Laon*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-31.png), *ou* ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-32.png), a short line slur and a
+long line slur; ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-33.png) *ua*; ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-34.png) *eu*
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-35.png) *eau*, etc. *Oa* and *ao* are shown by writing, if
+necessary, the *A* above the *O*, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-36.png) *oar*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-37.png) *Laon*.
 
 ### The diphthong rule
 
@@ -198,7 +198,7 @@ oblique curves".
 ### The y upstroke rule
 
 An upstroke vowel following or preceding *y* is written with an angle
-![](img/fig2-38.png) *ye*, ![](img/fig2-39.png) *obey*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig2-38.png) *ye*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-39.png) *obey*.
 
 ### Conclusion - observe students
 
@@ -209,15 +209,15 @@ Examine pupils thoroughly in this lesson.
 ### L and R
 
 Continue the combination of letters as given in the manual, pointing out
-the following: ![](img/fig3-1.png) *bl*, ![](img/fig3-2.png) *br*, the
+the following: ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-1.png) *bl*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-2.png) *br*, the
 *L* lies at the bottom or _left_ side of the upright character, and
-the *R* at the top or _right_ side; similarly ![](img/fig3-3.png)
-*pl*, ![](img/fig3-4.png) *pr*; ![](img/fig3-5.png) *fl*,
-![](img/fig3-6.png) *fr*, ![](img/fig3-7.png) *ml*, ![](img/fig3-8.png)
+the *R* at the top or _right_ side; similarly ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-3.png)
+*pl*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-4.png) *pr*; ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-5.png) *fl*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-6.png) *fr*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-7.png) *ml*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-8.png)
 *mr*.
 
 Note that it is usual to mite a vowel following *R* attached to an
-upright letter _from the top_, as in ![](img/fig3-9.png) *pra*,
+upright letter _from the top_, as in ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-9.png) *pra*,
 this is to save time, and to avoid going round the circle twice.
 
 ### Ch and H
@@ -225,82 +225,82 @@ this is to save time, and to avoid going round the circle twice.
 Compare *Ch* and *H*, these are analogous to *L* and *R*, *Ch* is
 written like longhand *O*, that is, it begins and ends at the top, and
 consequently, like *L*, lies _under_ the following vowel, as
-![](img/fig3-10.png) *cho*; *H*, on the other hand, begins and ends at
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-10.png) *cho*; *H*, on the other hand, begins and ends at
 the _bottom]{.ul}, and consequently, like *R*, lies at the [top_ of
-a following vowel, at ![](img/fig3-11.png) *ha*.
+a following vowel, at ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-11.png) *ha*.
 
 In the combinations *chl*, *chr*, put the *L* or *R* inside the larger
-circle, thus ![](img/fig3-12.png) *chlo*, (observe the *L* lies below
-the vowel line) ![](img/fig3-13.png) *chro*, here the *R* lies above the
+circle, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-12.png) *chlo*, (observe the *L* lies below
+the vowel line) ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-13.png) *chro*, here the *R* lies above the
 line; compare *Phl*, *Phr*, Manual p. 10.
 
 ### S after F or K
 
 *S* joined to the finish of *F* or *K* is better, (as the hand is
 traveling in a curve), turned _up_ rather than down; thus
-![](img/fig3-14.png) *ks* is better than ![](img/fig3-15.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-14.png) *ks* is better than ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-15.png).
 
 ### H and its connections
 
 *H* has, in English, the following consonants preceding it: *C*, *G*,
 *P*, *R*, *S*, *T*, and *W*. *Ch* has been explained; *gh* is written in
-order, ![](img/fig3-16.png); *ph* also, ![](img/fig3-17.png) or
-![](img/fig3-18.png) according to the next letter, thus
-![](img/fig3-19.png) *phar*, ![](img/fig3-20.png) *phy*. *Rh*, the *R*
+order, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-16.png); *ph* also, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-17.png) or
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-18.png) according to the next letter, thus
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-19.png) *phar*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-20.png) *phy*. *Rh*, the *R*
 can lie just outside, or curl within, the *H* circle, as
-![](img/fig3-21.png) or ![](img/fig3-22.png); *Sh*, following our
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-21.png) or ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-22.png); *Sh*, following our
 alphabet analogy, is written three times as small as
-![](img/fig3-23.png) *ph*, thus ![](img/fig3-24.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-23.png) *ph*, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-24.png).
 
 If the combination *Shr* is desired, it is shown by continuing the next
 letter from the _bottom_, instead of the top of the circle, as
-![](img/fig3-25.png) = *shro*, but ![](img/fig3-26.png) = *sho*. *Th* is
-written in order ![](img/fig3-27.png). *Wh* is made like *Ch*, but is
-not joined at the top, thus ![](img/fig3-28.png) = *who*. It may also be
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-25.png) = *shro*, but ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-26.png) = *sho*. *Th* is
+written in order ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-27.png). *Wh* is made like *Ch*, but is
+not joined at the top, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-28.png) = *who*. It may also be
 remembered thus, enlarge the *W* X to look like *H* X.
 
 ### Q
 
 *Q* = *qu*; as there is no word in the English language commencing with
 *q* that is not followed by the letter *U*, it is reasonable to allow
-![](img/fig3-29.png) to stand for *qu*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-29.png) to stand for *qu*.
 
 ### S before and after P
 
-*S* before and after *P* should be rounded. ![](img/fig3-30.png) *sp*,
-![](img/fig3-31.png) *ps*, ![](img/fig3-32.png) *sps*.
+*S* before and after *P* should be rounded. ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-30.png) *sp*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-31.png) *ps*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-32.png) *sps*.
 
 ### W
 
-The letter *W* has a two-fold symbol ![](img/fig3-33.png), the first
+The letter *W* has a two-fold symbol ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-33.png), the first
 initial, the second final. Observe the longhand character in Lesson 1,
 students will then never forget which is which, or the direction they
-turn. Initial *W* ![](img/fig3-34.png) is always used at the beginning
+turn. Initial *W* ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-34.png) is always used at the beginning
 of a word, _except before R_. (*Wh* we have already explained)
-Before *R* _final W ![](img/fig3-35.png) is used_, thus
-![](img/fig3-36.png), the reasoning that written the other way
-![](img/fig3-37.png), the combination really becomes *wer*, not *wr*
-only. Note that *W* !_](img/fig3-38.png) begins [on_ the line, not
-above it as ![](img/fig3-39.png) = *t*.
+Before *R* _final W ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-35.png) is used_, thus
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-36.png), the reasoning that written the other way
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-37.png), the combination really becomes *wer*, not *wr*
+only. Note that *W* !_]({{ site.baseurl }}/assets/teaching/pt1/fig3-38.png) begins [on_ the line, not
+above it as ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-39.png) = *t*.
 
 Another way to remember *W* is to point out that whether initial or
-final, _it is an upward tick_, as ![](img/fig3-40.png) *wo*,
-![](img/fig3-41.png) *ow*. The letter may be written either circularly
-or angularly as ![](img/fig3-42.png) or ![](img/fig3-43.png) *owing*,
-![](img/fig3-44.png) or ![](img/fig3-45.png).
+final, _it is an upward tick_, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-40.png) *wo*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-41.png) *ow*. The letter may be written either circularly
+or angularly as ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-42.png) or ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-43.png) *owing*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-44.png) or ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-45.png).
 
-The angular form is used after *S*, thus ![](img/fig3-46.png) *sw*,
-formed of ![](img/fig3-47.png) *s* and ![](img/fig3-48.png) *w*. To add
-*S* to final *W*, elongate the loop, thus ![](img/fig3-49.png) *cow*,
-![](img/fig3-50.png) *cows*.
+The angular form is used after *S*, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-46.png) *sw*,
+formed of ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-47.png) *s* and ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-48.png) *w*. To add
+*S* to final *W*, elongate the loop, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-49.png) *cow*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-50.png) *cows*.
 
 ### X
 
-*X* is made up, as in longhand, of *C* and *S*, ![](img/fig3-51.png),
+*X* is made up, as in longhand, of *C* and *S*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-51.png),
 and there is no English word beginning with *X* that is not preceded by
 *E*, this character may be used to represent *Ex*. There is no need to
 make an angle in the combinations *Exh*, *Exch*, as
-![](img/fig3-52.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig3-52.png).
 
 ### Conclusion - read and write sentences from blackboard
 
@@ -329,25 +329,25 @@ They are
 #### (a) Leave out a and o before m and n
 
 Always leave out *a* and *o* before *m* and *n*; where there are double
-*a's* or *o's* leave out one, thus ![](img/fig4-1.png) *command*,
-![](img/fig4-2.png) *son*, but ![](img/fig4-3.png) *soon*.
+*a's* or *o's* leave out one, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-1.png) *command*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-2.png) *son*, but ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-3.png) *soon*.
 
 #### (b) No need to dot the i
 
-There is no need to dot the *i* in simple words, ![](img/fig4-4.png)
+There is no need to dot the *i* in simple words, ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-4.png)
 *it*.
 
 #### (c) Initial Th is omitted
 
 _Initial_ *Th* is omitted, and the rest of the word written
-_above_ the line, thus ![](img/fig4-5.png) = *the*. Why? Because
+_above_ the line, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-5.png) = *the*. Why? Because
 were the *Th* written, the succeeding letter would come as placed, above
-the line. E.g. ![](img/fig4-6.png), delete the *Th*,
-![](img/fig4-7.png). What is left and where ![](img/fig4-8.png), hence
+the line. E.g. ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-6.png), delete the *Th*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-7.png). What is left and where ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-8.png), hence
 the rule. *Th* in any other part of the word is written, except in the
-compound word "although", which is written ![](img/fig4-9.png). The only
+compound word "although", which is written ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-9.png). The only
 case of a word written above the line and not presupposing initial *Th*
-is the word "and" signified by ![](img/fig4-10.png) *a*, written above
+is the word "and" signified by ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-10.png) *a*, written above
 the line.
 
 #### (d) Inflections with y retain the y
@@ -362,38 +362,38 @@ longhand abbreviation, or a logically scientific rule.
 
 #### -ed
 
-leave out the *e*; as used = us'd ![](img/fig4-11.png).
+leave out the *e*; as used = us'd ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-11.png).
 
 #### -ful
 
-leave out the *u*; ![](img/fig4-12.png) *useful*, ![](img/fig4-13.png);
+leave out the *u*; ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-12.png) *useful*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-13.png);
 this last example, *beautiful*, shows one reason for retaining the *y*
 in the inflected word, "beautyfull".
 
 #### -hood / --head
 
-*hd* only; ![](img/fig4-14.png).
+*hd* only; ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-14.png).
 
 #### -ight
 
-*t* !_](img/fig4-15.png) [below_ the line. But surely this is an
+*t* !_]({{ site.baseurl }}/assets/teaching/pt1/fig4-15.png) [below_ the line. But surely this is an
 arbitrary rule? No. Follow the writing in *light*, *sight*, *bright*,
-*frighten*, etc., ![](img/fig4-16.png); now erase the *'igh'*,
-![](img/fig4-17.png); what is left and where? Why ![](img/fig4-18.png);
+*frighten*, etc., ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-16.png); now erase the *'igh'*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-17.png); what is left and where? Why ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-18.png);
 hence the rule. It is better to show the vowel after *l* and *r*, so as
 to show which consonat it is by the way it is turned, as
-![](img/fig4-19.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-19.png).
 
 #### -ion
 
-this termination is shown by ![](img/fig4-20.png) = *ion*;
-![](img/fig4-21.png).
+this termination is shown by ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-20.png) = *ion*;
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-21.png).
 
 #### -ation
 
 is a common ending, and it is wise to shorten it as much as possible,
-therefore use detached *n* ![](img/fig4-22.png) to represent this
-termination, as ![](img/fig4-23.png).
+therefore use detached *n* ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-22.png) to represent this
+termination, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-23.png).
 
 #### -ity / -ly
 
@@ -402,38 +402,38 @@ termination, as ![](img/fig4-23.png).
 *-ly* = *y* _below_ last letter
 
 Why? because the would be there if the whole word was written; thus
-![](img/fig4-24.png), erase *'it'* and *'l'*, and we get
-![](img/fig4-25.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-24.png), erase *'it'* and *'l'*, and we get
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-25.png).
 
 #### -less
 
-![](img/fig4-26.png) *ls*, as in longhand.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-26.png) *ls*, as in longhand.
 
 #### -ness
 
-*es*, ![](img/fig4-27.png).
+*es*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-27.png).
 
 #### -ment
 
-*mt* ![](img/fig4-28.png).
+*mt* ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-28.png).
 
 #### -ough
 
 this ending, as is well known, has many ways of being pronounced, but
 for the sake of simplicity and uniformity we take the common *"tho"* as
-equivalent for *"though"*. Hence *o* ![](img/fig4-29.png) = *ough*; so
-we get ![](img/fig4-30.png) as representing *ought*, *thought*.
+equivalent for *"though"*. Hence *o* ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-29.png) = *ough*; so
+we get ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-30.png) as representing *ought*, *thought*.
 
 #### -ther
 
-slur the *t* ![](img/fig4-31.png) into the *h* ![](img/fig4-32.png)
-circle and put the *r* inside, thus ![](img/fig4-33.png),
-![](img/fig4-34.png) *other*.
+slur the *t* ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-31.png) into the *h* ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-32.png)
+circle and put the *r* inside, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig4-33.png),
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-34.png) *other*.
 
 #### -ward
 
 leave out the *w*, as a seaman say *for'ard* for *forward*,
-![](img/fig4-35.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig4-35.png).
 
 ### Conclusion - General abbreviation rule
 
@@ -455,43 +455,43 @@ generally accepted longhand abbreviation.
 
 ### Ever
 
-Draw attention to ![](img/fig5-1.png) = *ever* : this appears an
+Draw attention to ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-1.png) = *ever* : this appears an
 arbitrary; it is not; students will see the logic at the next lesson.
 
 ### ou for ound or ount
 
-Show the importance of ![](img/fig5-2.png) *ou* standing for *ound* or
-*ount*. Emphasize this by such words as ![](img/fig5-3.png) *pound*,
-![](img/fig5-4.png) *sound*, ![](img/fig5-5.png) *count*; hence
-![](img/fig5-6.png) *counter*, ![](img/fig5-7.png) *county*,
-![](img/fig5-8.png) *country*.
+Show the importance of ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-2.png) *ou* standing for *ound* or
+*ount*. Emphasize this by such words as ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-3.png) *pound*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-4.png) *sound*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-5.png) *count*; hence
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-6.png) *counter*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-7.png) *county*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-8.png) *country*.
 
 ### Common words
 
 Add the following common words:
 
-![](img/fig5-9.png) *aso* = *also*, ![](img/fig5-10.png) *ea* = *each*,
-![](img/fig5-11.png) *ay* = *any*. ![](img/fig5-12.png) is *because*,
-therefore ![](img/fig5-13.png) = *cause*. ![](img/fig5-14.png) being
-*child*, ![](img/fig5-15.png) = *children*. ![](img/fig5-16.png) =
-*from*, show clearly that ![](img/fig5-17.png) being *for*,
-!_](img/fig5-18.png) is [form_, not *from*. ![](img/fig5-19.png) =
-*great*, ![](img/fig5-20.png) = *much* (*ch* curled inside),
-![](img/fig5-21.png) = *that* (*th* left out and *t* written above the
-line), ![](img/fig5-22.png) = *already*, ![](img/fig5-23.png) = *acing*
-= *according*, ![](img/fig5-24.png) = *after*, ![](img/fig5-25.png) =
-*bth* = *both*, ![](img/fig5-26.png) *el* = *else*, ![](img/fig5-27.png)
-*e'en* = *even*, ![](img/fig5-28.png) = *except*, ![](img/fig5-29.png)
-*lp* = *help*, ![](img/fig5-30.png) *kn* = *know*, ![](img/fig5-31.png)
-*lile* = *little*, ![](img/fig5-32.png) *ler* = *letter*,
-![](img/fig5-33.png) *pt* = *part*, ![](img/fig5-34.png) *s* = *sir*,
-![](img/fig5-35.png) *rk* = *work*, ![](img/fig5-36.png) = *word*,
-![](img/fig5-37.png) = both *would* and *world*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-9.png) *aso* = *also*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-10.png) *ea* = *each*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-11.png) *ay* = *any*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-12.png) is *because*,
+therefore ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-13.png) = *cause*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-14.png) being
+*child*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-15.png) = *children*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-16.png) =
+*from*, show clearly that ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-17.png) being *for*,
+!_]({{ site.baseurl }}/assets/teaching/pt1/fig5-18.png) is [form_, not *from*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-19.png) =
+*great*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-20.png) = *much* (*ch* curled inside),
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-21.png) = *that* (*th* left out and *t* written above the
+line), ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-22.png) = *already*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-23.png) = *acing*
+= *according*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-24.png) = *after*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-25.png) =
+*bth* = *both*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-26.png) *el* = *else*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-27.png)
+*e'en* = *even*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-28.png) = *except*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-29.png)
+*lp* = *help*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-30.png) *kn* = *know*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-31.png)
+*lile* = *little*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-32.png) *ler* = *letter*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-33.png) *pt* = *part*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-34.png) *s* = *sir*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-35.png) *rk* = *work*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-36.png) = *word*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-37.png) = both *would* and *world*.
 
 ### Conclusion
 
 Point out that words similar to those given above can be treated in the
-same way as *such* like *much*; *party* ![](img/fig5-38.png), etc.
+same way as *such* like *much*; *party* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-38.png), etc.
 
 ## Lesson 6: Introduction to modes, first mode
 
@@ -522,11 +522,11 @@ clear that the use of mode writing is a great saving in time.
 #### Th
 
 Use mode 1 _only when initial_, except in the case of the word
-*although* ![](img/fig6-1.png)
+*although* ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-1.png)
 
 #### Eve (vowel V vowel)
 
-It is clear that the shorthand characters *eve* ![](img/fig6-2.png) must
+It is clear that the shorthand characters *eve* ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-2.png) must
 throw everything following the final *e* above the line, and it is also
 evident that such words cannot clash with that peculiarity of the
 English language *Th*, except in the words *even* and *then*, which has
@@ -535,36 +535,36 @@ been provided for above.
 Therefore apply the rule *Mode 1*, and _wherever_ *vowel v vowel*
 come, _in any part of a word_, leave them out, and write the rest
 of the word _above_ the line, just where it would have come had the
-whole word been written. E.g. ![](img/fig6-3.png) = ![](img/fig6-4.png)
-*given*, ![](img/fig6-5.png) *loved*. N.B. It is better to write the
+whole word been written. E.g. ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-3.png) = ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-4.png)
+*given*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-5.png) *loved*. N.B. It is better to write the
 vowel after *l* and *r* for reasons similar to those given in Lesson 4,
 to show the direction in which the consonants are turned.
-![](img/fig6-6.png) = *evident*, ![](img/fig6-7.png) = *conceived*,
-![](img/fig6-8.png) = *ever*. See paragraph 2, Lesson 4.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-6.png) = *evident*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-7.png) = *conceived*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-8.png) = *ever*. See paragraph 2, Lesson 4.
 
 But how about a word ending in *ave*, *ove*, etc. only? What is Euclid's
 definition of the end of straight lines? A point, is it not? Shorthand
-*e* ![](img/fig6-9.png) is a straight line; the end of that straight
-line ![](img/fig6-9.png) is a point; therefore write the point. Thus
-![](img/fig6-10.png) *give*, ![](img/fig6-11.png) *love*,
-![](img/fig6-12.png) *rove*.
+*e* ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-9.png) is a straight line; the end of that straight
+line ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-9.png) is a point; therefore write the point. Thus
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-10.png) *give*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-11.png) *love*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-12.png) *rove*.
 
 ### Be
 
 As there is a very close relation between *V* and *B*, and as words with
 the prefix "be" belong to a special English class, we may without fear
 use *Mode 1* to indicate the _prefix_ "Be". This abbreviation is
-only to be used when "be" is a distinct prefix, as ![](img/fig6-13.png)
-= *behold*; it would be incorrect to write ![](img/fig6-14.png) for
+only to be used when "be" is a distinct prefix, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-13.png)
+= *behold*; it would be incorrect to write ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-14.png) for
 *bead*, this would be *Be-ad*, not *bead*. By the same reasoning as the
 _dot_ indicating *vowel-v-vowel* so the verb "be" may be shown by a
-dot; thus ![](img/fig6-15.png); the only liberty taken in using this
+dot; thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-15.png); the only liberty taken in using this
 prefix "be" is in the common words _been]{.ul}, [better_,
-_best]{.ul}, and [by_ which are written ![](img/fig6-16.png),
+_best]{.ul}, and [by_ which are written ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-16.png),
 respectively.
 
-![](img/fig6-17.png) = *bring*, compare crooked *ing*
-![](img/fig6-18.png) for *thing*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-17.png) = *bring*, compare crooked *ing*
+![]({{ site.baseurl }}/assets/teaching/pt1/fig6-18.png) for *thing*.
 
 ### Per pre pri pro and peri para
 
@@ -596,14 +596,14 @@ _on]{.ul} the line, and [below_ the line.
 The common primitive *con* or *com* may be expressed by a _dot_
 _on_ the line, or by leaving it out altogether, and writing the
 rest of the word quite close to the preceeding word, as
-![](img/fig7-1.png), ![](img/fig7-2.png), or ![](img/fig7-3.png) = *I
+![]({{ site.baseurl }}/assets/teaching/pt1/fig7-1.png), ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-2.png), or ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-3.png) = *I
 commend*.
 
 For other abbreviations by this mode, it is only necessary to use the
 accepted longhand style, and to follow the rule laid down in the Manual
 of writing the important part of the word, and the termination, e.g.
-![](img/fig7-4.png) = *different*, ![](img/fig7-5.png) *difference*,
-![](img/fig7-6.png) *ultimo*, ![](img/fig7-7.png) *interest*, and so on.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig7-4.png) = *different*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-5.png) *difference*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig7-6.png) *ultimo*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-7.png) *interest*, and so on.
 
 In words having the combination *dj* leave out the *d*, in *tch* leave
 out the *t*.
@@ -611,17 +611,17 @@ out the *t*.
 ### Below the line
 
 Sub linear writing is writing _below_ the line. We have already had
-an example of this, with the reason, in ![](img/fig7-8.png) = *ight*.
+an example of this, with the reason, in ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-8.png) = *ight*.
 From this we can easily draw another rule - in the combination *dge*,
 *age*, *gn*, or *gram* it is clear that equally as in the case of
 "ight", the *g*, as part of the termination or syllable, throws the rest
-of the word _below_ the line, e.g. ![](img/fig7-9.png) = *for gn* =
-*foreign*, ![](img/fig7-10.png) *age*, ![](img/fig7-11.png) *magnify*,
+of the word _below_ the line, e.g. ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-9.png) = *for gn* =
+*foreign*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-10.png) *age*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig7-11.png) *magnify*,
 etc.
 
 The only other cases of sub-linear writing up to this point are the
 words 'take' and 'sake' and their inflections, which are written
-!_](img/fig7-12.png), etc. The *k* throws [below_ the line, but in
+!_]({{ site.baseurl }}/assets/teaching/pt1/fig7-12.png), etc. The *k* throws [below_ the line, but in
 no other case is the *k* so treated.
 
 ## Lesson 8: Slurs
@@ -629,38 +629,38 @@ no other case is the *k* so treated.
 ### Slurs mb dv
 
 We have now to study the "slurs" commonly used. Notice the combination
-![](img/fig8-1.png) *mb*, if we can get an outline that will embrace
+![]({{ site.baseurl }}/assets/teaching/pt1/fig8-1.png) *mb*, if we can get an outline that will embrace
 both these, preserving the character of the outline - the greater you
 know will always include the less, this axiom is the basis for the
 common slurs - time will be saved. We thus get a character like this
-![](img/fig8-2.png) = ![](img/fig8-3.png), and this outline does stand
-for *mb*, as ![](img/fig8-4.png) = *member*. This character has too its
-analogue _below_ the line; look at ![](img/fig8-5.png), one outline
-![](img/fig8-6.png) will embrace both.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig8-2.png) = ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-3.png), and this outline does stand
+for *mb*, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-4.png) = *member*. This character has too its
+analogue _below_ the line; look at ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-5.png), one outline
+![]({{ site.baseurl }}/assets/teaching/pt1/fig8-6.png) will embrace both.
 
-So we get these aids to writing ![](img/fig8-7.png) for the combination
-*mb*, ![](img/fig8-8.png) for *dv*.
+So we get these aids to writing ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-7.png) for the combination
+*mb*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-8.png) for *dv*.
 
 ### Slurs mm/mn, dd, dt, and td
 
 Again, *mm* or *mn* often come together when by the rule the vowel is
-left out, as in the word *man*, ![](img/fig8-9.png), now one large curve
-will embrace both ![](img/fig8-10.png).
+left out, as in the word *man*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-9.png), now one large curve
+will embrace both ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-10.png).
 
 Similarly *dd*, *dt*, or *td* may be represented by a large
-![](img/fig8-11.png).
+![]({{ site.baseurl }}/assets/teaching/pt1/fig8-11.png).
 
 ### T slur rule for count, country, duty
 
-We have seen that as ![](img/fig8-12.png) = *count*, therefore
-![](img/fig8-13.png) = *county*, we therefore extract a rule *t* may be
+We have seen that as ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-12.png) = *count*, therefore
+![]({{ site.baseurl }}/assets/teaching/pt1/fig8-13.png) = *county*, we therefore extract a rule *t* may be
 slurred in such words as *duty*, *bounty*, etc.
 
 ### L slurred with T in wealth, health
 
 *L* may be slurred with the *t* in such words as *wealth*, *health*,
 etc., and the softly sounding vowel in terminations such as "al",
-*final* ![](img/fig8-14.png), "er" in *upper* ![](img/fig8-15.png), etc.
+*final* ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-14.png), "er" in *upper* ![]({{ site.baseurl }}/assets/teaching/pt1/fig8-15.png), etc.
 
 ## Lesson 9: Conclusion
 
@@ -690,9 +690,9 @@ The first rule applies to phrasing, and it is, "words that are closely
 connected in sense may generally be joined together, and sometimes
 slurred.
 
-Examples: ![](img/fig9-1.png) = *I should have been*,
-![](img/fig9-2.png) = *with a view to*, ![](img/fig9-3.png) = *able to
-do so*, ![](img/fig9-4.png) = *as soon as*, etc.
+Examples: ![]({{ site.baseurl }}/assets/teaching/pt1/fig9-1.png) = *I should have been*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig9-2.png) = *with a view to*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig9-3.png) = *able to
+do so*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig9-4.png) = *as soon as*, etc.
 
 #### Second rule
 
