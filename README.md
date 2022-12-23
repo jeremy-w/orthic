@@ -15,7 +15,7 @@ Orthic shorthand resources
 Run:
 
 ```
-bundle exec jekyll serve --incremental --livereload --ssl-cert localhost.pem  --ssl-key localhost-key.pem --host localhost --baseurl '
+bundle exec jekyll serve --incremental --livereload --ssl-cert localhost.pem  --ssl-key localhost-key.pem --host localhost --baseurl ''
 ```
 
 Then open the URL it shows as the server address, which is usually https://localhost:4000/.
