@@ -4,7 +4,7 @@ title: "The Teaching of Orthic Shorthand, Part 1"
 subtitle: "A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)"
 author: "W. Stevens"
 toc: true
-toc_hmax:
+toc_hmax: 3
 ---
 # The Teaching of Orthic Shorthand, Part 1
 
