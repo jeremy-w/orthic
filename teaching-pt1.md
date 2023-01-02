@@ -148,8 +148,7 @@ whether vowels or consonants, are duplicated by placing a dot under the
 letter, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-1.png) = *aa* as ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-2.png) *Baal*;
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-9.png) = *oo*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-3.png) *foot*. The distinction
 between *E* and *I* is that, when necessary, the *I* is dotted as in
-long hand. Therefore, in doubling *E* or *I*, [do not dot, but
-lengthen]{.ul}, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-4.png) *ee*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-5.png) *ei*,
+long hand. Therefore, in doubling *E* or *I*, _do not dot, but lengthen_, thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-4.png) *ee*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-5.png) *ei*,
 as ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-6.png) *reed*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-7.png) *reid*.
 
 *Ae*, *ai*, *ea*, and *ia* are formed of the letters
@@ -174,7 +173,7 @@ writing might become ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-16.png) *de
 The same reasoning applies to *ay*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-22.png), eliminate the
 angle, and make an on-written oblique curve, ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-23.png) or
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-24.png). Observe particularly that *e* and *i* being
-_up]{.ul} strokes, the curve will [rise]{.ul}; *y* being a [down_
+_up_ strokes, the curve will _rise]_; *y* being a _down_
 stroke, the curve will _fall_. As ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-25.png) *day*, the
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-26.png) curve is better than ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-27.png),
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-28.png) which might become ![]({{ site.baseurl }}/assets/teaching/pt1/fig2-29.png) *dm*, or
@@ -226,7 +225,7 @@ Compare *Ch* and *H*, these are analogous to *L* and *R*, *Ch* is
 written like longhand *O*, that is, it begins and ends at the top, and
 consequently, like *L*, lies _under_ the following vowel, as
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-10.png) *cho*; *H*, on the other hand, begins and ends at
-the _bottom]{.ul}, and consequently, like *R*, lies at the [top_ of
+the _bottom_, and consequently, like *R*, lies at the _top_ of
 a following vowel, at ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-11.png) *ha*.
 
 In the combinations *chl*, *chr*, put the *L* or *R* inside the larger
@@ -509,8 +508,8 @@ sub linear writing as detailed in this lesson.
 
 ### The modes
 
-There are three _modes]{.ul} of writing a word, either 1. [above_,
-2. _on]{.ul}, or 3. [below_ the line.
+There are three _modes_ of writing a word, either 1. _above_,
+2. _on_, or 3. _below_ the line.
 
 ### Th, vowel V vowel (Eve)
 
@@ -559,8 +558,8 @@ only to be used when "be" is a distinct prefix, as ![]({{ site.baseurl }}/assets
 *bead*, this would be *Be-ad*, not *bead*. By the same reasoning as the
 _dot_ indicating *vowel-v-vowel* so the verb "be" may be shown by a
 dot; thus ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-15.png); the only liberty taken in using this
-prefix "be" is in the common words _been]{.ul}, [better_,
-_best]{.ul}, and [by_ which are written ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-16.png),
+prefix "be" is in the common words _been_, _better_,
+_best_, and _by_ which are written ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-16.png),
 respectively.
 
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig6-17.png) = *bring*, compare crooked *ing*
@@ -589,7 +588,7 @@ position in the word.
 ### Introduction
 
 Today we take the second and third modes of contraction, that is,
-_on]{.ul} the line, and [below_ the line.
+_on_ the line, and _below_ the line.
 
 ### On the line
 
