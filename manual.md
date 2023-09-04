@@ -536,10 +536,11 @@ _This Spanish adaptation is [thanks to Medape](https://www.reddit.com/r/orthic/c
   <figcaption>Specimen of Spanish, in the fully-written style.</figcaption>
 </figure>
 
-Most accent marks and a few dots over the letter I were omitted, even in this
-fully-written style. Note that the proper name Gaudí is written as `gaudi'`
-(stacking the accent mark and the dotted I), and that a strike through the
-vowel is used for for Ü, Î and À.
+Most accent marks and a few dots over the letter **i** were omitted, even in this
+fully-written style. Note that the proper name _<span lang="es">Gaudí</span>_ is written as `gaudi'`,
+with the acute accent mark **◌́** stacked directly over the dot of the **dotted i**,
+and that a strike through the vowel is used to represent the accent marks of
+**ü**, **î**, and **à**.
 
 #### Key
 <p lang="es">Güell y Gaudí tenían en mente un proyecto al estilo de las ciudades-jardín inglesas —lo que queda manifiesto en la ortografía inicial Park Güell—, conforme a las teorías de Ebenezer Howard, que habían sido introducidas a principios del siglo xx por Cebrià de Montoliu a través de la revista Civitas (1911-1919).
