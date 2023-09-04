@@ -526,7 +526,7 @@ _This Spanish adaptation is [thanks to Medape](https://www.reddit.com/r/orthic/c
 - As usual, longhand abbreviations can be brought over, but replace dots or superscripting with mode 2. If you must, you may write a mid-dot before the superscripted portion.
   - Dots: <code><span lang="es">q.e.p.d</span></code> _<span lang="es">q. e. p. d. (que en paz descanse)</span>_
   - Superscripting: <code><span lang="es">1.a</span></code> _<span lang="es">1.<sup>a</sup> (primera)</span>_,
-      <code><span lang="es">v.os</span></code> _<span lang="es">V.<sup>os</sup></span>_.
+      <code><span lang="es">v.os</span></code> _<span lang="es">V.<sup>os</sup> (vistos)</span>_.
 - Slashed longhand abbreviations can be written with a horizontal line through the Orthic,
   or treated like dots: <code><span lang="es">c.u</span></code> _<span lang="es">c/u (cada unidad)</span>_
 
