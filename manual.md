@@ -508,6 +508,48 @@ Owing to the peculiar character of the vowel system and the facility with which 
 
 #### Key
 <p lang="fr">De tous les systèmes de gouvernement et de garanties politiques, à coup sûr le plus difficile à établir, à faire prévaloir, c’est le système fédératif&#8239;; ce système qui consiste à laisser dans chaque localité, dans chaque société particulière, toute la portion de gouvernement qui peut y rester, et à ne lui enlever que la portion indispensable au maintien de la société générale, pour la porter au centre de cette même société, et l’y constituer sous la forme de gouvernement centrale.</p>
+### Spanish
+_This Spanish adaptation is [thanks to Medape](https://www.reddit.com/r/orthic/comments/15zcl1l/orthic_adaptation_to_spanish/). It is new as of 2023 and was not included in the original 1891 text._
+
+#### Adaptations
+- **ñ**: English **straight -ing** is used to write Spanish **ñ**&nbsp;![]({{assets}}/ing_straight.png). The curved -ing is unused.
+  - **Straight -ing** may also be used to replace any inconvenient symbols, such as a currency symbol in a price list or the commercial at sign **@** in a word such as _<span lang="es">bienvenid@s</span>_.
+- **ll**: The **L** used in initials, with an entering hairline stroke, is used for word-initial **LL**&nbsp;![]({{assets}}/L_initial.png) to avoid having to dot a plain **L**.
+- **silent U**: Omit silent **U**s, as in _<span lang="es">gue, gui, que, qui</span>_.
+- **accents**:
+  - The acute accent can be written as an apostrophe over the affected letter.
+  - An optional stroke through a letter represents any diacritic or modification other than an acute accent: _Ü, Ç, À, È, Ò, Ł,_ etc.
+- **de**: A raised dot, used in English to notate _be_, instead represents _<span lang="es">de</span>_. In collocations like _<span lang="es">de la</span>_, only the second word is written, above the line.
+- **a/o omission**: The [**a**/**o**-omission rule](#omit-a-and-o-before-m-and-n) before **m**/**n** is extended to include **ñ**, but restricted to **a**/**o** following a letter other than **a e i o u**.
+
+#### Longhand Abbreviations
+- As usual, longhand abbreviations can be brought over, but replace dots or superscripting with mode 2. If you must, you may write a mid-dot before the superscripted portion.
+  - Dots: <code><span lang="es">q.e.p.d</span></code> _<span lang="es">q. e. p. d. (que en paz descanse)</span>_
+  - Superscripting: <code><span lang="es">1.a</span></code> _<span lang="es">1.<sup>a</sup> (primera)</span>_,
+      <code><span lang="es">v.os</span></code> _<span lang="es">V.<sup>os</sup></span>_.
+- Slashed longhand abbreviations can be written with a horizontal line through the Orthic,
+  or treated like dots: <code><span lang="es">c.u</span></code> _<span lang="es">c/u (cada unidad)</span>_
+
+#### Specimen
+<figure>
+  <img src="{{ assets }}/spanish-full-style-specimen.png" />
+  <figcaption>Specimen of Spanish, in the fully-written style.</figcaption>
+</figure>
+
+Most accent marks and a few dots over the letter I were omitted, even in this
+fully-written style. Note that the proper name Gaudí is written as `gaudi'`
+(stacking the accent mark and the dotted I), and that a strike through the
+vowel is used for for Ü, Î and À.
+
+#### Key
+<p lang="es">Güell y Gaudí tenían en mente un proyecto al estilo de las ciudades-jardín inglesas —lo que queda manifiesto en la ortografía inicial Park Güell—, conforme a las teorías de Ebenezer Howard, que habían sido introducidas a principios del siglo xx por Cebrià de Montoliu a través de la revista Civitas (1911-1919).
+El conde Güell tenía experiencia con la organización laboral inglesa, como se vio reflejado en su proyecto de ciudad obrera de la Colonia Güell, en Santa Coloma de Cervelló. Sin embargo, en esta ocasión el objetivo era el de una urbanización destinada a la burguesía. Asimismo, Güell se inspiró para las zonas ajardinadas en el jardín de la Fontaine de la ciudad de Nîmes, donde vivió en su juventud.</p>
+
+_This is paragraph 6 of section <span lang="es">"Historia"</span>
+of the Wikipedia article on
+[<span lang="es">Parque Güell</span>](https://es.m.wikipedia.org/w/index.php?title=Parque_Güell&oldid=152524644#Historia),
+specifically, the version saved on 18:53 17 July 2023 by Wikimedia user Canaan._
+
 
 ### German
 #### Adaptations
