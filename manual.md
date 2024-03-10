@@ -320,7 +320,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
     - ![]({{ assets }}/{{ word }}.png)&nbsp;**{{ word }}**
 {% endfor %}
     - cp. ![]({{ assets }}/write.png)&nbsp;**write**
-  - <a id="wr-join" />**wr**&nbsp;![]({{ assets }}/wr.png) is distinguished from ![]({{ assets }}/th.png)&nbsp;**th** by its size.
+  - <a id="wr-join" />**wr**&nbsp;![]({{ assets }}/wr.png) is distinguished from ![]({{ assets }}/th.png){: class="tall" }&nbsp;**th** by its size.
   - <a id="wh-join" />**wh**&nbsp;![]({{ assets }}/wh.png) is made by enlarging the _w_ hook so as to look like the _h_- circle; cp. ![]({{ assets }}/who.png)&nbsp;**who**, ![]({{ assets }}/ha.png)&nbsp;**ha**.
   - <a id="word-final-ws-join" />**ws**&nbsp;![]({{ assets }}/ws.png); at the end of a word the addition of the _s_ tick to the _w_ hook forms a loop; thus
 {% assign words = "sews cows laws" | split: " " %}{% for word in words %}
