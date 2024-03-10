@@ -18,6 +18,10 @@ Rendered into Markdown by Jeremy W. Sherman based on [the version made available
 p img, li img, td img {
   max-height: 3ex
 }
+img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
 </style>
 
 ## Introductory Remarks
