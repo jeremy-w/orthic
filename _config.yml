@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -35,7 +35,7 @@ encoding: "utf-8"
 # Theme info:
 #  https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
 # Source: https://github.com/chrisrhymes/bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: jeremy-w/bulma-clean-theme@a11y
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
