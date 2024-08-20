@@ -6,7 +6,7 @@ Orthic shorthand resources
 - Clone to get the repo
 - cd into the repo
 - Configure Ruby version management as you like it (rbenv, asdf, rvm, etc.) so you can Ruby
-    - As of 2022-12-12, GitHub Pages is using Ruby 2.7.4, per [Github Pages Dependency Versions](https://pages.github.com/versions/).
+    - As of 2024-08-18, GitHub Pages is using Ruby 3.3.4, per [Github Pages Dependency Versions](https://pages.github.com/versions/).
 - `bundle install` so you have all the dependencies
 - Make sure you have `mkcert` installed
 - `mkcert localhost` so you get a cert and key for Jekyll to serve your site via HTTPS locally.
