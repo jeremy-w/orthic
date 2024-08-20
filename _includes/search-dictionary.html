@@ -74,13 +74,14 @@
     }
   }
 
-  function showAllExamplesOfEntriesWithPlaintextMatching(query) {
-    const showAll = query === ''
+  function showAllExamplesOfEntriesWithPlaintextMatching(/** @type{string} */query) {
+    const lowercaseTrimmedQuery = query.trim().toLowerCase()
+    const showAll = lowercaseTrimmedQuery === ''
     const anchors = document.querySelectorAll('a[data-plaintext]')
     let entryCount = 0
     for (const anchor of anchors) {
-      const plaintext = anchor.dataset.plaintext.replaceAll('\\"', '"')
-      const isMatch = showAll || plaintext.includes(query)
+      const plaintext = anchor.dataset.plaintext.replaceAll('\\"', '"').toLowerCase()
+      const isMatch = showAll || plaintext.includes(lowercaseTrimmedQuery)
 
       const entry = anchor.closest('li')
       if (isMatch) {
