@@ -100,6 +100,15 @@
     }
 
     // Report results.
+    const foundMessage = 'Found ' +
+      entryCount +
+      (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
+      ' whose plaintext contains ' +
+      ('“' + query + '”.');
+    updateStatusBox({ showAll, entryCount, foundMessage });
+  }
+
+  function updateStatusBox({ showAll, entryCount, foundMessage }) {
     const statusBox = document.querySelector('#search-dictionary-results')
     statusBox.classList.remove(
       'is-info',
@@ -112,12 +121,7 @@
       statusBox.textContent = 'Search cleared. All entries and examples shown.'
     } else {
       statusBox.classList.add(entryCount > 0 ? 'is-success' : 'is-warning')
-      statusBox.textContent =
-        'Found ' +
-        entryCount +
-        (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
-        ' whose plaintext contains ' +
-        ('“' + query + '”.')
+      statusBox.textContent = foundMessage
     }
   }
 
@@ -156,20 +160,7 @@
     }
 
     // Report results.
-    const statusBox = document.querySelector('#search-dictionary-results')
-    statusBox.classList.remove(
-      'is-info',
-      'is-success',
-      'is-warning',
-      'is-hidden'
-    )
-    if (showAll) {
-      statusBox.classList.add('is-info')
-      statusBox.textContent = 'Search cleared. All entries and examples shown.'
-    } else {
-      statusBox.classList.add(entryCount > 0 ? 'is-success' : 'is-warning')
-      statusBox.textContent =
-        'Showing ' +
+    const foundMessage = 'Showing ' +
         totalMatchCount +
         (' example' + (totalMatchCount !== 1 ? 's' : '')) +
         ' across ' +
@@ -177,7 +168,7 @@
         (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
         ' with Orthic notation containing ' +
         ('“' + query + '”.')
-    }
+    updateStatusBox({ showAll, entryCount, foundMessage });
   }
 
   function searchForNothing(event) {
