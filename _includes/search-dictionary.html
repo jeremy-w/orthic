@@ -75,7 +75,8 @@
   }
 
   function showAllExamplesOfEntriesWithPlaintextMatching(/** @type{string} */query) {
-    const lowercaseTrimmedQuery = query.trim().toLowerCase()
+    query = query.trim()
+    const lowercaseTrimmedQuery = query.toLowerCase()
     const showAll = lowercaseTrimmedQuery === ''
     const anchors = document.querySelectorAll('a[data-plaintext]')
     let entryCount = 0
@@ -121,6 +122,7 @@
   }
 
   function showOnlyExamplesOfEntriesWithNotationMatching(query) {
+    query = query.trim()
     const showAll = query === ''
     const anchors = document.querySelectorAll('a[data-plaintext]')
     let entryCount = 0
