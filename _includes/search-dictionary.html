@@ -99,6 +99,8 @@
       }
     }
 
+    showOnlyNonEmptySections()
+
     // Report results.
     const foundMessage = 'Found ' +
       entryCount +
@@ -106,6 +108,24 @@
       ' whose plaintext contains ' +
       ('“' + query + '”.');
     updateStatusBox({ showAll, entryCount, foundMessage });
+  }
+
+  function showOnlyNonEmptySections() {
+    const sectionHeaders = document.querySelectorAll('div.content h3[id]')
+    for (const sectionHeader of sectionHeaders) {
+      const ulElement = sectionHeader.nextElementSibling
+      const items = Array.from(ulElement.children).filter(it => it.tagName === 'LI')
+      const hiddenItems = items.filter(it => it.classList.contains('is-hidden'))
+      const shouldHide = items.length <= hiddenItems.length
+      console.log({shouldHide, sectionHeader, itemCount: items.length, hiddenItemCount: hiddenItems.length})
+      if (shouldHide) {
+        sectionHeader.classList.add('is-hidden')
+        ulElement.classList.add('is-hidden')
+      } else {
+        sectionHeader.classList.remove('is-hidden')
+        ulElement.classList.remove('is-hidden')
+      }
+    }
   }
 
   function updateStatusBox({ showAll, entryCount, foundMessage }) {
@@ -159,15 +179,17 @@
       totalMatchCount += matchCount
     }
 
+    showOnlyNonEmptySections()
+
     // Report results.
     const foundMessage = 'Showing ' +
-        totalMatchCount +
-        (' example' + (totalMatchCount !== 1 ? 's' : '')) +
-        ' across ' +
-        entryCount +
-        (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
-        ' with Orthic notation containing ' +
-        ('“' + query + '”.')
+      totalMatchCount +
+      (' example' + (totalMatchCount !== 1 ? 's' : '')) +
+      ' across ' +
+      entryCount +
+      (' entr' + (entryCount !== 1 ? 'ies' : 'y')) +
+      ' with Orthic notation containing ' +
+      ('“' + query + '”.')
     updateStatusBox({ showAll, entryCount, foundMessage });
   }
 
