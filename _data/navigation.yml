@@ -14,10 +14,12 @@
 - name: Resources
   link: /#
   dropdown:
-    - name: Cheatsheet
+    - name: Cheatsheet (PDF)
       link: '/assets/Orthic System Survey Cheatsheet D2 2020-02-19.pdf'
     - name: Reading Material
       link: /reading
+    - name: Clarey's Orthic (1911; PDF)
+      link: '/assets/clarey/Orthic Extended 1911 Clarey.pdf'
     - name: Anki Deck
       link: /anki-deck-available
     - name: Ruled Paper
