@@ -460,32 +460,47 @@ arbitrary; it is not; students will see the logic at the next lesson.
 ### ou for ound or ount
 
 Show the importance of ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-2.png) *ou* standing for *ound* or
-*ount*. Emphasize this by such words as ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-3.png) *pound*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-4.png) *sound*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-5.png) *count*; hence
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-6.png) *counter*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-7.png) *county*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-8.png) *country*.
+*ount*. Emphasize this by such words as 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-3.png) *pound*,
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-4.png) *sound*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-5.png) *count*; hence
+  * ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-6.png) *counter*,
+  * ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-7.png) *county*,
+  * ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-8.png) *country*.
 
 ### Common words
 
 Add the following common words:
 
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-9.png) *aso* = *also*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-10.png) *ea* = *each*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-11.png) *ay* = *any*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-12.png) is *because*,
-therefore ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-13.png) = *cause*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-14.png) being
-*child*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-15.png) = *children*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-16.png) =
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-9.png) *aso* = *also*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-10.png) *ea* = *each*,
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-11.png) *ay* = *any*. 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-12.png) is *because*,
+therefore ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-13.png) = *cause*.
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-14.png) being
+*child*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-15.png) = *children*.
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-16.png) =
 *from*, show clearly that ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-17.png) being *for*,
-!_]({{ site.baseurl }}/assets/teaching/pt1/fig5-18.png) is [form_, not *from*. ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-19.png) =
-*great*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-20.png) = *much* (*ch* curled inside),
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-21.png) = *that* (*th* left out and *t* written above the
-line), ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-22.png) = *already*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-23.png) = *acing*
-= *according*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-24.png) = *after*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-25.png) =
-*bth* = *both*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-26.png) *el* = *else*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-27.png)
-*e'en* = *even*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-28.png) = *except*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-29.png)
-*lp* = *help*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-30.png) *kn* = *know*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-31.png)
-*lile* = *little*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-32.png) *ler* = *letter*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-33.png) *pt* = *part*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-34.png) *s* = *sir*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-35.png) *rk* = *work*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-36.png) = *word*,
-![]({{ site.baseurl }}/assets/teaching/pt1/fig5-37.png) = both *would* and *world*.
+![]({{ site.baseurl }}/assets/teaching/pt1/fig5-18.png) is _form_, not *from*.
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-19.png) = *great*,
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-20.png) = *much* (*ch* curled inside),
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-21.png) = *that* (*th* left out and *t* written above the line), 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-22.png) = *already*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-23.png) = *acing* = *according*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-24.png) = *after*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-25.png) = *bth* = *both*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-26.png) *el* = *else*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-27.png) *e'en* = *even*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-28.png) = *except*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-29.png) *lp* = *help*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-30.png) *kn* = *know*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-31.png) *lile* = *little*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-32.png) *ler* = *letter*,
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-33.png) *pt* = *part*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-34.png) *s* = *sir*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-35.png) *rk* = *work*, 
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-36.png) = *word*,
+* ![]({{ site.baseurl }}/assets/teaching/pt1/fig5-37.png) = both *would* and *world*.
 
 ### Conclusion
 
