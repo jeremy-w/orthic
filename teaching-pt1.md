@@ -508,8 +508,10 @@ sub linear writing as detailed in this lesson.
 
 ### The modes
 
-There are three _modes_ of writing a word, either 1. _above_,
-2. _on_, or 3. _below_ the line.
+There are three _modes_ of writing a word, either
+1. _above_,
+2. _on_, or
+3. _below_ the line.
 
 ### Th, vowel V vowel (Eve)
 
