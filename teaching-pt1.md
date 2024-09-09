@@ -279,7 +279,7 @@ of a word, _except before R_. (*Wh* we have already explained)
 Before *R* _final W ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-35.png) is used_, thus
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-36.png), the reasoning that written the other way
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-37.png), the combination really becomes *wer*, not *wr*
-only. Note that *W* !_]({{ site.baseurl }}/assets/teaching/pt1/fig3-38.png) begins [on_ the line, not
+only. Note that *W* ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-38.png) begins _on_ the line, not
 above it as ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-39.png) = *t*.
 
 Another way to remember *W* is to point out that whether initial or
