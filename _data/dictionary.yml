@@ -7309,7 +7309,7 @@
 - plaintext: 'through'
   orthic:
     - imagePath: '/assets/manual/Specimen_of_the_Ordinary_Style_through.png'
-      notation: '^o'
+      notation: '^ro'
       source: 'Manual, "Specimen of the Ordinary Style"'
       style: 'ordinary'
   notes: ''
