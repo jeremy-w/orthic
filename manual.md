@@ -135,7 +135,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word | slice: 0,2 }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}.
   - <a id="ay-join" />**Ay** may be curved either way. The form ![under-ay]({{ assets }}/ay_under.png "under-ay") is used whenever it joins more clearly or easily than the form ![over-ay]({{ assets }}/ay_over.png "over-ay"), as after {% assign words = 'D T J Qu M N V' | split: ' ' %}{% for word in words -%}
-    <img src="{{ assets }}/{{ word }}.png" alt="{{ word }}" title="{{ word }}" />
+    <img src="{{ assets }}/{{ word }}.png" alt="{{ word }} " title="{{ word }}" />
 {%- endfor %} thus, {% assign words = 'days quay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}; cp. {% assign words = 'says hay' | split: ' ' %}{% for word in words -%}
