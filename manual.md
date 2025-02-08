@@ -140,7 +140,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
 {%- endfor %}; cp. {% assign words = 'says hay' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor %}.
+{%- endfor %}. [So basically, use the smoothed **y-a** form after forward horizontal curves and after descenders. See also when to use the curved **-ing**, which is basically a double-size smoothed **y-a.**]
 
 - <a id="B-join" />**B**&nbsp;![]({{ assets }}/B.png) is written like the letter ![lowercase cursive b]({{ assets }}/longhand_b.png "lowercase cursive b"), but with a more open loop and without the hook upwards at the end. It forms the compounds:
 {% for it in site.data.manual.compounds.b %}
