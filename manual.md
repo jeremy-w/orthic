@@ -170,7 +170,7 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
     <img src="{{ assets }}/{{ word }}.png" alt="{{ word | slice: 0,1 }}" title="{{ word | slice: 0,1 }}" />
 {%- endfor %}. An angle must always be made after ![over-ea]({{ assets }}/ea_over.png) before ![t]({{ assets }}/T.png "t")![d]({{ assets }}/D.png "d") or ![s]({{ assets }}/S_noarrow.png "s"); thus {% assign words = 'seat seas eat real pearl years' | split: ' ' %}{% for word in words -%}
     <img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**{% unless forloop.last %}, {% endunless %}
-{%- endfor %}.
+{%- endfor %}. [Yes, this means the default form for **ea** is a smoothed **a-e,** so it’s usually backwards. You only use the smoothed *e-a* form after the consonants – including **y** and excepting **c** – in “subcompany”.]
   - <a id="ee-join" />The diphthongs {% assign words = 'ee ei ie' | split: ' ' %}{% for word in words -%}
     **{{ word }}**&nbsp;<img src="{{ assets }}/{{ word }}.png" />{% unless forloop.last %}, {% endunless %}
 {%- endfor %} are all written upwards much more steeply than _u._ ![]({{ assets }}/steep.png)&nbsp;**steep**, cp. ![]({{ assets }}/stupid.png)&nbsp;**stupid**. **eu**&nbsp;![]({{ assets }}/eu.png), **ew**&nbsp;![]({{ assets }}/ew.png) ![]({{ assets }}/new.png)&nbsp;**new**.
