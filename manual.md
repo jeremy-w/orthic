@@ -153,14 +153,12 @@ But YAML maps aren't necessarily ordered, so let's roll with it.
 {%- endfor %}, cp. {% assign word = "ahead" %}<img src="{{ assets }}/{{ word }}.png" />&nbsp;**{{ word }}**.
   - Other compounds are:
 {% for it in site.data.manual.compounds.c %}
-    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png) ![]({{ assets }}/{{ it[1] }}.png)&nbsp;{{ it[1] }}
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;<img src="{{ assets }}/{{ it[0] }}.png" alt="" {% if it[2] %}class="tall"{% endif %} /> <img src="{{ assets }}/{{ it[1] }}.png" alt="" {% if it[2] %}class="tall"{% endif %} />&nbsp;{{ it[1] }}
 {% endfor %}
 
 - <a id="D-join" />**D**&nbsp;![]({{ assets }}/D.png) and ![]({{ assets }}/T.png)&nbsp;**t** have similar characters, but that for _d_ is made much flatter, and about three times as long. It forms the compounds:
 {% for it in site.data.manual.compounds.d %}
-  - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;![]({{ assets }}/{{ it[0] }}.png)
-  {%- for example in it offset: 1 %} ![]({{ assets }}/{{ example }}.png)&nbsp;{{ example }}
-  {%- endfor -%}
+    - <a id="{{it[0]}}-join" />{{ it[0] }}&nbsp;<img src="{{ assets }}/{{ it[0] }}.png" alt="" {% if it[2] %}class="tall"{% endif %} />{% if it[1] %} <img src="{{ assets }}/{{ it[1] }}.png" alt="" {% if it[2] %}class="tall"{% endif %} />&nbsp;{{ it[1] }}{% endif %}
 {% endfor %}
 
   [Jeremy: The _Supplement_ published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
