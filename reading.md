@@ -21,7 +21,7 @@ But there are some!
 
 #### Modern Publications
 - [_The Cask of Amontillado_]({{site.baseurl}}/assets/reading/Cask of Amontillado 2020 Sherman.pdf) by Edgar Allan Poe, written by Jeremy W. Sherman in early 2020 (14 pages)
-  - Key: [Wikisource](https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe/Volume_1/The_Cask_of_Amontillado)
+  - Key: [Wikisource](https://en.m.wikisource.org/w/index.php?oldid=6404396&title=The_Works_of_the_Late_Edgar_Allan_Poe/Volume_1/The_Cask_of_Amontillado)
 
 ### Ordinary Style
 Texts in the ordinary style are much easier to come by.
