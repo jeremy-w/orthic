@@ -100,8 +100,10 @@ nature of analogous letter, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-1
 Give the following aids to memory: analogous characters
 ![C G]({{ site.baseurl }}/assets/teaching/pt1/fig1-13.png "C G"), as in longhand, small c, large C adding loops =
 ![G]({{ site.baseurl }}/assets/teaching/pt1/fig1-14.png "G"). ![A, O]({{ site.baseurl }}/assets/teaching/pt1/fig1-15.png "A, O"), *O* = long *A*. *T*, *D*, analogous sounds and shapes: also *M*, *N*;
-![S]({{ site.baseurl }}/assets/teaching/pt1/fig1-16.png ""), *S*, down stroke, has its larger analogue in
-![P]({{ site.baseurl }}/assets/teaching/pt1/fig1-17.png "") *P*; ![Y]({{ site.baseurl }}/assets/teaching/pt1/fig1-18.png "") *Y* in
+![S]({{ site.baseurl }}/assets/teaching/pt1/fig1-16.png ""),
+*S*, down stroke, has its larger analogue in
+![P]({{ site.baseurl }}/assets/teaching/pt1/fig1-17.png "") *P*;
+![Y]({{ site.baseurl }}/assets/teaching/pt1/fig1-18.png "") *Y* in
 ![-ing]({{ site.baseurl }}/assets/teaching/pt1/fig1-19.png "") ing. ![B]({{ site.baseurl }}/assets/teaching/pt1/fig1-20.png) *above* line is *J*
 ![J]({{ site.baseurl }}/assets/teaching/pt1/fig1-21.png "") *below* line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-22.png) *F*,
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-23.png) *K*; are analogous; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-24.png) *Q*, and
