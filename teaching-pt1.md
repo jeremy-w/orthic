@@ -98,14 +98,14 @@ nature of analogous letter, as ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-1
 ### Analogous characters
 
 Give the following aids to memory: analogous characters
-![C G]({{ site.baseurl }}/assets/teaching/pt1/fig1-13.png "C G"), as in longhand, small c, large C adding loops =
-![G]({{ site.baseurl }}/assets/teaching/pt1/fig1-14.png "G"). ![A, O]({{ site.baseurl }}/assets/teaching/pt1/fig1-15.png "A, O"), *O* = long *A*. *T*, *D*, analogous sounds and shapes: also *M*, *N*;
-![S]({{ site.baseurl }}/assets/teaching/pt1/fig1-16.png ""),
+![C G]({{ site.baseurl }}/assets/teaching/pt1/fig1-13.png), as in longhand, small c, large C adding loops =
+![G]({{ site.baseurl }}/assets/teaching/pt1/fig1-14.png). ![A, O]({{ site.baseurl }}/assets/teaching/pt1/fig1-15.png), *O* = long *A*. *T*, *D*, analogous sounds and shapes: also *M*, *N*;
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-16.png),
 *S*, down stroke, has its larger analogue in
-![P]({{ site.baseurl }}/assets/teaching/pt1/fig1-17.png "") *P*;
-![Y]({{ site.baseurl }}/assets/teaching/pt1/fig1-18.png "") *Y* in
-![-ing]({{ site.baseurl }}/assets/teaching/pt1/fig1-19.png "") ing. ![B]({{ site.baseurl }}/assets/teaching/pt1/fig1-20.png) *above* line is *J*
-![J]({{ site.baseurl }}/assets/teaching/pt1/fig1-21.png "") *below* line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-22.png) *F*,
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-17.png) *P*;
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-18.png) *Y* in
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-19.png) ing. ![B]({{ site.baseurl }}/assets/teaching/pt1/fig1-20.png) *above* line is *J*
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-21.png) *below* line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-22.png) *F*,
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-23.png) *K*; are analogous; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-24.png) *Q*, and
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-25.png) *V* also, the one top-joined, the other open.
 
@@ -115,9 +115,9 @@ The chief difficulty lies in remembering the circles; try the following
 aids:
 
 1. Analogy with the longhand *H*, *L*, *R*.
-2. ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-26.png "") *H* has its diminutive analogue in
-![]({{ site.baseurl }}/assets/teaching/pt1/fig1-27.png "") *R*, both lie at the \top_ of a following
-line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-28.png "") *ch* and ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-29.png "") *L* are
+2. ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-26.png) *H* has its diminutive analogue in
+![]({{ site.baseurl }}/assets/teaching/pt1/fig1-27.png) *R*, both lie at the _top_ of a following
+line; ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-28.png) *ch* and ![]({{ site.baseurl }}/assets/teaching/pt1/fig1-29.png) *L* are
 similar, and lie at the _bottom_ of a line.
 3. *R* turns against the clock, from **R**ight to **L**eft; *L* turns with
 the clock from **L**eft to **R**ight; or, *R* lies ove**R** a following
