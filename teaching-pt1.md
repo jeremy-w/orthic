@@ -214,7 +214,7 @@ the *R* at the top or _right_ side; similarly ![]({{ site.baseurl }}/assets/teac
 ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-6.png) *fr*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-7.png) *ml*, ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-8.png)
 *mr*.
 
-Note that it is usual to mite a vowel following *R* attached to an
+Note that it is usual to write a vowel following *R* attached to an
 upright letter _from the top_, as in ![]({{ site.baseurl }}/assets/teaching/pt1/fig3-9.png) *pra*,
 this is to save time, and to avoid going round the circle twice.
 
