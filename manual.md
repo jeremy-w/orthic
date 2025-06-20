@@ -492,7 +492,7 @@ The produce of tropical countries, of mines, and of machinery, was positively de
  <figcaption>John 2:14–25, 3:1–2, KJV.</figcaption>
 </figure>
 
-[For the [Key to the John II passage](https://www.biblehub.com/kjv/john/2.htm), see any copy of the King James Version of the Bible.]
+[For the [Key to the John II passage](https://www.biblegateway.com/passage/?search=John%202&version=KJV), see any copy of the King James Version of the Bible.]
 
 ## Application to Foreign Languages
 Owing to the peculiar character of the vowel system and the facility with which the characters can be joined, the alphabet of Orthographic Cursive is immediately applicable with very slight modifications to almost all foreign languages. It is impossible here to work out the subject fully, but the following specimens will be of interest as shewing the capabilities of the system. They are written almost in full, containing only one or two trifling abbreviations, such as _-mt_ for _-ment,_ analogous to those used in the ordinary style of English.
