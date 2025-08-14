@@ -51,6 +51,25 @@ There are numerous specimens between the Manual and Supplement, as well as sever
 - ["Local Gov't"]({{site.baseurl}}/assets/manual/ReportingSpecimen.png) from the Manual, written by Callendar around 1891 (1 page)
     - Key: [Manual section]({{site.baseurl}}/manual#key-8)
 
+#### From the Teaching Course
+- [Psalms 21–39 in ordinary style]({{ site.baseurl }}/assets/reading/Orthic Psalms 21-39 (Ordinary Style) 1896 Stevens.pdf) serves as both exercise book and exam for Lessons 4 through 5. (1896; 16 pages of shorthand)
+
+#### Other Cambridge Shorthand Society Publications
+- [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_]({{site.baseurl}}/assets/reading/Aesop's Fables in Orthic.pdf)
+    - Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match.
+    - Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.
+- [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)
+    - Key: Any authorized version of the KJV will do. You'll also find this write-up of [Stevens' abbreviating principles](https://redd.it/ag2pq0) helpful, as he uses some tricks covered in neither Manual nor Supplement.
+
+#### Modern Publications
+Watch this space. :)
+
+### Abbreviated Style
+
+The abbreviated style incorporates several abbreviating techniques that had previously been thought suitable only for reporting, but that experience prior to publication of the Supplement proved suitable for correspondence.
+
+**Note:** The Psalms are likely following the Book of Common Prayer, not the KJV.
+
 #### From the Supplement
 - "Advantages of the Orthographic Basis" from the Manual, written by Callendar around 1892 (3 pages)
     - [Page 1]({{site.baseurl}}/assets/supplement/OrthographicBasisPage1.jpg)
@@ -71,25 +90,6 @@ There are numerous specimens between the Manual and Supplement, as well as sever
 - ["Lord Salisbury at the Mansion House"]({{site.baseurl}}/assets/supplement/VerbatimPage1.jpg) from the Supplement, written by Callendar around 1892 (1 page)
     - **Note:** This is labeled as reporting style, but it's a blurry line indeed.
     - Key: [Supplement section]({{site.baseurl}}/supplement#key-lord-salisbury-at-the-mansion-house)
-
-#### From the Teaching Course
-- [Psalms 21–39 in ordinary style]({{ site.baseurl }}/assets/reading/Orthic Psalms 21-39 (Ordinary Style) 1896 Stevens.pdf) serves as both exercise book and exam for Lessons 4 through 5. (1896; 16 pages of shorthand)
-
-#### Other Cambridge Shorthand Society Publications
-- [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_]({{site.baseurl}}/assets/reading/Aesop's Fables in Orthic.pdf)
-    - Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match.
-    - Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.
-- [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)
-    - Key: Any authorized version of the KJV will do. You'll also find this write-up of [Stevens' abbreviating principles](https://redd.it/ag2pq0) helpful, as he uses some tricks covered in neither Manual nor Supplement.
-
-#### Modern Publications
-Watch this space. :)
-
-### Abbreviated Style
-
-The abbreviated style incorporates several abbreviating techniques that had previously been thought suitable only for reporting, but that experience prior to publication of the Supplement proved suitable for correspondence.
-
-**Note:** Several of the readings under Ordinary need recategorizing to this section. Also, the Psalms are likely following the Book of Common Prayer, not the KJV.
 
 #### From the Teaching Course
 - [Psalms 40–65 in abbreviated style]({{ site.baseurl }}/assets/reading/Orthic Psalms 40-65 (Abbreviated Style) 1896 Stevens.pdf) serves as both exercise book and exam for Lessons 6 through 8, at which point you’re expected to be writing 60 WPM and reading fluently.
