@@ -20,6 +20,10 @@
       link: /reading
     - name: Clarey's Orthic (1911; PDF)
       link: '/assets/clarey/Orthic Extended 1911 Clarey.pdf'
+    - name:  'Orthic Consolidated - Reference'
+      link: 'https://cricketbr.github.io/Crickets-Shorthand-Site/orth-cnsl-ref.html'
+    - name: 'Orthic Words from Examples'
+      link: 'https://cricketbr.github.io/Crickets-Shorthand-Site/orth-cnsl-words-examples.html'
     - name: Anki Deck
       link: /anki-deck-available
     - name: Ruled Paper
